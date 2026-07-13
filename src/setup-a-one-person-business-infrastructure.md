@@ -1,131 +1,131 @@
-# 搭建一人企业基础设施
+# Dựng hạ tầng doanh nghiệp một người
 
-通过前文的讨论，我们认为一人企业的基础设施需要具备三个核心容器和四项关键能力：用户池、内容池、产品池；触达能力、支付能力、自动化能力和众包能力。
+Qua thảo luận ở các phần trước, chúng tôi cho rằng hạ tầng của doanh nghiệp một người cần có ba "bể chứa" cốt lõi và bốn năng lực then chốt: user pool, content pool, product pool; năng lực tiếp cận, năng lực thanh toán, năng lực tự động hóa và năng lực crowdsourcing.
 
 ![](images/image-39-1024x457.png)
 
-基础设施的三池四能力
+Ba pool bốn năng lực của hạ tầng
 
-明确了目标以后，我们就可以开始进入搭建阶段。
+Xác định rõ mục tiêu rồi, chúng ta có thể bước vào giai đoạn dựng.
 
-搭建方式
+Cách dựng
 ----
 
-首先要做的选择是，是自行开发或雇人开发（外包）；还是基于开源项目搭建，比如基于 WordPress 搭建。
+Lựa chọn đầu tiên phải đưa ra là: tự phát triển hoặc thuê người phát triển (outsourcing); hay dựng trên nền dự án open source, ví dụ dựng trên WordPress.
 
 ![](images/image-40-1024x641.png)
 
-搭建方式的选择
+Lựa chọn cách dựng
 
-不同的团队有自己不同的选择，恰巧我们两边都选过，这里分享下我们自己的经历。
+Mỗi đội nhóm có lựa chọn riêng; tình cờ chúng tôi đã chọn cả hai, ở đây xin chia sẻ trải nghiệm của chính chúng tôi.
 
-### 自行开发
+### Tự phát triển
 
-我们最初选择了自行开发，因为当时觉得WordPress过于臃肿。然而，现在回想起来，更多是因为认为自己的开发能力充足，误以为时间和技能成本较低，这最终被证明是一种误判。
+Ban đầu chúng tôi chọn tự phát triển, vì lúc đó thấy WordPress quá cồng kềnh. Nhưng giờ nghĩ lại, phần nhiều là do tự cho rằng năng lực phát triển của mình dư dả, lầm tưởng chi phí thời gian và kỹ năng thấp — điều cuối cùng được chứng minh là một phán đoán sai.
 
-从2019年到2022年，我们主要采用自行开发的方式，期间我们主要开发了网课平台，包括网课网站以及一些沙箱、在线运行环境，全部是独立开发的平台。
+Từ 2019 đến 2022, chúng tôi chủ yếu tự phát triển; trong thời gian đó chúng tôi phát triển chủ yếu nền tảng khóa học online, gồm website khóa học cùng một số sandbox, môi trường chạy trực tuyến — toàn bộ là nền tảng tự phát triển độc lập.
 
-自行开发的优点在于完全可控，可以实现像素级的定制，将脑中的功能和细节百分百实现。
+Ưu điểm của tự phát triển là kiểm soát hoàn toàn, tùy biến được đến từng pixel, hiện thực hóa 100% tính năng và chi tiết trong đầu.
 
-但缺点是工作量巨大，特别是当开发多个业务系统后，维护成本极高。我们已经从多个项目中抽离出公用部分，形成了自有的全栈框架，前端和后端统一，但框架的维护成本依然很高。比如，自有框架升级后，新项目自然可以直接使用，但可能需要回过头去升级老项目，这非常痛苦。
+Nhưng nhược điểm là khối lượng công việc khổng lồ, đặc biệt khi đã phát triển nhiều hệ thống nghiệp vụ thì chi phí bảo trì cực cao. Chúng tôi đã tách phần dùng chung từ nhiều dự án, hình thành framework full-stack riêng, thống nhất frontend và backend, nhưng chi phí bảo trì framework vẫn rất cao. Ví dụ, framework nâng cấp xong, dự án mới đương nhiên dùng ngay được, nhưng có thể phải quay lại nâng cấp các dự án cũ — điều này rất đau khổ.
 
-### 基于WordPress混搭
+### Phối trộn trên nền WordPress
 
-到了2023年和2024年，我们意识到大量开发时间被花在了本可以避免的事务上，而且业务量的增加最终可能需要我们开发一套内容管理系统（CMS），这实际上又等同于在做一个WordPress。因此，我们又重新采用了WordPress。
+Đến 2023 và 2024, chúng tôi nhận ra lượng lớn thời gian phát triển bị tiêu vào những việc vốn có thể tránh, hơn nữa khối lượng nghiệp vụ tăng lên cuối cùng có thể buộc chúng tôi phát triển một hệ quản trị nội dung (CMS) — thực chất lại tương đương làm một WordPress nữa. Vì vậy, chúng tôi quay lại dùng WordPress.
 
-基于WordPress，其优点首先是通用功能都已实现，一些稍具特色的功能可以通过插件集成。例如，我们在搭建方糖07这个门户网站时，如果自行开发，至少需要半年才能迭代完细节。但通过使用WordPress并购买一个600元的主题，我们很快搭建完成、并使其达到了不错的阅读体验。
+Dựng trên WordPress, ưu điểm trước hết là các tính năng phổ thông đều có sẵn, một số tính năng hơi đặc thù có thể tích hợp qua plugin. Ví dụ, khi dựng cổng thông tin Fangtang 07, nếu tự phát triển, ít nhất phải mất nửa năm mới lặp xong hết chi tiết. Nhưng nhờ dùng WordPress và mua một theme 600 tệ, chúng tôi dựng xong rất nhanh và đạt trải nghiệm đọc khá tốt.
 
-WordPress的REST接口也非常完善，可以通过插件在API层面实现功能扩展，甚至可以开发独立的前端，通过调用REST API来进行拓展。
+REST API của WordPress cũng rất hoàn thiện, có thể mở rộng tính năng ở tầng API qua plugin, thậm chí phát triển frontend độc lập, gọi REST API để mở rộng.
 
-非要找缺点的话，功能完成度和潜在的性能问题是WordPress的两大问题。功能完成度的问题在于，在可以偷懒（通过安装和购买插件实现）的情况下，可能最终实现的效果和我们想要的效果有10%的偏差。当然这肯定不是WordPress的错!😂
+Nếu cứ phải tìm nhược điểm, thì độ hoàn thiện tính năng và vấn đề hiệu năng tiềm ẩn là hai vấn đề lớn của WordPress. Vấn đề độ hoàn thiện là: khi có thể "lười" (cài và mua plugin để làm), kết quả cuối cùng có thể lệch 10% so với hiệu quả ta muốn. Tất nhiên đây chắc chắn không phải lỗi của WordPress! 😂
 
-另一个潜在问题是，使用WordPress运营大规模的用户或内容网站时，性能可能成问题。尽管大部分性能问题由插件导致，但这仍是一个挑战。不过我们的产品用户数距离这个规模很远，一直在努力遇到这个问题中。
+Vấn đề tiềm ẩn còn lại là khi dùng WordPress vận hành website có lượng người dùng hoặc nội dung quy mô lớn, hiệu năng có thể thành vấn đề. Dù phần lớn vấn đề hiệu năng do plugin gây ra, đây vẫn là một thách thức. Có điều số người dùng sản phẩm của chúng tôi còn cách quy mô đó rất xa — vẫn đang nỗ lực để "được" gặp vấn đề này.
 
 ![](images/image-41-1024x467.png)
 
-搭建方式优缺点比较
+So sánh ưu nhược điểm các cách dựng
 
-### 最佳实践
+### Thực hành tốt nhất
 
-我们认为的最佳实践是，首先基于WordPress做我们业务的最小可行产品（MVP）和众筹，同时也可以把产品的官网和文档放在这个平台上。随着业务的增长和用户量的增加，我们再自行开发。
+Thực hành tốt nhất theo chúng tôi là: trước hết dựng trên WordPress sản phẩm khả thi tối thiểu (MVP) của nghiệp vụ và làm crowdfunding, đồng thời có thể đặt website chính thức và tài liệu sản phẩm trên nền tảng này. Khi nghiệp vụ tăng trưởng và lượng người dùng tăng lên, ta mới tự phát triển.
 
 ![](images/image-42-1024x575.png)
 
-最佳实践
+Thực hành tốt nhất
 
-即使自行开发，我们也可以从三个层次上和 WordPress 进行混搭，分别脱离界面、后端和数据库的束缚。
+Kể cả khi tự phát triển, chúng ta vẫn có thể phối trộn với WordPress ở ba tầng, lần lượt thoát khỏi ràng buộc về giao diện, backend và cơ sở dữ liệu.
 
-首先，我们可以通过 REST 接口将 WordPress 作为后端使用，节省大量工作量。
+Trước hết, có thể dùng WordPress làm backend thông qua REST API, tiết kiệm lượng lớn công việc.
 
-然后，如果 WordPress 的后台系统效率依然不够高，我们可以共享数据库，自行开发一套新系统，直接从WordPress 的数据库读取数据，这样新系统的性能由我们的代码保证，数据共通，可以同时运行。
+Sau đó, nếu hệ thống quản trị của WordPress vẫn chưa đủ hiệu quả, ta có thể dùng chung cơ sở dữ liệu: tự phát triển một hệ thống mới, đọc dữ liệu trực tiếp từ database của WordPress. Như vậy hiệu năng hệ thống mới do code của ta bảo đảm, dữ liệu thông suốt, hai bên chạy song song được.
 
-如果这样依然不够，我们还可以更进一步，建立一个完全独立的系统，但通过统一登录让用户可以关联起来。我们可以 WordPress 账户和微信关联。新系统虽然数据库不同，但通过微信登录走统一的Open ID，我们也可以定位到用户相关的信息。如果需要更多的用户信息，我们可以通过REST API的方式再读取相应数据。
+Nếu vậy vẫn chưa đủ, ta còn có thể tiến thêm một bước: xây một hệ thống hoàn toàn độc lập, nhưng liên kết người dùng qua đăng nhập thống nhất. Ta có thể liên kết tài khoản WordPress với WeChat. Hệ thống mới tuy khác cơ sở dữ liệu, nhưng qua đăng nhập WeChat dùng chung Open ID, ta vẫn định vị được thông tin liên quan của người dùng. Nếu cần thêm thông tin người dùng, có thể đọc dữ liệu tương ứng qua REST API.
 
-通过这种多层次的混搭，我们可以实现最小量的开发，又拥有界面和性能的自由，同时尽可能降低维护成本。
+Qua kiểu phối trộn nhiều tầng như vậy, chúng ta có thể hiện thực hóa lượng phát triển tối thiểu, lại có tự do về giao diện và hiệu năng, đồng thời giảm chi phí bảo trì hết mức có thể.
 
-参考方案：方糖OPB
+Phương án tham khảo: Fangtang OPB
 ----------
 
-方糖OPB 是我们开发的系列 WordPress 插件，和 BudCoder、FlowDeer 配合使用，可以完成对「三池四能力」的高度覆盖。
+Fangtang OPB là bộ plugin WordPress do chúng tôi phát triển; dùng phối hợp với BudCoder và FlowDeer có thể phủ ở mức độ cao "ba pool bốn năng lực".
 
-### 产品界面
+### Giao diện sản phẩm
 
-以下是它的界面，我们最近可能会做一些改动，以下截图供大家参考。
+Dưới đây là giao diện của nó; gần đây chúng tôi có thể sẽ chỉnh sửa đôi chút, ảnh chụp màn hình dưới đây để mọi người tham khảo.
 
-#### 微信账号整合
+#### Tích hợp tài khoản WeChat
 
 ![](images/image-43-1024x577.png)
 
-1.  我们添加了邀请码注册功能。这样产品还没有上线时，可以进行内测，只有知道邀请码的人才能登录。
-2.  因为我们要支持个人运营，所以我们通过消息上行的方式来实现未认证公众号的登录。
-3.  回调转发功能支持一个公众号在多个网站上使用。一旦接收到消息，会先转发到目标地址；如果目标地址不进行处理，再用当前网站的设置处理。
+1.  Chúng tôi thêm tính năng đăng ký bằng mã mời. Nhờ vậy khi sản phẩm chưa ra mắt, có thể chạy thử nghiệm nội bộ — chỉ ai biết mã mời mới đăng nhập được.
+2.  Vì phải hỗ trợ vận hành với tư cách cá nhân, chúng tôi hiện thực hóa đăng nhập cho official account chưa xác thực thông qua cơ chế tin nhắn chiều lên (người dùng nhắn tin đến).
+3.  Tính năng chuyển tiếp callback hỗ trợ một official account dùng trên nhiều website. Khi nhận được tin nhắn, nó chuyển tiếp đến địa chỉ đích trước; nếu địa chỉ đích không xử lý, mới xử lý theo cấu hình của website hiện tại.
 
-#### 微信支付
+#### WeChat Pay
 
 ![](images/image-44-1024x579.png)
 
-1.  标准的微信支付能力设置。
-2.  收银台功能，包含支付APP和订单管理。只需一个页面跳转和一个HTTP请求验证就可以完成交易。
-3.  实现了WooCommerce微信网关，包括官方微信和XorPay。所有支持WooCommerce的插件可以直接使用。
+1.  Cấu hình năng lực WeChat Pay tiêu chuẩn.
+2.  Tính năng quầy thanh toán, gồm ứng dụng thanh toán và quản lý đơn hàng. Chỉ cần một lần chuyển trang và một request HTTP xác thực là hoàn tất giao dịch.
+3.  Hiện thực hóa cổng WeChat cho WooCommerce, gồm WeChat chính thức và XorPay. Mọi plugin hỗ trợ WooCommerce đều dùng thẳng được.
 
-#### 消息推送
+#### Đẩy thông báo
 
 ![](images/image-45-1024x577.png)
 
-1.  实现了针对文章分类的订阅。您可以订阅某一个分类和该分类的更新，然后在文章发布时，可以点击推送按钮来推送给订阅该分类的用户。
-2.  用户还可以通过一个管理界面来对这些订阅进行管理。
-3.  还支持对评论进行订阅，使其实时性变得更高，可以大大提高互动性。
+1.  Hiện thực hóa đăng ký theo dõi theo chuyên mục bài viết. Bạn có thể theo dõi một chuyên mục và các cập nhật của nó; khi đăng bài, có thể bấm nút đẩy để gửi cho những người theo dõi chuyên mục đó.
+2.  Người dùng còn có thể quản lý các lượt theo dõi này qua một giao diện quản lý.
+3.  Còn hỗ trợ theo dõi bình luận, làm tính thời gian thực cao hơn, có thể tăng mạnh tính tương tác.
 
-#### 商品众筹
+#### Crowdfunding sản phẩm
 
 ![](images/image-46-1024x577.png)
 
-在WooCommerce上实现的简版众筹。
+Bản crowdfunding rút gọn hiện thực hóa trên WooCommerce.
 
-1.  商品页在发布时选择开启众筹，设置一个截止时间和目标金额。
-2.  在文章页面嵌入一个众筹状态简码，它会渲染当前这个商品的进度。
-3.  商品管理的后台，提供批量退款功能。
+1.  Khi đăng trang sản phẩm, chọn bật crowdfunding, đặt thời hạn và số tiền mục tiêu.
+2.  Nhúng một shortcode trạng thái crowdfunding vào trang bài viết, nó sẽ hiển thị tiến độ hiện tại của sản phẩm.
+3.  Trang quản trị sản phẩm cung cấp tính năng hoàn tiền hàng loạt.
 
-### 基础设施结构和能力覆盖
+### Cấu trúc hạ tầng và độ phủ năng lực
 
-我们来看一下回顾对比下一人企业基础设施的结构和能力。
+Chúng ta cùng nhìn lại và đối chiếu cấu trúc cùng năng lực của hạ tầng doanh nghiệp một người.
 
 ![](images/image-47-1024x567.png)
 
-可以看到，方糖OPB插件最整体覆盖是很高的，除了被红线框出的几处：
+Có thể thấy, độ phủ tổng thể của bộ plugin Fangtang OPB là rất cao, ngoại trừ vài chỗ được khoanh đỏ:
 
-1.  产品池，我们需要有一个快速构建简单需求的能力。
-2.  自动化能力方面，因为WordPress只是一个B/S结构的网站，所以它不是很适合。
-3.  众包能力这一块是没有覆盖的。
+1.  Product pool: chúng ta cần năng lực xây nhanh các nhu cầu đơn giản.
+2.  Về năng lực tự động hóa: vì WordPress chỉ là website kiến trúc B/S nên không thật phù hợp.
+3.  Mảng năng lực crowdsourcing thì chưa được phủ.
 
-### 配合 BudCoder 和 FlowDeer 使用
+### Dùng phối hợp với BudCoder và FlowDeer
 
 ![](images/image-48-1024x365.png)
 
-在搭配 BudCoder 和 FlowDeer 这两个工具后，我们可以将覆盖度进一步提高。
+Khi kết hợp thêm hai công cụ BudCoder và FlowDeer, chúng ta có thể nâng độ phủ lên nữa.
 
-BudCoder可以实现WordPress插件的AI生成，对于一些相对简单的需求，大概是300行以下的需求，它是可以处理的。而随着AI模型能力的提升，它的处理效果会越来越好。FlowDeer工作流在做内容分发方面现在已经很成熟了。
+BudCoder có thể dùng AI sinh plugin WordPress; với các nhu cầu tương đối đơn giản, khoảng dưới 300 dòng code, nó xử lý được. Và khi năng lực của các model AI tăng lên, hiệu quả xử lý của nó sẽ ngày càng tốt. Còn workflow FlowDeer trong việc phân phối nội dung hiện đã rất trưởng thành.
 
-有了它们，我们可以覆盖到之前欠缺的产品池的简单需求生成、简单需求完成和自动化能力里边的内容分发。整个体系里唯一没有覆盖的是众包能力。
+Có chúng, ta có thể phủ nốt phần còn thiếu trước đó: sinh và hoàn thành nhu cầu đơn giản của product pool, cùng phân phối nội dung trong năng lực tự động hóa. Cả hệ thống chỉ còn duy nhất năng lực crowdsourcing là chưa phủ.
 
-自动验收面对的场景太复杂，很难有一个通用的插件可以处理，但可以通过积分系统+自行开发/生成插件来单独处理；如果接收人工验收，可以自行购买对应的成熟商业插件。
+Kịch bản mà nghiệm thu tự động phải đối mặt quá phức tạp, khó có một plugin phổ quát xử lý được, nhưng có thể xử lý riêng bằng hệ thống điểm + plugin tự phát triển/tự sinh; nếu chấp nhận nghiệm thu thủ công, có thể mua các plugin thương mại trưởng thành tương ứng.

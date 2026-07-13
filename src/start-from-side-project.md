@@ -1,60 +1,60 @@
-# 风险评控:从副业开始
+# Đánh giá và kiểm soát rủi ro: bắt đầu từ side project
 
-一人企业因为资源少、竞争大导致整体成功率不高。但如果我们能有效地控制其中的风险，那么会极大地提高成功率。本专题将讨论一人企业的风险控制相关事宜。
+Doanh nghiệp một người do nguồn lực ít, cạnh tranh lớn nên tỷ lệ thành công tổng thể không cao. Nhưng nếu ta có thể kiểm soát hiệu quả các rủi ro trong đó, thì sẽ nâng cao đáng kể tỷ lệ thành công. Chuyên đề này sẽ bàn về các vấn đề liên quan đến kiểm soát rủi ro của doanh nghiệp một người.
 
-从优势开始
+Bắt đầu từ lợi thế
 -----
 
 ![](images/image-93.png)
 
-首先，我要给大家的建议是，不要一时冲动就辞职。最佳的做法是从副业开始，从优势开始。这里涉及到两个核心优势：副产品优势和低成本优势。
+Trước tiên, lời khuyên tôi muốn dành cho mọi người là: đừng bốc đồng nhất thời mà nghỉ việc. Cách làm tốt nhất là bắt đầu từ side project, bắt đầu từ lợi thế. Ở đây liên quan đến hai lợi thế cốt lõi: lợi thế từ sản phẩm phụ và lợi thế chi phí thấp.
 
-### 副产品优势
+### Lợi thế từ sản phẩm phụ
 
-谈到副产品优势，我们之前已经多次提到，副产品直接影响到我们的产品制造成本。
+Nói về lợi thế từ sản phẩm phụ, chúng ta đã nhắc đến nhiều lần trước đây: sản phẩm phụ ảnh hưởng trực tiếp đến chi phí sản xuất sản phẩm của chúng ta.
 
-当我们有一份全职工作时，我们就能够产生副产品，而这部分副产品是零成本获得的。然而，像我这样，在离职后全职投入到一人业务中，就不再有所谓的主业副产品，这个优势就不再存在。
+Khi ta có một công việc toàn thời gian, ta có thể sinh ra sản phẩm phụ, và phần sản phẩm phụ này có được với chi phí bằng không. Tuy nhiên, như tôi, sau khi nghỉ việc và dồn toàn thời gian vào nghiệp vụ một người, thì không còn cái gọi là sản phẩm phụ từ công việc chính nữa, lợi thế này không còn tồn tại.
 
-比如，如果我现在想要开发一个关于高并发开发的课程，我就需要自己投入成本，去积累相关方向的经验，甚至购买一些设备来进行相应的测试，以保证我课程中的项目能够承受相应的压力。而对于那些在大公司就职的人来说，这是他们天然具有的优势，他们无需任何成本就可以获得。因此，从副产品优势的角度来看，我建议大家先从副业开始。
+Ví dụ, nếu bây giờ tôi muốn phát triển một khóa học về lập trình hệ thống chịu tải cao (high concurrency), tôi sẽ phải tự bỏ chi phí để tích lũy kinh nghiệm theo hướng đó, thậm chí mua sắm thiết bị để thực hiện các bài kiểm thử tương ứng, nhằm đảm bảo dự án trong khóa học của tôi chịu được áp lực tương ứng. Còn với những người đang làm việc ở công ty lớn, đây là lợi thế tự nhiên họ có sẵn, họ có được mà không tốn bất kỳ chi phí nào. Vì vậy, xét từ góc độ lợi thế từ sản phẩm phụ, tôi khuyên mọi người hãy bắt đầu từ side project trước.
 
-### 低成本优势
+### Lợi thế chi phí thấp
 
-其次，让我们谈谈低成本优势。在没有主业的情况下，我们的最低可行利润是一个绝对值。如果我们有一份主业，那么就有工资收入。这会极大地提升副业的韧性，即使较长时间不盈利，依然可以坚持下去。
+Tiếp theo, hãy nói về lợi thế chi phí thấp. Khi không có công việc chính, mức lợi nhuận khả thi tối thiểu của ta là một giá trị tuyệt đối. Nếu ta có công việc chính, thì có thu nhập từ lương. Điều này nâng cao đáng kể sức bền của side project: dù thời gian dài không sinh lời, vẫn có thể kiên trì tiếp tục.
 
-我以前自己做的很多开源项目和服务都是免费的，每年可能会投入几千元的成本。这对于有主业收入的我来说，并不是什么大问题，因为每月收入的一小部分就足够覆盖这些成本了。然而，当我转向全职独立开发后，尤其是前期，挣钱变得非常困难，就很难承担这些看起来并不多的成本。这些成本迫使我将一些免费业务商业化，最终因祸得福地学会了如何商业化产品。
+Trước đây, rất nhiều dự án mã nguồn mở và dịch vụ tôi tự làm đều miễn phí, mỗi năm có thể tốn vài nghìn tệ chi phí. Với tôi khi còn thu nhập từ công việc chính, đây không phải vấn đề gì lớn, vì một phần nhỏ thu nhập hàng tháng đã đủ trang trải các chi phí này. Tuy nhiên, khi tôi chuyển sang làm indie dev toàn thời gian, nhất là giai đoạn đầu, kiếm tiền trở nên rất khó khăn, thì rất khó gánh nổi những chi phí trông có vẻ chẳng nhiều nhặn này. Những chi phí này buộc tôi phải thương mại hóa một số nghiệp vụ miễn phí, và cuối cùng, trong cái rủi có cái may, tôi đã học được cách thương mại hóa sản phẩm.
 
-然而，以副业模式运营一人企业的一个挑战是，我们能投入副业的时间和精力是有限的。如果我们的主业经常需要加班，那么可用于副业的时间就会更少。这可能导致很多人的副业还未开始就结束了，因为他们没有足够的精力来投入。在这种情况下，我建议大家尽可能选择一个既能提供中等偏上的薪资，又能确保周末时间充足的公司。用主业保证最低收入，用副业拓展可能性，提升收入天花板。
+Tuy nhiên, một thách thức của việc vận hành doanh nghiệp một người theo mô hình side project là thời gian và năng lượng ta có thể đầu tư cho nó rất hạn chế. Nếu công việc chính thường xuyên phải tăng ca, thì thời gian dành cho side project sẽ càng ít. Điều này có thể khiến side project của nhiều người chưa kịp bắt đầu đã kết thúc, vì họ không đủ năng lượng để đầu tư. Trong trường hợp này, tôi khuyên mọi người cố gắng chọn một công ty vừa trả lương ở mức khá, vừa đảm bảo thời gian cuối tuần trọn vẹn. Dùng công việc chính đảm bảo thu nhập tối thiểu, dùng side project mở rộng khả năng, nâng trần thu nhập.
 
-双线收入，双重安全
+Hai nguồn thu nhập, hai lớp an toàn
 ---------
 
-「从副业开始」还有一个好处，它会让我们具有双线收入，带来双重的财务和职业安全。这在经济下行的周期显得尤为重要。
+«Bắt đầu từ side project» còn có một lợi ích nữa: nó giúp ta có hai nguồn thu nhập, mang lại an toàn kép về tài chính và nghề nghiệp. Điều này đặc biệt quan trọng trong chu kỳ kinh tế đi xuống.
 
-很多程序员都在担心35岁以后公司不再需要他们怎么办，这个问题让他们焦虑，甚至早早地思考是要送外卖还是开网约车。但如果我们有副业、有了双线收入。即使被公司解雇了，副业虽然可能收入不多，但稍微控制一下生活成本，基本温饱还是不成问题的。这样，无论是从职业安全、财务安全，还是从个人心态上来讲，都会有很大的改善。
+Rất nhiều lập trình viên lo lắng sau 35 tuổi công ty không cần mình nữa thì làm sao. Vấn đề này khiến họ bồn chồn, thậm chí sớm nghĩ đến chuyện đi giao đồ ăn hay chạy xe công nghệ. Nhưng nếu ta có side project, có hai nguồn thu nhập, thì dù bị công ty sa thải, side project tuy thu nhập có thể không nhiều, nhưng chỉ cần tiết chế chi phí sinh hoạt một chút, cơm áo cơ bản vẫn không thành vấn đề. Như vậy, dù xét về an toàn nghề nghiệp, an toàn tài chính, hay tâm thế cá nhân, đều sẽ cải thiện rất nhiều.
 
-对于程序员和技术人群来讲，副业在职业安全上还有额外的意义。
+Với lập trình viên và giới kỹ thuật, side project còn có ý nghĩa bổ sung về an toàn nghề nghiệp.
 
 ![](images/image-94.png)
 
-技术债务驱动的架构更新
+Cập nhật kiến trúc do nợ kỹ thuật thúc đẩy
 
-我之前在做[《从精益开发到精益副业》分享](https://www.bilibili.com/video/BV1xf4y1k7Be?t=1445.8)时提到过一个概念，叫做「技术债务驱动的架构更新」。
+Trước đây khi làm bài chia sẻ [《Từ phát triển tinh gọn đến side project tinh gọn》](https://www.bilibili.com/video/BV1xf4y1k7Be?t=1445.8), tôi có nhắc đến một khái niệm gọi là «cập nhật kiến trúc do nợ kỹ thuật thúc đẩy».
 
-它描述的是，公司业务需求和程序员职业发展的矛盾。我们在公司里负责一个项目时，公司通常希望这个项目足够稳定，而不是追求使用最新的技术。直到原有技术不再适用，需要更新时，公司往往又不愿提供给原来的技术人员提供足够的学习时间来掌握新技术。相反，他们可能更愿意直接雇用掌握新技术的人员来替代。这种替代可能不是整个团队换掉那么明显，但确实很容易感受到的。这种架构更新的方式，犹如温水煮青蛙，很容易导致技术人员在不知不觉中被淘汰。
+Nó mô tả mâu thuẫn giữa nhu cầu nghiệp vụ của công ty và sự phát triển nghề nghiệp của lập trình viên. Khi ta phụ trách một dự án trong công ty, công ty thường mong dự án đủ ổn định, chứ không theo đuổi việc dùng công nghệ mới nhất. Đến khi công nghệ cũ không còn phù hợp, cần cập nhật, công ty lại thường không muốn cho nhân sự kỹ thuật cũ đủ thời gian học để nắm vững công nghệ mới. Ngược lại, họ có thể sẵn lòng thuê thẳng người đã nắm công nghệ mới để thay thế. Sự thay thế này có thể không lộ liễu đến mức thay cả đội, nhưng quả thực rất dễ cảm nhận được. Cách cập nhật kiến trúc kiểu này, như nước ấm luộc ếch, rất dễ khiến người làm kỹ thuật bị đào thải lúc nào không hay.
 
-然而，如果我们拥有一个完全由自己决定技术栈的副业，那么在技术更新和职业安全上可以为我们提供进一步的保障。
+Tuy nhiên, nếu ta sở hữu một side project mà tech stack hoàn toàn do mình quyết định, thì nó có thể cung cấp cho ta thêm một lớp bảo đảm về cập nhật công nghệ và an toàn nghề nghiệp.
 
-渐进式成长
+Tăng trưởng tiệm tiến
 -----
 
-一个好的模式是，从副业开始，不断增长MRR（月周期收入），逐步剥离对主业的依赖，直到副业和主业解耦以后，再考虑将副业转为主业。我们称这个模式为「渐进式成长」。
+Một mô hình tốt là: bắt đầu từ side project, không ngừng tăng MRR (thu nhập định kỳ hàng tháng), từng bước gỡ bỏ sự phụ thuộc vào công việc chính, đến khi side project và công việc chính đã tách rời nhau, mới cân nhắc chuyển side project thành công việc chính. Chúng tôi gọi mô hình này là «tăng trưởng tiệm tiến».
 
 ![](images/image-95.png)
 
-渐进式成长
+Tăng trưởng tiệm tiến
 
-采用渐进式成长的方式，可以低风险甚至无风险地运营一人企业。这种操作的难点在于，越是在早期，反而难度越大。
+Áp dụng cách tăng trưởng tiệm tiến có thể vận hành doanh nghiệp một người với rủi ro thấp, thậm chí không rủi ro. Điểm khó của cách làm này là: càng ở giai đoạn đầu, độ khó lại càng lớn.
 
-在副业初期，我们需要投入大量的休息时间，这可能让我们不能享受生活，没有时间去玩游戏看电影，但同时它可以避免我们陷入「生存压力」中。生存压力是我们的全部收入不足以支撑生活费用时的压力，这种心理上的压力非常大，甚至可以引起中年人的恐慌，只有亲历过的人才知道它的可怕。而且这种压力来自方方面面，包括家人和朋友，他们会好奇为什么你不找一个「正经工作」，甚至会帮你找一个。
+Ở giai đoạn đầu của side project, ta phải đầu tư rất nhiều thời gian nghỉ ngơi, điều này có thể khiến ta không được tận hưởng cuộc sống, không có thời gian chơi game xem phim; nhưng đồng thời nó giúp ta tránh rơi vào «áp lực sinh tồn». Áp lực sinh tồn là áp lực khi toàn bộ thu nhập của ta không đủ chi trả sinh hoạt phí — áp lực tâm lý này cực kỳ lớn, thậm chí có thể gây hoảng loạn ở người trung niên, chỉ ai từng trải qua mới biết nó đáng sợ thế nào. Hơn nữa áp lực này đến từ mọi phía, bao gồm cả gia đình và bạn bè: họ sẽ thắc mắc vì sao bạn không tìm một «công việc đàng hoàng», thậm chí còn tìm giúp bạn một cái.
 
-随着我们副业开始逐渐成长，我们就能逐步建立起抗风险的能力。我们通常建议，当副业的收入与主业收入相当时，也就是两者基本持平时，再考虑完全转型的事情。这样在各方面都能实现平滑过度。当然，是否转型完全取决于你自己的决定。
+Khi side project bắt đầu dần trưởng thành, ta sẽ từng bước xây dựng được khả năng chống chịu rủi ro. Chúng tôi thường khuyên rằng, khi thu nhập từ side project tương đương thu nhập từ công việc chính, tức hai bên cơ bản ngang nhau, hãy mới cân nhắc chuyện chuyển đổi hoàn toàn. Như vậy mọi mặt đều có thể chuyển tiếp êm thấm. Tất nhiên, có chuyển đổi hay không hoàn toàn do bạn quyết định.

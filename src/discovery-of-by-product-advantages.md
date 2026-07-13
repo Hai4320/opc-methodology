@@ -1,187 +1,187 @@
-# 优势发现:副产品优势
+# Khám phá lợi thế: lợi thế từ sản phẩm phụ
 
 
-优势发现与一人业务构建
+Khám phá lợi thế và xây dựng nghiệp vụ một người
 -----------
 
-初次接触一人企业方法论的读者，可能会觉得「方法论的道理我都懂，但完全不知道如何开始」。这是非常正常的，「好的开始是成功的一半」，尤其对于偏重认知的一人业务，起点更为重要。
+Bạn đọc lần đầu tiếp xúc với phương pháp luận doanh nghiệp một người có thể sẽ cảm thấy «đạo lý của phương pháp luận thì tôi hiểu cả, nhưng hoàn toàn không biết bắt đầu từ đâu». Điều này rất bình thường. «Khởi đầu tốt là một nửa của thành công», đặc biệt với nghiệp vụ một người thiên về nhận thức, điểm xuất phát càng quan trọng.
 
-因此，我们特地准备了「优势发现」这个专题。它将帮助大家充分分析自己所拥有的资源，找到一个事半功倍的切入点。
+Vì vậy, chúng tôi đã chuẩn bị riêng chuyên đề «Khám phá lợi thế». Nó sẽ giúp mọi người phân tích đầy đủ các nguồn lực mình đang có, tìm ra một điểm khởi đầu cho hiệu quả gấp bội.
 
-首先要讨论的是我们多次强调的「副产品优势」。今天我们将在主业、生活方式、兴趣爱好三个方面对其进行细化。大家在阅读文章时，可以同步地针对自己的具体情况进行分析，说不定就能很快找到切入点。
+Điều đầu tiên cần bàn là «lợi thế từ sản phẩm phụ» mà chúng tôi đã nhiều lần nhấn mạnh. Hôm nay chúng ta sẽ cụ thể hóa nó theo ba khía cạnh: công việc chính, lối sống và sở thích. Khi đọc bài, các bạn có thể đồng thời phân tích theo hoàn cảnh cụ thể của mình, biết đâu sẽ nhanh chóng tìm ra điểm khởi đầu.
 
-主业副产品
+Sản phẩm phụ từ công việc chính
 -----
 
-对于以副业模式运营一人企业的情况，主业消耗了每天绝大部分精力，有些甚至挤占了休息时间。这使得我们能投入的时间变得非常有限，成为放弃的主要原因。
+Với trường hợp vận hành doanh nghiệp một người theo mô hình side project, công việc chính tiêu tốn phần lớn năng lượng mỗi ngày, thậm chí có khi còn lấn cả thời gian nghỉ ngơi. Điều này khiến thời gian ta có thể đầu tư trở nên rất hạn hẹp, trở thành nguyên nhân chính dẫn đến bỏ cuộc.
 
-但如果我们能充分发掘主业的副产品，让主业和副业之间形成互补，不仅可以最大化利用我们的时间和资源，还能在一定程度上缓解工作与休息之间的冲突。不仅能够为副业找到独特的切入点，还能通过副业的运营反哺主业，形成一个良性循环。
+Nhưng nếu ta biết khai thác triệt để sản phẩm phụ của công việc chính, để công việc chính và side project bổ trợ lẫn nhau, thì không chỉ tối đa hóa việc sử dụng thời gian và nguồn lực, mà còn phần nào giảm bớt xung đột giữa làm việc và nghỉ ngơi. Không chỉ tìm được điểm khởi đầu độc đáo cho side project, mà còn có thể dùng việc vận hành side project để nuôi ngược lại công việc chính, tạo thành một vòng tuần hoàn tích cực.
 
-### 工作流和方法论
+### Quy trình làm việc và phương pháp luận
 
 ![](images/image-83.png)
 
-主业最大的副产品：工作流和方法论
+Sản phẩm phụ lớn nhất của công việc chính: quy trình làm việc và phương pháp luận
 
-主业最大的副产品是我们在工作中积累下来的工作流和方法论，换言之，是「如何将一件事情做得比别人好」的诀窍。这些积累原本就随着我们的职业生涯不断增长，是职业发展的主要推动力。在行业中分享这些知识，不但和主业没有冲突，而且是大多数公司鼓励的。
+Sản phẩm phụ lớn nhất của công việc chính là quy trình làm việc và phương pháp luận mà ta tích lũy trong công việc — nói cách khác, là bí quyết «làm sao để làm một việc tốt hơn người khác». Những tích lũy này vốn dĩ tăng dần theo sự nghiệp của ta, là động lực chính của phát triển nghề nghiệp. Chia sẻ những kiến thức này trong ngành không những không xung đột với công việc chính, mà còn được đa số công ty khuyến khích.
 
-针对工作流和方法论的副产品形式，已经有大量成熟的渠道。
+Với hình thức sản phẩm phụ từ quy trình làm việc và phương pháp luận, đã có rất nhiều kênh trưởng thành.
 
-#### 书籍出版
+#### Xuất bản sách
 
-比如书籍出版，不但适合销售方法论，也是获得行业影响力的最佳渠道之一。甚至即使作为译者、也能「大树底下好乘凉」。
+Chẳng hạn xuất bản sách, không những phù hợp để bán phương pháp luận, mà còn là một trong những kênh tốt nhất để tạo ảnh hưởng trong ngành. Thậm chí ngay cả khi làm dịch giả, cũng có thể «hưởng bóng mát dưới cây đại thụ».
 
 ![](images/image-84-707x1024.png)
 
-《故事写作大师班》
+《Story Writing Master Class / Lớp học bậc thầy viết truyện》
 
-以我最近阅读的《故事写作大师班》为例，它的作者约翰-特鲁比的主业是为迪士尼、索尼、福克斯、BBC和HBO等主要工作室提供故事写作咨询。在「诊断」了超过1800部电影和电视剧本后，作者形成了极为优秀的方法论。
+Lấy ví dụ cuốn 《Lớp học bậc thầy viết truyện》 tôi mới đọc gần đây: công việc chính của tác giả John Truby là tư vấn viết kịch bản cho các hãng lớn như Disney, Sony, Fox, BBC và HBO. Sau khi «chẩn đoán» hơn 1800 kịch bản phim điện ảnh và truyền hình, tác giả đã hình thành một phương pháp luận cực kỳ xuất sắc.
 
-在此基础上，特鲁比开发了剧本写作和类型创作课程（一级副产品），吸引了全球数万名学生，其中许多人后来制作了好莱坞热门电影，并成为《纽约时报》畅销书作者和文学奖得主。而《故事写作大师班》正是这些课程的精华（二级副产品），被翻译为多国语言，畅销十多年。
+Trên cơ sở đó, Truby phát triển các khóa học viết kịch bản và sáng tác theo thể loại (sản phẩm phụ cấp một), thu hút hàng chục nghìn học viên trên toàn cầu, nhiều người trong số họ sau này đã sản xuất các bộ phim ăn khách của Hollywood, trở thành tác giả bán chạy của 《New York Times》 và chủ nhân các giải thưởng văn học. Còn 《Lớp học bậc thầy viết truyện》 chính là tinh hoa của những khóa học này (sản phẩm phụ cấp hai), được dịch ra nhiều thứ tiếng, bán chạy suốt hơn mười năm.
 
-#### 在线课程
+#### Khóa học trực tuyến
 
-纸版书籍的出版门槛较高，并非每个人都能触及。但是随着互联网技术的发展，电子书和在线课程已经颇为成熟。你完全可以无需他人许可，自己写作并售卖电子书、制作在线课程。
+Ngưỡng cửa xuất bản sách giấy khá cao, không phải ai cũng chạm tới được. Nhưng cùng với sự phát triển của công nghệ Internet, ebook và khóa học trực tuyến đã khá trưởng thành. Bạn hoàn toàn có thể tự viết và bán ebook, tự làm khóa học trực tuyến mà không cần sự cho phép của ai.
 
-我之前在做独立开发时，经常开着OBS软件录制屏幕，将整个开发过程录制为视频。等到开发完成后，再抽时间剪辑为实战课程。
+Trước đây khi làm phát triển độc lập (indie dev), tôi thường bật phần mềm OBS ghi lại màn hình, quay toàn bộ quá trình phát triển thành video. Đợi phát triển xong, mới dành thời gian biên tập thành khóa học thực chiến.
 
-这里充分利用了独立开发全凭自己做主的特点，不要在为公司办公时做类似的事情，大部分公司应该是禁止的。但你可以把它用到自己的开源项目上。
+Ở đây tôi đã tận dụng triệt để đặc điểm của indie dev là mọi thứ đều do mình quyết định. Đừng làm những việc tương tự khi đang làm việc cho công ty, phần lớn công ty hẳn là cấm điều này. Nhưng bạn có thể áp dụng nó cho dự án mã nguồn mở của riêng mình.
 
-这个原本只是为了充分利用副产品的举措，后来帮助我度过了全职独立开发时没有收入的那一段时间。我后来又将录制和制作技术教程的方法论做成了[网课变现课](https://stack.ftqq.com/course/detail/5)，实现了复合副产品优势。
+Việc làm vốn chỉ để tận dụng triệt để sản phẩm phụ này, sau đó đã giúp tôi vượt qua quãng thời gian không có thu nhập khi làm indie dev toàn thời gian. Sau này tôi lại đóng gói phương pháp luận về ghi hình và sản xuất giáo trình kỹ thuật thành [khóa học kiếm tiền từ khóa học online](https://stack.ftqq.com/course/detail/5), hiện thực hóa lợi thế từ sản phẩm phụ kép.
 
 ![](images/wangke-bianxian-ke.png)
 
-网课变现课
+Khóa học kiếm tiền từ khóa học online
 
-#### 电子书
+#### Ebook
 
-和视频课程相比，电子书的优缺点同样明显：
+So với khóa học video, ưu nhược điểm của ebook cũng rõ ràng không kém:
 
-1.  撰写文章比制作视频课程更为简单，但文字整理更花费时间
-2.  同样的内容，制作为电子书和视频课程，用户愿意支付的价格相差五到十倍
-3.  更容易被盗版传播
-4.  对字数和内容没有硬性要求，更灵活
+1.  Viết bài đơn giản hơn làm khóa học video, nhưng chỉnh lý văn bản tốn thời gian hơn
+2.  Cùng một nội dung, làm thành ebook và khóa học video, mức giá người dùng sẵn sàng trả chênh nhau năm đến mười lần
+3.  Dễ bị lan truyền lậu hơn
+4.  Không có yêu cầu cứng về số chữ và nội dung, linh hoạt hơn
 
-我2018年时曾出版过一本两万字左右的《[程序员跳槽全攻略](https://read.douban.com/ebook/7611058/)》，定价在一两块钱，累计收益扣完税有6千左右。
+Năm 2018 tôi từng xuất bản cuốn 《[Cẩm nang nhảy việc toàn tập cho lập trình viên](https://read.douban.com/ebook/7611058/)》 khoảng hai vạn chữ, định giá một hai tệ, thu nhập tích lũy sau thuế khoảng 6 nghìn tệ.
 
 ![](images/image-85.png)
 
-关于电子书的正式出版，可以参考我之前写的[《如何通过互联网出版一本小书》](https://github.com/easychen/howto-make-more-money/blob/master/ch11.md)一文中关于[BookDNA](https://www.bookdna.cn/)的介绍，注意因为文章写作时间较早，部分内容可能过时，需要自行确认。
+Về việc xuất bản chính thức ebook, có thể tham khảo phần giới thiệu về [BookDNA](https://www.bookdna.cn/) trong bài [《Làm sao xuất bản một cuốn sách nhỏ qua Internet》](https://github.com/easychen/howto-make-more-money/blob/master/ch11.md) tôi viết trước đây. Lưu ý vì bài viết đã lâu, một phần nội dung có thể lỗi thời, cần tự kiểm chứng.
 
-#### 长文
+#### Bài viết dài
 
-如果累计的经验还不足以构建完整的方法论，可以通过长文分享并获得反馈。单篇长文可能难以获得直接收入，但可以聚集用户，充盈内容池，成为构建自媒体的助力。
+Nếu kinh nghiệm tích lũy chưa đủ để xây dựng phương pháp luận hoàn chỉnh, có thể chia sẻ qua bài viết dài và nhận phản hồi. Một bài viết dài đơn lẻ có thể khó tạo thu nhập trực tiếp, nhưng có thể quy tụ người dùng, làm đầy content pool, trở thành trợ lực cho việc xây dựng kênh truyền thông cá nhân.
 
 #### Custom GPT
 
-以上都是一些较为传统的副产品方式，从2023年开始，AGI开始落地，时代开始变了。现在我们有了一个更优的选择：自定义GPT。
+Trên đây là những hình thức sản phẩm phụ khá truyền thống. Từ năm 2023, AGI bắt đầu đi vào thực tế, thời đại bắt đầu thay đổi. Giờ đây chúng ta có một lựa chọn tốt hơn: GPT tùy chỉnh.
 
-OpenAI在2023年11月推出了Custom GPT，允许用户通过指定提示词、上传文档、添加API作为工具等方式，将通用GPT定制为专用版本。并在 2024年1月10日推出了GPT商店，采用与苹果应用商店类似的商业模式，创作者可以在其中盈利。
+OpenAI ra mắt Custom GPT vào tháng 11 năm 2023, cho phép người dùng tùy biến GPT đa dụng thành phiên bản chuyên dụng bằng cách chỉ định prompt, tải tài liệu lên, thêm API làm công cụ, v.v. Và ngày 10 tháng 1 năm 2024 ra mắt GPT Store, áp dụng mô hình kinh doanh tương tự App Store của Apple, nơi các nhà sáng tạo có thể kiếm lợi nhuận.
 
 ![](images/image-87-1024x799.png)
 
 GPT Store
 
-经常活跃在微博上的[宝玉XP](https://weibo.com/u/1727858283)老师，经常使用GPT翻译大量科技文章和视频字幕。他将自己的方法论制作为Custom GPT后发布在 GPT 商店，在2024年1月登上了 GPT Store Writing分类的第一名。
+Thầy [Baoyu XP](https://weibo.com/u/1727858283), người thường xuyên hoạt động trên Weibo, hay dùng GPT để dịch số lượng lớn bài viết công nghệ và phụ đề video. Sau khi đóng gói phương pháp luận của mình thành Custom GPT và phát hành trên GPT Store, tháng 1 năm 2024 nó đã đứng đầu hạng mục Writing của GPT Store.
 
 ![](images/image-86.png)
 
-科技文章翻译GPT
+GPT dịch bài viết công nghệ
 
-PS：可以[点这里](https://weibo.com/1727858283/4981299343787589)查看这个GPT的提示词。
+PS: có thể [bấm vào đây](https://weibo.com/1727858283/4981299343787589) để xem prompt của GPT này.
 
 #### AI workflow
 
-通常AI产品并不能完成一个完整的工作流，于是出现了各种AI工作流软件。一个典型的例子是ComfyUI，它是一个基于Stable Diffusion的流程工具，可以完整覆盖除了图片生成以外的其他工作流。
+Thông thường sản phẩm AI không thể hoàn thành một quy trình làm việc trọn vẹn, thế là xuất hiện đủ loại phần mềm AI workflow. Một ví dụ điển hình là ComfyUI — một công cụ quy trình dựa trên Stable Diffusion, có thể bao phủ trọn vẹn các quy trình làm việc khác ngoài việc sinh ảnh.
 
 ![](images/image-88-1024x641.png)
 
 ComfyUI
 
-稍后我们应该会看到更多AI工作流软件，我们自己也在研发这个方面的产品。
+Sắp tới hẳn chúng ta sẽ thấy nhiều phần mềm AI workflow hơn nữa, bản thân chúng tôi cũng đang nghiên cứu phát triển sản phẩm theo hướng này.
 
-#### 产品化
+#### Sản phẩm hóa
 
-最后，产品化也是工作流和方法论作为副产品的一大方向。当你能很好的手动实现某个业务后，你可以逐步将其自动化或者半自动化，最终作为一个服务来售卖。对一人企业而言，这也是《纳瓦尔宝典》中说的「将你自己产品化」。
+Cuối cùng, sản phẩm hóa cũng là một hướng đi lớn cho sản phẩm phụ từ quy trình làm việc và phương pháp luận. Khi bạn có thể thực hiện tốt một nghiệp vụ bằng tay, bạn có thể từng bước tự động hóa hoặc bán tự động hóa nó, cuối cùng bán nó như một dịch vụ. Với doanh nghiệp một người, đây cũng chính là điều 《Cẩm nang Naval》 nói: «hãy sản phẩm hóa chính bạn».
 
-这个产品不一定是软件，也不一定需要编码。逻辑思维最初只是公众号，后期才发展为得到APP。但如果已有的方式不适合我们的副产品，那我们可以创造一个独有的产品来承载它。
+Sản phẩm này không nhất thiết là phần mềm, cũng không nhất thiết cần lập trình. Luoji Siwei ban đầu chỉ là một kênh công khai WeChat, về sau mới phát triển thành APP Dedao. Nhưng nếu các hình thức sẵn có không phù hợp với sản phẩm phụ của ta, ta có thể sáng tạo một sản phẩm độc nhất để chuyên chở nó.
 
-得到APP上有本《得到品控手册》，详细记录了知识产品的方法论，感兴趣的同学可以读读
+Trên APP Dedao có cuốn 《Sổ tay kiểm soát chất lượng Dedao》, ghi chép chi tiết phương pháp luận về sản phẩm tri thức, bạn nào quan tâm có thể đọc thử.
 
-### 行业知识库
+### Kho tri thức ngành
 
 ![](images/image-89.png)
 
-行业知识库
+Kho tri thức ngành
 
-主业中积累的行业知识库可以成为我们宝贵的副产品。它通常包括对行业的基本常识、逻辑和认知。具体的产品形态，通常是咨询服务和调研报告。
+Kho tri thức ngành tích lũy từ công việc chính có thể trở thành sản phẩm phụ quý giá của ta. Nó thường bao gồm kiến thức cơ bản, logic và nhận thức về ngành. Hình thái sản phẩm cụ thể thường là dịch vụ tư vấn và báo cáo khảo sát.
 
-以Trenders.vc为例，这些报告本来是独立开发者在开发产品之前为了深入了解市场进行精准分析、把握行业趋势而产生的副产品。但将调研报告转化为一项服务后，Trenders.vc现在已经拥有超过六万的订阅用户。
+Lấy Trends.vc làm ví dụ: những báo cáo này vốn là sản phẩm phụ mà nhà phát triển độc lập tạo ra khi phân tích chính xác để hiểu sâu thị trường, nắm bắt xu hướng ngành trước khi phát triển sản phẩm. Nhưng sau khi chuyển hóa báo cáo khảo sát thành một dịch vụ, Trends.vc hiện đã có hơn sáu vạn người dùng đăng ký.
 
-另外，正如上边我们提到的，在AI时代，我们还可以采取新的方法，例如将知识库转化为聊天机器人。这样，我们可以通过聊天的形式更有效地获取知识。阅读大量的资料确实十分耗时，而聊天机器人能够迅速地根据我们的需求提供所需知识，极大地节省了我们的时间。
+Ngoài ra, như đã đề cập ở trên, trong thời đại AI, ta còn có thể áp dụng những phương pháp mới, ví dụ chuyển hóa kho tri thức thành chatbot. Như vậy, ta có thể tiếp thu kiến thức hiệu quả hơn qua hình thức trò chuyện. Đọc lượng lớn tài liệu quả thực rất tốn thời gian, còn chatbot có thể nhanh chóng cung cấp kiến thức cần thiết theo nhu cầu của ta, tiết kiệm cực nhiều thời gian.
 
-咨询AI机器人不但给用户提供了和以往类似的聊天体验，同时还将之前因为一对一服务无法规模化的业务，变成了完全符合新杠杆的「零复制边际成本」的产品。在AGI落地的过程中具有极大的潜力。
+Bot tư vấn AI không những mang lại cho người dùng trải nghiệm trò chuyện tương tự như trước, mà còn biến nghiệp vụ trước đây không thể mở rộng quy mô do phục vụ một-kèm-một, thành sản phẩm «chi phí biên sao chép bằng không» hoàn toàn phù hợp với đòn bẩy mới. Nó có tiềm năng cực lớn trong quá trình AGI đi vào thực tế.
 
-### 备选方案和半成品
+### Phương án dự phòng và bán thành phẩm
 
-对设计师和架构师等类似职位来说，主业还会产生很多备选方案和半成品。比如很多设计师都知道，老板和甲方虽然会让做很多个版本，但往往最后会觉得第一稿最好。这中间的数个甚至数十个备选方案，这时候就闲置了。
+Với những vị trí như nhà thiết kế và kiến trúc sư, công việc chính còn sinh ra rất nhiều phương án dự phòng và bán thành phẩm. Chẳng hạn nhiều nhà thiết kế đều biết, sếp và khách hàng tuy bắt làm nhiều phiên bản, nhưng cuối cùng thường lại thấy bản đầu tiên là đẹp nhất. Hàng loạt, thậm chí hàng chục phương án dự phòng ở giữa, lúc này bị bỏ xó.
 
-对架构师也是如此，当我们着手于一个项目时，通常会设计出三到五套技术方案。最终，我们只会选择一套最适合本企业的方案实施。但这并不意味着其他方案缺乏价值。相反，这些未被采用的方案可能正好适合其他企业的需求。因此，它们完全有潜力作为副产品进行市场变现。
+Với kiến trúc sư cũng vậy: khi bắt tay vào một dự án, ta thường thiết kế ba đến năm bộ phương án kỹ thuật. Cuối cùng, ta chỉ chọn một bộ phù hợp nhất với doanh nghiệp mình để triển khai. Nhưng điều đó không có nghĩa các phương án khác thiếu giá trị. Ngược lại, những phương án không được chọn này có thể lại vừa khớp với nhu cầu của doanh nghiệp khác. Vì vậy, chúng hoàn toàn có tiềm năng được thương mại hóa như sản phẩm phụ.
 
-不过因为这些副产品和主业密切相关，我们需要严格遵守公司的相关规定。这里有两个处理方案：
+Tuy nhiên vì những sản phẩm phụ này liên quan mật thiết đến công việc chính, ta cần tuân thủ nghiêm ngặt quy định của công ty. Ở đây có hai phương án xử lý:
 
-#### 公益化
+#### Công ích hóa
 
-直接将副产品商业化，容易和主业公司发生利益冲突。但如果将其作为免费的公益产品，就从「为自己谋利」变成「为行业发展出力」。对程序员来讲，开源项目就是一个很好的方式。
+Trực tiếp thương mại hóa sản phẩm phụ dễ phát sinh xung đột lợi ích với công ty nơi ta làm việc chính. Nhưng nếu biến nó thành sản phẩm công ích miễn phí, thì từ «mưu lợi cho bản thân» trở thành «góp sức cho sự phát triển của ngành». Với lập trình viên, dự án mã nguồn mở là một cách rất hay.
 
-#### 转换表现形式
+#### Chuyển đổi hình thức thể hiện
 
-另一个处理方案是，转换表现形式，比如将文本产品转为音频或者视频等。这样不但和主业产品有了形态上的区分，还能够增强产品对特定人群的竞争优势。免相互干扰。
+Phương án xử lý khác là chuyển đổi hình thức thể hiện, ví dụ chuyển sản phẩm văn bản thành âm thanh hoặc video. Như vậy không những có sự phân biệt về hình thái với sản phẩm của công việc chính, mà còn tăng cường lợi thế cạnh tranh của sản phẩm với nhóm người dùng đặc thù, tránh can nhiễu lẫn nhau.
 
-### 人脉关系
+### Quan hệ nhân mạch
 
-在传统行业和二三线城市，人脉关系至为重要，甚至是很多人的生存之道。但作为互联网从业者，我们可能会认为，在这个行业里，人脉关系并不是主要资源，大部分的业务还是规则驱动的。但后来我意识到，光是认识的人足够多，就可以成为撮合型业务的基础。
+Trong các ngành truyền thống và các thành phố cấp hai, cấp ba, quan hệ nhân mạch cực kỳ quan trọng, thậm chí là kế sinh nhai của nhiều người. Nhưng là người làm trong ngành Internet, ta có thể cho rằng trong ngành này, quan hệ không phải nguồn lực chủ yếu, phần lớn nghiệp vụ vẫn vận hành theo quy tắc. Nhưng về sau tôi nhận ra, chỉ riêng việc quen biết đủ nhiều người đã có thể trở thành nền tảng cho các nghiệp vụ mai mối kết nối.
 
 ![](images/image-90.png)
 
-人脉关系的副产品形式
+Hình thức sản phẩm phụ từ quan hệ nhân mạch
 
-比如说，我们可以提供求职招聘、交友相亲等服务，可以组织会议分享经验。在这些基础上，我们还可以创建付费社群。在这个付费社群里，我们甚至不需要做什么，只需将人和需求聚集在一起，就能赚取收益。这就是人脉关系的魅力所在。
+Chẳng hạn, ta có thể cung cấp dịch vụ tuyển dụng tìm việc, kết bạn hẹn hò, có thể tổ chức hội nghị chia sẻ kinh nghiệm. Trên những nền tảng này, ta còn có thể tạo cộng đồng trả phí. Trong cộng đồng trả phí này, ta thậm chí không cần làm gì nhiều, chỉ cần tập hợp con người và nhu cầu lại với nhau là có thể kiếm được thu nhập. Đây chính là sức hút của quan hệ nhân mạch.
 
-生活方式副产品
+Sản phẩm phụ từ lối sống
 -------
 
-生活方式副产品是指，我们日常生活一部分的各种活动，无论我们是否热爱，它们都可能产生副产品。
+Sản phẩm phụ từ lối sống là các hoạt động vốn là một phần cuộc sống hàng ngày của ta — dù ta có yêu thích chúng hay không, chúng đều có thể sinh ra sản phẩm phụ.
 
-例如，有些人每天不得不花费一到两个小时在通勤上，这段时间内，他们可能会选择在地铁上刷手机。这种生活方式能够带来的副产品之一就是阅读。
+Ví dụ, có người mỗi ngày buộc phải dành một đến hai tiếng cho việc đi lại; trong khoảng thời gian này, họ có thể chọn lướt điện thoại trên tàu điện ngầm. Một trong những sản phẩm phụ mà lối sống này có thể mang lại chính là việc đọc.
 
 ![](images/image-91.png)
 
-湾区日报
+Wanqu Daily (Nhật báo Vùng Vịnh)
 
-举个例子，湾区日报。最初，这只是一个每天阅读文章，并从中挑选出五篇质量高的文章进行分享的行为，后来，它演变成了一个付费产品，拥有自己的客户端和网站，并获得了良好的口碑。这就是基于生活方式的副产品。
+Lấy ví dụ Wanqu Daily. Ban đầu, đây chỉ là hành động mỗi ngày đọc bài viết và chọn ra năm bài chất lượng cao để chia sẻ; về sau, nó tiến hóa thành một sản phẩm trả phí, có client và website riêng, và giành được tiếng tăm tốt. Đây chính là sản phẩm phụ dựa trên lối sống.
 
-很多生活方式都可以产生副产品，无论是吃饭、做菜、甚至看美女，只要你有良好的美感，说不定都能发展为一个某某精选业务。
+Rất nhiều lối sống có thể sinh ra sản phẩm phụ — dù là ăn uống, nấu nướng, thậm chí ngắm người đẹp — chỉ cần bạn có gu thẩm mỹ tốt, biết đâu đều có thể phát triển thành một nghiệp vụ «tuyển chọn» nào đó.
 
-### AI优化的Reading as a Service
+### Reading as a Service tối ưu bằng AI
 
-不过，看起来湾区日报在2023年11月停止更新。其挑战之一在于，尽管文章摘要使用中文，但许多链接的内容都是英文，这对于一些读者来说可能较为困难。湾区日报创建时，人工智能还不够成熟，如果我们现在考虑使用人工智能技术来重构，那么可以将其打造成足够自动化的Reading as a Service。
+Tuy nhiên, có vẻ Wanqu Daily đã ngừng cập nhật vào tháng 11 năm 2023. Một trong những thách thức của nó là: dù phần tóm tắt bài viết dùng tiếng Trung, nhưng nội dung của nhiều đường link là tiếng Anh, điều này có thể khá khó khăn với một số độc giả. Khi Wanqu Daily ra đời, trí tuệ nhân tạo còn chưa đủ trưởng thành; nếu bây giờ ta cân nhắc dùng công nghệ AI để tái cấu trúc, thì có thể xây dựng nó thành một Reading as a Service đủ độ tự động hóa.
 
 ![](images/image-92-1024x475.png)
 
 Reading as a Service
 
-例如，我们可以按上图的方式来组织服务。
+Ví dụ, ta có thể tổ chức dịch vụ theo cách như hình trên.
 
-首先通过利用Check酱、RSSHub、Kill the newsletter可以随时监测网页、RSS和NewsLetter的更新，并将其转为RSS。然后，我们可以将对接到TinyTinyRss上，并通过它的手机客户端在通勤路上阅读。当阅读到不错的文章时，我们可以添加评论并发布到TinyTinyRss的一个独立Feed中。
+Trước tiên, bằng cách tận dụng CheckChan, RSSHub, Kill the newsletter, ta có thể theo dõi cập nhật của trang web, RSS và Newsletter bất cứ lúc nào, và chuyển chúng thành RSS. Sau đó, ta có thể kết nối vào TinyTinyRss, và đọc trên đường đi làm qua client di động của nó. Khi đọc được bài hay, ta có thể thêm bình luận và đăng vào một Feed độc lập của TinyTinyRss.
 
-我们使用一个定时脚本读取这个Feed，并根据评论内容，调用GPT等AI进行翻译、摘要、总结等处理。最后将处理好的内容自动发布到微博或Twitter上。
+Ta dùng một script chạy định kỳ đọc Feed này, và dựa theo nội dung bình luận, gọi các AI như GPT để dịch, tóm tắt, tổng hợp. Cuối cùng tự động đăng nội dung đã xử lý lên Weibo hoặc Twitter.
 
-这样，我们几乎构建了一个全自动的生活方式副产品生成流程，仅需用户在手机上阅读并进行点评。
+Như vậy, ta gần như đã xây dựng được một quy trình sinh sản phẩm phụ từ lối sống hoàn toàn tự động, người dùng chỉ cần đọc và bình luận trên điện thoại.
 
-兴趣爱好副产品
+Sản phẩm phụ từ sở thích
 -------
 
-兴趣爱好副产品和生活方式副产品非常类似，区别只是它来源于兴趣爱好。这里要强调的是，一个反常识的事实时，很多人以为自己有兴趣爱好，但大部分时候都只是叶公好龙，并没有真正在兴趣爱好上投入太多，「玩都玩不专业」。
+Sản phẩm phụ từ sở thích rất giống sản phẩm phụ từ lối sống, khác biệt chỉ là nó bắt nguồn từ sở thích cá nhân. Điều cần nhấn mạnh ở đây là một sự thật đi ngược trực giác: nhiều người tưởng mình có sở thích, nhưng phần lớn chỉ là «diệp công hiếu long» (yêu thích hời hợt bề ngoài), chưa thực sự đầu tư nhiều cho sở thích, «chơi cũng chẳng chơi cho chuyên nghiệp nổi».
 
-还有的人可能兴趣爱好很多，但都浅尝辄止，每隔一个月换一个。这种也难以产生优质副产品。如果没有能坚持数年持续投入的兴趣爱好，我们更建议考虑其他副产品。
+Còn có người sở thích rất nhiều, nhưng đều cưỡi ngựa xem hoa, cứ cách một tháng lại đổi một cái. Kiểu này cũng khó sinh ra sản phẩm phụ chất lượng. Nếu không có sở thích nào có thể kiên trì đầu tư liên tục trong nhiều năm, chúng tôi khuyên bạn nên cân nhắc các sản phẩm phụ khác.

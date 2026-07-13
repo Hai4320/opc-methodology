@@ -1,13 +1,13 @@
 # README
 
-## 授权说明
+## Giấy phép
 
-本书采用[CC-BY-NC-SA协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)发布。
+Cuốn sách này được phát hành theo [giấy phép CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans).
 
-- 您可以复制、发行、展览、表演、放映、广播或通过信息网络传播本作品，但必须署名作者并添加链接到[本书GitHub仓库](https://github.com/easychen/one-person-businesses-methodology-v2.0)。
-- 不得为商业目的而使用本作品。
-- 仅在遵守与本作品相同的许可条款下，您才能散布由本作品产生的派生作品。
+- Bạn có thể sao chép, phát hành, trưng bày, biểu diễn, trình chiếu, phát sóng hoặc truyền bá tác phẩm này qua mạng thông tin, nhưng phải ghi tên tác giả và thêm liên kết đến [kho GitHub của cuốn sách](https://github.com/easychen/one-person-businesses-methodology-v2.0).
+- Không được sử dụng tác phẩm này cho mục đích thương mại.
+- Chỉ khi tuân thủ các điều khoản giấy phép giống với tác phẩm này, bạn mới được phân phối các tác phẩm phái sinh từ tác phẩm này.
 
-## 一人企业方法论
+## Phương pháp luận Doanh nghiệp Một người
 
 ![](images/opb-book-cover-2.1.jpg)

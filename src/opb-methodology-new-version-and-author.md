@@ -1,121 +1,121 @@
-# 新版方法论概述
+# Tổng quan phương pháp luận phiên bản mới
 
-新版「一人企业方法论」
+「Phương pháp luận doanh nghiệp một người」 phiên bản mới
 -----------
 
-「一人企业方法论」这个名字大家听起来可能有点耳熟，因为我之前在GitHub上分享过一篇长文，叫做《[一人公司的方法论](https://github.com/easychen/one-person-businesses-methodology)》。它主要是针对独立开发者分享运营一人企业的一些经验。
+Cái tên 「phương pháp luận doanh nghiệp một người」 nghe có thể hơi quen tai, vì trước đây tôi từng chia sẻ trên GitHub một bài viết dài mang tên 《[Phương pháp luận công ty một người](https://github.com/easychen/one-person-businesses-methodology)》. Bài viết đó chủ yếu chia sẻ với các lập trình viên phát triển độc lập (indie dev) một số kinh nghiệm vận hành doanh nghiệp một người.
 
-经过两到三年的不断迭代，我们现在有了2.0版的「一人企业方法论」。这个名字之所以把「公司」换成了「企业」，是因为「一人公司」容易与公司法里面一人制公司产生混淆，所以我把它改成了「企业」这个词。
+Sau hai đến ba năm liên tục cải tiến, giờ đây chúng ta đã có 「phương pháp luận doanh nghiệp một người」 phiên bản 2.0. Sở dĩ trong tên gọi, 「công ty」 được đổi thành 「doanh nghiệp」 là vì 「công ty một người」 dễ gây nhầm lẫn với loại hình công ty một thành viên trong luật doanh nghiệp, nên tôi đã đổi sang từ 「doanh nghiệp」.
 
 ![](images/image-1024x562.png)
 
-新版方法论
+Phương pháp luận phiên bản mới
 
-### 区别其一-更系统化
+### Khác biệt thứ nhất - Hệ thống hóa hơn
 
-新版最大的不同，是引入了系统化的思维。之前思路上的局限是把一人业务和一人企业等同起来了，无视了多个一人业务之间的协同和资源重用。新版方法论认为一人企业的核心是维持一个能不断带来被动收入的资产池，需要定期对其中的资产进行维护和重配置。
+Điểm khác biệt lớn nhất của phiên bản mới là đưa vào tư duy hệ thống. Hạn chế trong cách nghĩ trước đây là đánh đồng nghiệp vụ một người với doanh nghiệp một người, bỏ qua sự phối hợp và tái sử dụng nguồn lực giữa nhiều nghiệp vụ một người. Phương pháp luận phiên bản mới cho rằng cốt lõi của doanh nghiệp một người là duy trì một bể tài sản có thể liên tục mang lại thu nhập thụ động, cần định kỳ bảo trì và tái phân bổ các tài sản trong đó.
 
-### 区别其二-面向所有副业创业人群
+### Khác biệt thứ hai - Hướng tới mọi người khởi nghiệp bằng side project
 
-另外一点不同就是，之前《一人公司方法论》那篇长文主要是面向独立开发者的。而我们的新版方法论是面向所有副业创业人群的，无论是否会编程，你都可以学习它。
+Một điểm khác biệt nữa là, bài viết dài 《Phương pháp luận công ty một người》 trước đây chủ yếu hướng tới lập trình viên phát triển độc lập. Còn phương pháp luận phiên bản mới của chúng ta hướng tới tất cả những người khởi nghiệp bằng side project — dù biết lập trình hay không, bạn đều có thể học nó.
 
-因为随着开源软件、NoCode以及人工智能技术的成熟，很多不会编程的人也可以在这些工具的帮助下，非常快地搭建起自己的商业平台。这种快速搭建的商业平台不一定完美，但它够用。
+Bởi vì cùng với sự trưởng thành của phần mềm mã nguồn mở, NoCode và công nghệ trí tuệ nhân tạo, nhiều người không biết lập trình cũng có thể nhờ sự trợ giúp của những công cụ này để dựng nên nền tảng kinh doanh của riêng mình rất nhanh chóng. Nền tảng kinh doanh dựng nhanh kiểu này chưa chắc hoàn hảo, nhưng nó đủ dùng.
 
-这背后的一个逻辑是，我们要需要先构建MVP和原型来验证需求。而用于验证的产品本身不需要非常精细的技术；当业务原型运转起来以后，我们就有了现金流，也可以雇专门的人来做这些事情 ------ 技术也就不再是门槛。这部分内容我们会在以后专门讨论。
+Logic đằng sau điều này là: chúng ta cần xây dựng MVP và nguyên mẫu trước để kiểm chứng nhu cầu. Mà sản phẩm dùng để kiểm chứng thì bản thân nó không cần công nghệ quá tinh xảo; khi nguyên mẫu nghiệp vụ đã vận hành, chúng ta có dòng tiền, và cũng có thể thuê người chuyên môn làm những việc này ------ công nghệ khi đó không còn là rào cản nữa. Phần nội dung này chúng ta sẽ bàn riêng sau.
 
-作者简介
+Giới thiệu tác giả
 ----
 
-先介绍下我自己。
+Trước tiên, xin tự giới thiệu về bản thân.
 
-### 独立开发者
+### Lập trình viên phát triển độc lập
 
 ![](images/Screen-Shot-2024-03-11-at-9.42.20-PM-1024x580.png)
 
-Easy开发的独立项目
+Các dự án độc lập do Easy phát triển
 
-首先，我是一个独立开发者。
+Trước hết, tôi là một lập trình viên phát triển độc lập (indie dev).
 
-我从大学时就开始做独立开发，想尝试把自己的学费挣回来。从此掉进了独立开发的大坑一发不可收拾，即使在公司上班的时候，我也通过副业的方式做一些对主业有帮助的开源项目。
+Tôi bắt đầu làm phát triển độc lập từ thời đại học, muốn thử kiếm lại tiền học phí của mình. Từ đó tôi rơi vào "hố sâu" phát triển độc lập không dứt ra được; ngay cả khi đi làm ở công ty, tôi vẫn làm một số dự án mã nguồn mở có ích cho công việc chính dưới hình thức side project.
 
--   大概在六七年前，我做了一个极简推送服务，叫做[Server酱](https://sct.ftqq.com/)，这个服务因为做得久，用户还是不少的，有超过20万的用户。
--   前两年，又做了一个网页监控的浏览器插件，[Check酱](https://github.com/easychen/checkchan-dist)。这个项目和Server酱配合使用非常好用。
--   最新的一个作品就是关于AI的工作流的，叫做FlowDeer。它是一个思维导图，加上AutoGPT，再加上多智能体的一个整合形式的工具，可以处理复杂逻辑，也可以用来做深度思考。这个产品目前还在内测。
+-   Khoảng sáu bảy năm trước, tôi làm một dịch vụ đẩy thông báo tối giản tên là [ServerChan](https://sct.ftqq.com/) (Server酱). Dịch vụ này nhờ làm lâu năm nên có khá nhiều người dùng, hơn 200.000 người.
+-   Hai năm trước, tôi lại làm một tiện ích mở rộng trình duyệt để giám sát trang web, [CheckChan](https://github.com/easychen/checkchan-dist) (Check酱). Dự án này kết hợp với ServerChan dùng rất tiện.
+-   Tác phẩm mới nhất là một công cụ về quy trình làm việc với AI, tên là FlowDeer. Nó là dạng công cụ tích hợp giữa sơ đồ tư duy, AutoGPT và đa tác tử (multi-agent), có thể xử lý logic phức tạp, cũng có thể dùng để tư duy sâu. Sản phẩm này hiện vẫn đang thử nghiệm nội bộ.
 
-但比较有意思的是，我之前做独立开发项目的收入，实际上都没有能支撑起我的生活开销。
+Nhưng điều khá thú vị là, thu nhập từ các dự án phát triển độc lập trước đây của tôi thực ra chưa bao giờ đủ trang trải chi phí sinh hoạt.
 
-### 课程主讲人
+### Giảng viên khóa học
 
-所以，我还有一个身份：课程主讲人。
+Vì vậy, tôi còn một thân phận nữa: giảng viên khóa học.
 
 ![](images/image-1-1024x604.png)
 
-方糖技能站首页
+Trang chủ Fangtang Skill Stack
 
-这个「[方糖技能栈](https://stack.ftqq.com/)」网站，主要就是我的一些课程。它本来是我独立开发时的一个副产品。但后来反而是这个副产品实现了我的「最低可行利润」的达成。
+Trang web 「[Fangtang Skill Stack](https://stack.ftqq.com/)」 (方糖技能栈) này chủ yếu là các khóa học của tôi. Ban đầu nó vốn là một sản phẩm phụ trong quá trình tôi làm phát triển độc lập. Nhưng về sau, chính sản phẩm phụ này lại giúp tôi đạt được 「lợi nhuận khả thi tối thiểu」.
 
-所谓的最低可行利润，就是指赚到的这个钱可以养活自己，这样就不需要迫于生活压力去找工作。这个对于全职创业的人，或者说全职做一人企业的人来讲，其实是非常重要的一个里程碑。我们在后边会聊到。
+Cái gọi là lợi nhuận khả thi tối thiểu, nghĩa là số tiền kiếm được đủ để nuôi sống bản thân, nhờ đó không phải vì áp lực cuộc sống mà đi tìm việc làm. Với người khởi nghiệp toàn thời gian, hay nói cách khác là người làm doanh nghiệp một người toàn thời gian, đây thực sự là một cột mốc rất quan trọng. Chúng ta sẽ bàn đến ở phần sau.
 
-### 方法论探索者和分享者
+### Người khám phá và chia sẻ phương pháp luận
 
-另外一方面，我对怎么靠技术挣钱这件事情，尤其是以个体的方式、优雅地挣钱很感兴趣。最开始，我写了[《程序员如何优雅地挣零花钱》](https://github.com/easychen/howto-make-more-money)。因为之前都是面向程序员的，所以我把这些文章和电子书都发布到了GitHub上，它们累积到现在大约有16K的Star（加星）。
+Mặt khác, tôi rất hứng thú với việc làm sao kiếm tiền bằng công nghệ, đặc biệt là kiếm tiền một cách thanh lịch theo phương thức cá nhân. Ban đầu, tôi viết [《Lập trình viên kiếm tiền tiêu vặt một cách thanh lịch như thế nào》](https://github.com/easychen/howto-make-more-money). Vì trước đây đều hướng tới lập trình viên, nên tôi đã đăng những bài viết và sách điện tử này lên GitHub, đến nay chúng tích lũy được khoảng 16K Star (đánh dấu sao).
 
 ![](images/image-2-1024x601.png)
 
-Easy关于副业和一人企业的分享
+Những chia sẻ của Easy về side project và doanh nghiệp một người
 
-在之后，我写作了[《精益副业》](https://github.com/easychen/lean-side-bussiness)这本书，它涵盖了一些实操的细节，比如怎么通过制作网课来变现、怎么开发软件来变现；讨论了在进行这些创作时，产品流程怎样最节省资源，设计流程应该安排最符合程序员习惯，以及做副业时要考虑的具体问题。这本书也是以免费电子书的形式发布到了GitHub上，现在大约有8K的Star。
+Sau đó, tôi viết cuốn sách [《Side project tinh gọn》](https://github.com/easychen/lean-side-bussiness) (精益副业), bao quát một số chi tiết thực hành, ví dụ như cách kiếm tiền bằng việc làm khóa học trực tuyến, cách kiếm tiền bằng phát triển phần mềm; thảo luận về việc khi thực hiện những sáng tạo này, quy trình sản phẩm làm sao tiết kiệm nguồn lực nhất, quy trình thiết kế nên sắp xếp thế nào cho phù hợp nhất với thói quen của lập trình viên, cùng những vấn đề cụ thể cần cân nhắc khi làm side project. Cuốn sách này cũng được phát hành dưới dạng sách điện tử miễn phí trên GitHub, hiện có khoảng 8K Star.
 
-最后，就是前文提到的《一人公司方法论》这篇长文。当时，我对这个方法论还只是有一个比较粗浅的认知，感受到了一个大体轮廓，经过最近这两到三年的迭代，现在这个方法论已经被细化了许多。这也是我们本书想要和大家分享的内容。
+Cuối cùng, chính là bài viết dài 《Phương pháp luận công ty một người》 đã nhắc ở trên. Khi đó, nhận thức của tôi về phương pháp luận này còn khá sơ sài, mới chỉ cảm nhận được một đường nét tổng thể; qua hai ba năm cải tiến gần đây, phương pháp luận này giờ đã được tinh chỉnh hơn rất nhiều. Đây cũng chính là nội dung cuốn sách này muốn chia sẻ với mọi người.
 
-所以回过头来看，在挣钱这件事上，我还是比较执着的，前前后后大约花了好些年的时间来琢磨这些事情。
+Vậy nên nhìn lại, trong chuyện kiếm tiền, tôi vẫn khá kiên trì, trước sau đã dành nhiều năm trời để nghiền ngẫm những điều này.
 
-本方法论的局限性
+Hạn chế của phương pháp luận này
 --------
 
-虽然我们这个方法论的Slogan是「从螺丝钉到超级个体」，但比较不幸的是，我目前最多算是一个过气的KOL。在我所有社交媒体中，粉丝数最多的微博，也只有60万左右。因此，我无法分享如何一步步成为超级个体的完整经验 ------ 因为我自己也还未成为超级个体。本书中能分享的，是截止到一个「一般个体」节点的经验和教训。
+Tuy Slogan của phương pháp luận này là 「Từ con ốc vít đến siêu cá nhân」, nhưng khá đáng tiếc là, hiện tại tôi nhiều nhất chỉ được tính là một KOL hết thời. Trong tất cả các mạng xã hội của tôi, Weibo nơi có nhiều người theo dõi nhất cũng chỉ khoảng 600.000. Vì vậy, tôi không thể chia sẻ kinh nghiệm trọn vẹn về cách từng bước trở thành siêu cá nhân ------ bởi chính tôi cũng chưa trở thành siêu cá nhân. Điều cuốn sách này có thể chia sẻ là kinh nghiệm và bài học tính đến mốc 「cá nhân bình thường」.
 
-换个角度看，这或许也有好的方面。如果我已经成为超级个体，那么我很可能就不会花这么多时间来反思和总结方法论，并将其作为副产品分享出来。
+Nhìn từ góc độ khác, điều này có lẽ cũng có mặt tốt. Nếu tôi đã trở thành siêu cá nhân, thì rất có thể tôi sẽ không dành nhiều thời gian như vậy để suy ngẫm và tổng kết phương pháp luận, rồi chia sẻ nó ra như một sản phẩm phụ.
 
 ![](images/image-3-1024x527.png)
 
-成为超级个体过程中的几个前置节点
+Vài mốc trung gian trên con đường trở thành siêu cá nhân
 
-在成为「超级个体」之前，我标记了两个前置节点。分别是「存活个体」节点和「一般个体」节点。
+Trước khi trở thành 「siêu cá nhân」, tôi đánh dấu hai mốc trung gian: mốc 「cá nhân sống sót」 và mốc 「cá nhân bình thường」.
 
-### 「存活个体」节点
+### Mốc 「cá nhân sống sót」
 
-「存活个体」节点，就是达到「最低可行利润」的状态，我把它称为「伪-财务自由」。
+Mốc 「cá nhân sống sót」 chính là trạng thái đạt được 「lợi nhuận khả thi tối thiểu」, tôi gọi nó là 「tự do tài chính giả」.
 
-之所以 加「伪」字，是因为它可能需要通过控制和降低生活成本，来实现让副业或独立创业项目带来的利润持平生活开销。比如，北京高昂的房价极大的拉高了生活成本，如果我们回房价较低的一些新一线城市工作和生活，那么我们就更容易达到这个节点。
+Sở dĩ thêm chữ 「giả」 là vì nó có thể cần thông qua việc kiểm soát và cắt giảm chi phí sinh hoạt để khiến lợi nhuận từ side project hoặc dự án khởi nghiệp độc lập cân bằng với chi tiêu cuộc sống. Ví dụ, giá nhà đắt đỏ ở Bắc Kinh kéo chi phí sinh hoạt lên rất cao; nếu chúng ta chuyển về làm việc và sinh sống ở những thành phố hạng nhất mới có giá nhà thấp hơn, thì sẽ dễ đạt mốc này hơn.
 
-当然，真正的财务自由，是不需要通过降低生活标准来实现的，这个节点会在更后边。
+Tất nhiên, tự do tài chính thực sự thì không cần hạ thấp tiêu chuẩn sống để đạt được, mốc đó nằm ở xa hơn nữa.
 
-### 「一般个体」节点
+### Mốc 「cá nhân bình thường」
 
-「存活个体」节点的意义在于，一旦我们达到这个节点，只要愿意，就可以经年累月地全职经营自己的业务。而「一般个体」节点，则是指你的副业或者独立创业项目收入达到或超过你主业的收入。这种状态我称之为「工作自由」，意味着即使你不上班不工作，也能有和之前上班时持平的被动收入。
+Ý nghĩa của mốc 「cá nhân sống sót」 là ở chỗ: một khi đạt mốc này, chỉ cần muốn, chúng ta có thể toàn tâm toàn ý kinh doanh nghiệp vụ của mình năm này qua năm khác. Còn mốc 「cá nhân bình thường」 nghĩa là thu nhập từ side project hoặc dự án khởi nghiệp độc lập của bạn đạt hoặc vượt thu nhập từ công việc chính. Trạng thái này tôi gọi là 「tự do công việc」, nghĩa là dù không đi làm không lao động, bạn vẫn có thu nhập thụ động ngang với hồi còn đi làm.
 
-对一些人而言，「工作自由」可能等同于「财务自由」；但对于这种主业收入并不能支撑自由消费的同学来讲，「财务自由」需要更多一些的收入。这些节点的定义，只是便于在后续分享中使用，并不是特别权威的说法。你完全可以按照自己的想法来重新定义。
+Với một số người, 「tự do công việc」 có thể đồng nghĩa với 「tự do tài chính」; nhưng với những bạn mà thu nhập từ công việc chính vốn không đủ để chi tiêu thoải mái, thì 「tự do tài chính」 cần mức thu nhập cao hơn nữa. Định nghĩa các mốc này chỉ để tiện dùng trong các phần chia sẻ tiếp theo, không phải cách nói đặc biệt chính thống. Bạn hoàn toàn có thể định nghĩa lại theo ý mình.
 
-总之，目前我基本处于「工作自由」的「一般个体」节点。也就是说，即使我每天无所事事的到处溜达，每个月的被动收入依然和我之前上班是相差不多。
+Tóm lại, hiện tại tôi cơ bản đang ở mốc 「cá nhân bình thường」 với 「tự do công việc」. Nghĩa là, dù mỗi ngày tôi có rong chơi vô công rồi nghề, thu nhập thụ động hàng tháng vẫn không khác mấy so với hồi còn đi làm.
 
-不过现实是，资产的持续性都是有限的，也需要定期维护（这个我们后续会讲到）；因为市场变动等原因，有些资产可能突然就没了，因此如果想要更好的发展，还要不停地创造新资产，来降低风险。所以我现在依然处于一个满负荷工作的状态。不过可以不工作和不得不工作，是完全不同的：你随时可以给自己放一个长假。
+Tuy nhiên thực tế là, tính bền vững của tài sản đều có hạn, cũng cần bảo trì định kỳ (điều này chúng ta sẽ nói sau); do biến động thị trường và các nguyên nhân khác, có những tài sản có thể đột nhiên biến mất, vì vậy nếu muốn phát triển tốt hơn, còn phải không ngừng tạo ra tài sản mới để giảm rủi ro. Cho nên hiện tại tôi vẫn đang trong trạng thái làm việc hết công suất. Nhưng "có thể không làm việc" và "buộc phải làm việc" là hoàn toàn khác nhau: bạn có thể tự cho mình một kỳ nghỉ dài bất cứ lúc nào.
 
-方法论的意义
+Ý nghĩa của phương pháp luận
 ------
 
-在本书里边，我目前能够分享的，也就是「从螺丝钉到一般个体（工作自由）」的这一部分。希望后续有机会能补全「从一般个体到超级个体」的部分。
+Trong cuốn sách này, điều tôi hiện có thể chia sẻ chính là phần 「từ con ốc vít đến cá nhân bình thường (tự do công việc)」. Hy vọng sau này có cơ hội bổ sung trọn vẹn phần 「từ cá nhân bình thường đến siêu cá nhân」.
 
 ![](images/image-4-1024x535.png)
 
-分享的作用和意义
+Tác dụng và ý nghĩa của việc chia sẻ
 
-还有一点需要特别说明的是，这里的分享并不能让你跨越成长过程，从螺丝钉一步成为超级个体或者一般个体。这个成长过程是少不了的，分享的意义在于「少走弯路」，我们希望通过分享，可以帮助大家避免一些我过去花费大量时间去犯的错误。
+Còn một điểm cần nói rõ: những chia sẻ ở đây không thể giúp bạn nhảy cóc qua quá trình trưởng thành, từ con ốc vít một bước thành siêu cá nhân hay cá nhân bình thường. Quá trình trưởng thành này là không thể thiếu; ý nghĩa của việc chia sẻ nằm ở chỗ 「bớt đi đường vòng」 — chúng tôi hy vọng qua chia sẻ có thể giúp mọi người tránh được một số sai lầm mà tôi từng tốn rất nhiều thời gian để mắc phải.
 
-当然，很多行为在之前的错误，在当下又不一定是错误了。所以我们强调的是方法论而非结论。市场需求和竞争环境在不断变化，分享的结论可能并不那种重要。最重要的是，我们需要学会使用一套思考和分析工具，针对不同的情况自己独立思考并得出结论。
+Tất nhiên, nhiều hành vi từng là sai lầm trước đây, thì ở hiện tại chưa chắc đã còn là sai lầm. Vì vậy điều chúng tôi nhấn mạnh là phương pháp luận chứ không phải kết luận. Nhu cầu thị trường và môi trường cạnh tranh luôn thay đổi, những kết luận được chia sẻ có thể không quan trọng đến vậy. Quan trọng nhất là chúng ta cần học cách sử dụng một bộ công cụ tư duy và phân tích, để tự mình độc lập suy nghĩ và rút ra kết luận cho từng tình huống khác nhau.
 
-很多关于创业和副业的书，甚至不少成功人士的付费课程，往往也只分享结论而非方法论。授人以鱼不如授人以渔。好消息是，近年国外创业理论体系逐步成熟，关于创业的方法论正变得清晰起来；坏消息是，创业方法论并不适合一人企业。
+Nhiều sách về khởi nghiệp và side project, thậm chí không ít khóa học trả phí của những người thành công, thường cũng chỉ chia sẻ kết luận chứ không phải phương pháp luận. Cho cá không bằng cho cần câu. Tin tốt là, những năm gần đây hệ thống lý thuyết khởi nghiệp ở nước ngoài dần trưởng thành, phương pháp luận về khởi nghiệp đang trở nên rõ ràng; tin xấu là, phương pháp luận khởi nghiệp lại không phù hợp với doanh nghiệp một người.
 
-虽然个体崛起已经是大势所趋，但关于这方面的书籍却多浮于表面。这几年我阅读了大量一人企业相关资料，尝试逐步将其中的观点和创业方法论进行融合，并花了大量时间在实践中检验。于是有了现在这个基本成型的2.0版方法论。
+Tuy sự trỗi dậy của cá nhân đã là xu thế lớn, nhưng sách vở về mảng này phần nhiều còn hời hợt. Mấy năm nay tôi đã đọc rất nhiều tài liệu liên quan đến doanh nghiệp một người, thử từng bước dung hợp các quan điểm trong đó với phương pháp luận khởi nghiệp, và dành rất nhiều thời gian kiểm nghiệm trong thực tiễn. Từ đó mới có phương pháp luận phiên bản 2.0 cơ bản thành hình như hiện nay.
 
-不谦虚地说，这是一人企业和副业创业领域少有的深度思考工具。实践过的人，都会感受到它的价值。希望它能成为你成功路上的强大助力。
+Nói không khiêm tốn thì, đây là công cụ tư duy sâu hiếm có trong lĩnh vực doanh nghiệp một người và khởi nghiệp bằng side project. Ai đã thực hành qua đều sẽ cảm nhận được giá trị của nó. Hy vọng nó có thể trở thành trợ lực mạnh mẽ trên con đường thành công của bạn.

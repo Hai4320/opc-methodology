@@ -53,6 +53,28 @@
 | 独立开发 | Indie development | Phát triển độc lập (indie dev) | Chua thêm "indie dev" vì cộng đồng Việt quen thuật ngữ tiếng Anh. |
 | 数字商品 | Digital goods | Sản phẩm số | |
 
+## Bổ sung khi dịch nội dung sách (src/)
+
+| Tiếng Trung | Tiếng Anh | Tiếng Việt | Ghi chú |
+|---|---|---|---|
+| 最小可行产品 | Minimum viable product (MVP) | Sản phẩm khả thi tối thiểu (MVP) | |
+| 最低可行利润 | Minimum viable profit (MVPr) | Lợi nhuận khả thi tối thiểu (MVPr) | Khái niệm riêng của tác giả. |
+| 价值主张 | Value proposition | Tuyên bố giá trị | Từ Business Model Canvas. |
+| 众筹 | Crowdfunding | Gọi vốn cộng đồng (crowdfunding) | Phân biệt với 众包 = crowdsourcing. |
+| 种子用户 | Seed users | Người dùng hạt giống | |
+| 复利 | Compound interest | Lãi kép | |
+| 护城河 | Moat | Con hào phòng thủ | Ẩn dụ lợi thế cạnh tranh (Warren Buffett). |
+| 反脆弱性 | Antifragility | Tính kháng mong manh | Theo Nassim Taleb. |
+| 超级个体 | Super individual | Siêu cá nhân | |
+| 自媒体 | Self-media | Self-media | Giữ tiếng Anh; khái niệm gốc Trung Quốc, gần với "content creator". |
+| 落地页 | Landing page | Landing page | Giữ tiếng Anh. |
+| 公众号 | WeChat official account | Kênh công khai WeChat | Nền tảng đặc thù Trung Quốc. |
+| 三池四能力 | Three pools, four capabilities | Ba pool bốn năng lực | Khung hạ tầng của sách: user/content/product pool + 4 năng lực. |
+| 时间片 | Time slice | Lát cắt thời gian | |
+| 痛点 | Pain point | Điểm đau | |
+
+Tên riêng chua kèm chữ Hán lần đầu xuất hiện: ServerChan (Server酱), CheckChan (Check酱), Fangtang Skill Stack (方糖技能栈), Fuli Words (福利单词), TuXiaoChao (兔小巢).
+
 ## Quy ước chung
 
 - Tên riêng, thương hiệu, URL: giữ nguyên.

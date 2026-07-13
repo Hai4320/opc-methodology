@@ -1,190 +1,190 @@
-# 底层逻辑:资产和被动收入
+# Logic nền tảng: Tài sản và thu nhập thụ động
 
-出售时间片不可能规模化
+Bán lát cắt thời gian không thể mở rộng quy mô
 -----------
 
-对二十一世纪来说最宝贵的是人才，但对一人企业来说，最宝贵的却是时间。最稀缺的就是最宝贵的。正如本书前文中所述的，对于只有一个全职员工的企业，即使我们每天工作10小时，一周也只有50个工时。如果是以Side Project的方式来做，可用工时会更少。
+Với thế kỷ hai mươi mốt, thứ quý giá nhất là nhân tài; nhưng với doanh nghiệp một người, thứ quý giá nhất lại là thời gian. Cái khan hiếm nhất chính là cái quý giá nhất. Như phần trước của sách đã nói, với một doanh nghiệp chỉ có một nhân viên toàn thời gian, kể cả mỗi ngày làm 10 tiếng, một tuần cũng chỉ có 50 giờ công. Nếu làm theo kiểu Side Project, số giờ khả dụng còn ít hơn nữa.
 
 ![](images/image-29-1024x884.png)
 
-实现平台的日薪
+Mức lương ngày trên nền tảng Shixian
 
-在程序员灵活用工平台shixian.com上，腾讯阿里百度等大厂的员工兼职日薪约为1000~1500，我们按1500/8小时计算，一人企业如果单纯售卖时间片，其收入上限为 (1500/8)*50*4 = 37500。也就不到4万块钱。注意这是上限，而且你需要每天工作10小时。即使你通过海外平台接单，我们假设收入翻一倍，却依然可以得出结论：出售时间片不可能规模化。
+Trên nền tảng việc làm linh hoạt cho lập trình viên shixian.com, nhân viên các công ty lớn như Tencent, Alibaba, Baidu làm thêm với mức lương ngày khoảng 1000~1500 tệ. Tính theo 1500/8 giờ, nếu doanh nghiệp một người đơn thuần bán lát cắt thời gian, trần thu nhập sẽ là (1500/8)*50*4 = 37500 — tức chưa đến 40 nghìn tệ. Lưu ý đây là mức trần, và bạn phải làm việc 10 tiếng mỗi ngày. Kể cả nhận việc qua nền tảng nước ngoài, giả sử thu nhập gấp đôi, ta vẫn rút ra được kết luận: bán lát cắt thời gian không thể mở rộng quy mô.
 
-所以我们需要一种不依赖于时间片就能挣钱的方式。
+Vậy nên chúng ta cần một cách kiếm tiền không phụ thuộc vào lát cắt thời gian.
 
-资产和被动收入
+Tài sản và thu nhập thụ động
 -------
 
 ![](images/image-30.png)
 
-《穷爸爸富爸爸》
+《Cha giàu cha nghèo》
 
-在《穷爸爸富爸爸》中，罗伯特-清崎说过一句很经典的话：富人不为钱工作。要想规模化财富，就要让钱为你工作。解决办法也很简单，就是不断持有资产。
+Trong 《Cha giàu cha nghèo》, Robert Kiyosaki có một câu rất kinh điển: người giàu không làm việc vì tiền. Muốn nhân rộng của cải, phải để tiền làm việc cho bạn. Giải pháp cũng rất đơn giản: không ngừng nắm giữ tài sản.
 
 ![](images/image-660x1024.jpg)
 
-《穷爸爸富爸爸》中对资产的定义
+Định nghĩa tài sản trong 《Cha giàu cha nghèo》
 
-书中对资产的定义是：「资产就是能把钱放进你口袋里的东西」。换言之，如果某样东西能在你不工作的时候为你带来持续的收入，那么它就可以被认为是资产。本书将沿用这个定义。
+Định nghĩa tài sản trong sách là: "tài sản là thứ bỏ tiền vào túi bạn". Nói cách khác, nếu một thứ có thể mang lại thu nhập liên tục ngay cả khi bạn không làm việc, thì nó có thể được coi là tài sản. Cuốn sách này sẽ dùng theo định nghĩa đó.
 
 ![](images/image-31-1024x810.png)
 
-让资产为你工作
+Để tài sản làm việc cho bạn
 
-让我们来梳理下逻辑，因为「出售时间片不能规模化」，所以我们「需要一种不受时间片限制的、增加收入的方式」，而「能带来被动收入的资产」正是解决之道。
+Hãy sắp xếp lại mạch logic: vì "bán lát cắt thời gian không thể mở rộng quy mô", nên chúng ta "cần một cách tăng thu nhập không bị lát cắt thời gian giới hạn", và "tài sản có thể mang lại thu nhập thụ động" chính là lời giải.
 
-那么，剩下的问题只有一个，如何才能获得能带来被动收入的资产呢？
+Vậy chỉ còn lại một câu hỏi: làm sao để có được tài sản mang lại thu nhập thụ động?
 
-如何获得资产
+Làm sao để có tài sản
 ------
 
-资产可以「把钱放进你的口袋」，这可是会下金蛋的鸡，当然是人人都想要了。既然人人想要，就难以轻易获得了。
+Tài sản có thể "bỏ tiền vào túi bạn" — đây đúng là con gà đẻ trứng vàng, tất nhiên ai cũng muốn. Mà đã ai cũng muốn thì khó lòng có được dễ dàng.
 
 ![](images/image-32-1024x421.png)
 
-如何获得资产
+Làm sao để có tài sản
 
-总体上来说，获得资产的方式无非两种：富则投资收购、穷则自己创造。
+Nhìn chung, cách có được tài sản chỉ gói gọn trong hai đường: giàu thì đầu tư mua lại, nghèo thì tự mình tạo ra.
 
-### 富则投资收购
+### Giàu thì đầu tư mua lại
 
-如果你手上钱比较多（这种情况比较少），那么可以通过投资或收购的方式来获得资产。这将帮我们跨过试错环节，直接去收购那些已经被市场认可，开始有不错的MRR（每月周期性收入）的资产。
+Nếu bạn có nhiều tiền trong tay (trường hợp này khá hiếm), thì có thể có tài sản qua con đường đầu tư hoặc mua lại. Cách này giúp ta bỏ qua khâu thử-sai, đi thẳng đến mua những tài sản đã được thị trường công nhận, bắt đầu có MRR (doanh thu định kỳ hằng tháng) khá tốt.
 
 ![](images/image-33-1024x1018.png)
 
 indiemaker.co
 
-#### 收购Side project
+#### Mua lại Side project
 
-例如，在Indie Maker这个网站上，我们可以看到许多程序员会销售他们的Side project。
+Ví dụ, trên website Indie Maker, chúng ta có thể thấy nhiều lập trình viên rao bán Side project của họ.
 
 ![](images/image-34-1024x1018.png)
 
-已经产生MRR的项目
+Các dự án đã có MRR
 
-其中一些已经有不错的MRR了。比如这个以18,700美金出售的项目，周期新月收入已经达到了2,000美元。如果我们有足够的资金，我们可以挑选一些比较合适的项目进行投资。
+Trong đó một số đã có MRR khá ổn. Chẳng hạn dự án được bán với giá 18.700 USD này, doanh thu định kỳ hằng tháng đã đạt 2.000 USD. Nếu có đủ vốn, chúng ta có thể chọn lấy vài dự án phù hợp để đầu tư.
 
-但是，在考虑价格时，我们也需要考虑到网站标注的MRR可能是临时性的。它也许不是虚假的，但可能是临时的。比如说，某些和流行热点相关的项目，可以在大火时获得很高的MRR，但之后可能是断崖式的下跌。而网站展示给我们的可能正好是某个高点时的数据。
+Nhưng khi cân nhắc giá, cũng cần tính đến việc MRR ghi trên website có thể chỉ là nhất thời. Nó có thể không giả, nhưng có thể chỉ tạm thời. Ví dụ, một số dự án ăn theo trào lưu nóng có thể đạt MRR rất cao lúc đỉnh sóng, nhưng sau đó lao dốc không phanh. Và con số website cho ta xem có khi lại đúng là dữ liệu tại một điểm đỉnh nào đó.
 
-另一方面，购买程序类资产时不应忽视后续的开发和维护成本。需求是会变动的、程序也不可能没有Bug。购买项目后，无论是维护还是定制开发都还需要雇佣程序员。这些都是成本，需要考虑进去。
+Mặt khác, khi mua tài sản dạng phần mềm, đừng bỏ qua chi phí phát triển và bảo trì về sau. Nhu cầu sẽ thay đổi, chương trình không thể không có bug. Sau khi mua dự án, dù là bảo trì hay phát triển tùy chỉnh đều vẫn phải thuê lập trình viên. Đó đều là chi phí, cần tính vào.
 
-#### 收购其他资产
+#### Mua lại các tài sản khác
 
 ![](images/image-35-1024x499.png)
 
-除了软件和SaaS产品之外，我们还可以考虑购买其他类型的资产。如网站、版权、房产、股份、账号以及一些自媒体平台。这会帮我们节省大量时间。
+Ngoài phần mềm và sản phẩm SaaS, chúng ta còn có thể cân nhắc mua các loại tài sản khác: website, bản quyền, bất động sản, cổ phần, tài khoản, và một số kênh trên nền tảng truyền thông tự thân. Cách này giúp ta tiết kiệm rất nhiều thời gian.
 
-但是，在购买这些资产时，我们需要思考一个问题：为什么这些已经产生月收入的资产的持有者想要出售它们？交易始终是围绕价值进行的，没有人是傻子。想明白出售背后的原因，才不容易买到有坑的资产。一个已经产生稳定MRR的资产，通常不会低价出售。出售者可能有他们的原因（例如需要现金），捡漏是存在的，但不常见。
+Nhưng khi mua những tài sản này, cần tự hỏi một câu: vì sao chủ sở hữu của những tài sản đang sinh thu nhập hằng tháng này lại muốn bán chúng? Giao dịch luôn xoay quanh giá trị, chẳng ai là kẻ ngốc. Nghĩ thấu lý do đằng sau việc rao bán thì mới đỡ mua phải tài sản có "hố". Một tài sản đã có MRR ổn định thường sẽ không bán giá rẻ. Người bán có thể có lý do riêng (ví dụ cần tiền mặt); chuyện vớ được món hời là có, nhưng không thường xuyên.
 
-所以通过购买方式获得的资产，必须在我们这里要能发挥出比它在原主手里更大的效果，挣到更多的钱才算是好的交易。一个常见的原因是协同效应。资产并不是孤立的，它可以和我们拥有的其他资产形成协同效应。比如我们如果拥有一个每天上万独立用户的垂直论坛，这时候收购一个在同一个群体上已经证明能产生MRR的APP，直接对接上就可以获得不错的现金流。
+Vậy nên tài sản có được qua con đường mua lại phải phát huy được hiệu quả lớn hơn khi ở tay chủ cũ, kiếm được nhiều tiền hơn, thì mới là thương vụ tốt. Một lý do phổ biến là hiệu ứng cộng hưởng. Tài sản không tồn tại cô lập; nó có thể cộng hưởng với các tài sản khác ta đang có. Ví dụ nếu ta sở hữu một diễn đàn chuyên ngành với hàng vạn người dùng độc lập mỗi ngày, thì việc mua lại một APP đã chứng minh sinh được MRR trên đúng nhóm người dùng đó, chỉ cần ghép thẳng vào là có dòng tiền khá tốt.
 
-考虑到收购本身的沟通成本、收购之后的维护成本以及风险，以及一人企业自身的有限资源，我通常认为只有能实现1+1>10的资产才是值得购买的。否则自己创造可能更划算。
+Xét đến chi phí giao tiếp trong quá trình mua, chi phí bảo trì sau khi mua cùng các rủi ro, và nguồn lực hữu hạn của chính doanh nghiệp một người, tôi thường cho rằng chỉ tài sản nào đạt được 1+1>10 mới đáng mua. Nếu không, tự tạo ra có khi kinh tế hơn.
 
-另外，如果想要投资股票，那就完全是另一个领域了，有很多专家可以为我们提供指导，不在本书的讨论范围之内。
+Ngoài ra, nếu muốn đầu tư cổ phiếu thì đó hoàn toàn là một lĩnh vực khác, có rất nhiều chuyên gia có thể hướng dẫn, không nằm trong phạm vi bàn luận của sách này.
 
-### 穷则自行创造
+### Nghèo thì tự mình tạo ra
 
-#### 数字商品创作
+#### Sáng tạo sản phẩm số
 
 ![](images/image-36-1024x581.png)
 
-数字商品创作的种类
+Các loại hình sáng tạo sản phẩm số
 
-许多人可能会先入为主地认为，由于自己不会编程，因此无法创造任何东西。这种观念在十年前是较为主流的。然而，随着公众号、网红文化和直播的兴起，人们开始意识到即使不精通技术，也能进行创造出极具价值的资产。
+Nhiều người có thể mặc định rằng vì mình không biết lập trình nên không tạo ra được thứ gì. Quan niệm này khá phổ biến mười năm trước. Nhưng cùng sự trỗi dậy của tài khoản công chúng (official account), văn hóa influencer và livestream, người ta bắt đầu nhận ra rằng dù không rành công nghệ vẫn có thể tạo ra những tài sản cực kỳ giá trị.
 
-数字商品的创作，如网络小说、在线课程、电子书、付费社群以及电子邮件列表，都是可行的路径。最新的，还有由OpenAI开放的、自定义GPT商店 GPT Store ，很多人都觉得它的潜力堪比Apple的App Store。
+Sáng tạo sản phẩm số — như tiểu thuyết mạng, khóa học trực tuyến, ebook, cộng đồng trả phí và danh sách email — đều là những con đường khả thi. Mới nhất còn có GPT Store, cửa hàng GPT tùy chỉnh do OpenAI mở, mà nhiều người đánh giá tiềm năng sánh ngang App Store của Apple.
 
-当然，不同类型创作的投入产出比和风险是不同的，比如网络小说虽然一旦成功收益颇高，但要想在[2200万网文作者](http://www.news.cn/culture/20230413/198b8af478f84b38a65c115fb43257bd/c.html)中脱颖而出也是非常困难的。这就涉及到资产的评分，这个我们放到后边讲。
+Tất nhiên, tỷ lệ đầu vào/đầu ra và rủi ro của mỗi loại hình sáng tạo là khác nhau. Ví dụ tiểu thuyết mạng tuy thành công thì thu nhập rất cao, nhưng để nổi bật giữa [22 triệu tác giả văn học mạng](http://www.news.cn/culture/20230413/198b8af478f84b38a65c115fb43257bd/c.html) cũng cực kỳ khó. Điều này liên quan đến việc chấm điểm tài sản, ta sẽ bàn ở phần sau.
 
-#### 通过NoCode创造互联网应用
+#### Tạo ứng dụng Internet bằng NoCode
 
 ![](images/image-37-1024x610.png)
 
-NoCode创作实例
+Ví dụ sáng tạo bằng NoCode
 
-并不是说不懂技术，就只能局限于前边我们提到的数字商品创造。这些年，NoCode软件已经逐渐成熟。所谓NoCode指的是将一系列可用于构建互联网应用的组件，通过拖拽、设置等方式，在完全不编码的前提下，实现业务逻辑，创建出一个功能完备的互联网应用。
+Không phải cứ không rành công nghệ thì chỉ bó hẹp trong các sản phẩm số nói trên. Những năm gần đây, phần mềm NoCode đã dần chín muồi. NoCode nghĩa là dùng một loạt component sẵn có để xây ứng dụng Internet: chỉ bằng kéo thả, cấu hình, hoàn toàn không viết code, mà vẫn hiện thực hóa được logic nghiệp vụ và tạo ra một ứng dụng Internet đầy đủ chức năng.
 
-在国外，NoCode已经颇为流行，不但出现这个领域的几大巨头SaaS，还有大量基于NoCode盈利的生态和案例。以下是我摘录的例子：
+Ở nước ngoài, NoCode đã khá thịnh hành: không chỉ xuất hiện vài SaaS khổng lồ trong lĩnh vực này, mà còn có rất nhiều hệ sinh thái và case kiếm tiền dựa trên NoCode. Dưới đây là các ví dụ tôi trích lược:
 
--   Art West：通过NoCodeDevs，每月重复收入达到10万美元。
--   Katt Risen：通过No-Code Exits网站，10个月内赚取12万美元。
--   Marie Martens 和 Filip Minev：通过Tally，MRR增长到60万美元。
--   Alex Rainey：通过My AskAI聊天机器人构建器，预售赚取5万美元，六个月内MRR增长到18万美元。
--   Joe Speiser：在200美元的No-Code技术栈上运行了一个100万美元的创业公司。
--   Flexiple：使用每月成本仅100美元的No-Code工具，ARR增长到300万美元。
--   Justin Welsh：使用Carrd、Airtable、Zapier等工具，创立了一个500万美元的一人企业。
--   Brett Williams：通过Memberstack、Trello和Webflow，将Designjoy增长到150万美元ARR和300万美元的销售额。
+-   Art West: qua NoCodeDevs, doanh thu định kỳ hằng tháng đạt 100 nghìn USD.
+-   Katt Risen: qua website No-Code Exits, kiếm 120 nghìn USD trong 10 tháng.
+-   Marie Martens và Filip Minev: qua Tally, MRR tăng lên 600 nghìn USD.
+-   Alex Rainey: qua trình dựng chatbot My AskAI, kiếm 50 nghìn USD tiền bán trước, MRR tăng lên 180 nghìn USD trong sáu tháng.
+-   Joe Speiser: vận hành một startup 1 triệu USD trên nền technology stack No-Code giá 200 USD.
+-   Flexiple: dùng bộ công cụ No-Code chi phí chỉ 100 USD/tháng, ARR tăng lên 3 triệu USD.
+-   Justin Welsh: dùng các công cụ như Carrd, Airtable, Zapier để dựng nên một doanh nghiệp một người trị giá 5 triệu USD.
+-   Brett Williams: qua Memberstack, Trello và Webflow, đưa Designjoy tăng trưởng lên 1,5 triệu USD ARR và 3 triệu USD doanh số.
 
-但在国内，也许是用户对产品细节要求更高，2C（面向消费者）领域里NoCode的流行程度并不高。但在2B（面向企业）领域，NoCode也已经在国内大量使用，毕竟内部管理系统主要看中的不是美观和特效。
+Nhưng ở Trung Quốc, có lẽ vì người dùng đòi hỏi chi tiết sản phẩm cao hơn, độ phổ biến của NoCode trong mảng 2C (hướng người tiêu dùng) không cao. Song ở mảng 2B (hướng doanh nghiệp), NoCode cũng đã được dùng rộng rãi trong nước — dù sao hệ thống quản trị nội bộ thì cái được coi trọng không phải là thẩm mỹ hay hiệu ứng.
 
-另一方面，对于一人企业和创业公司，NoCode也是非常好的一个方向。因为在主流创业方法论中，有一个用于验证市场需求和产品是否契合的步骤，需要构建最小可行性产品（MVP）。而 NoCode 正是这方面极为有效的工具，它允许我们快速搭建出70到80分的MVP来进行市场验证，甚至实现盈利。最重要的是，这个过程完全不需要技术人员支持。
+Mặt khác, với doanh nghiệp một người và startup, NoCode cũng là một hướng đi rất tốt. Bởi trong các phương pháp luận khởi nghiệp chủ lưu, có một bước dùng để kiểm chứng nhu cầu thị trường và độ khớp của sản phẩm, đòi hỏi xây dựng sản phẩm khả thi tối thiểu (MVP). Và NoCode chính là công cụ cực kỳ hiệu quả cho việc này: nó cho phép ta nhanh chóng dựng một MVP đạt 70–80 điểm để kiểm chứng thị trường, thậm chí sinh lời. Quan trọng nhất, cả quá trình hoàn toàn không cần nhân sự kỹ thuật hỗ trợ.
 
-而随着业务的发展，我们可以用所获得的资金来开发更高质量、细节更为精致的系统，以取代最初的MVP。
+Rồi khi nghiệp vụ phát triển, ta có thể dùng nguồn vốn thu được để phát triển hệ thống chất lượng cao hơn, chi tiết tinh xảo hơn, thay thế MVP ban đầu.
 
-所以，不懂技术，也可以创建互联网应用。
+Vậy nên, không rành công nghệ vẫn có thể tạo ứng dụng Internet.
 
-#### 开源+AI定制
+#### Mã nguồn mở + AI tùy chỉnh
 
 ![](images/image-38-1024x649.png)
 
-通过GPT给WordPress写插件
+Nhờ GPT viết plugin cho WordPress
 
-除了使用第三方的NoCode平台，我们也可以通过开源项目自行搭建很多互联网应用。近些年开源蓬勃发展，方方面面都开源替代品。其中，作为最通用和最强大的，是有着六万多插件的WordPress。
+Ngoài việc dùng nền tảng NoCode bên thứ ba, chúng ta cũng có thể tự dựng nhiều ứng dụng Internet từ các dự án mã nguồn mở. Những năm gần đây mã nguồn mở phát triển mạnh mẽ, lĩnh vực nào cũng có phương án thay thế mã nguồn mở. Trong đó, đa dụng và mạnh mẽ nhất là WordPress với hơn sáu mươi nghìn plugin.
 
-绝大部分的通用功能和行业专用功能，都可以通过购买专门的WordPress插件来解决。最后一点定制需求，如果不是特别复杂，甚至GPT4都可以帮你写出来。如果现在写不出来，等几个月后再试试可能就可以了。
+Đại đa số các chức năng phổ thông lẫn chức năng chuyên ngành đều có thể giải quyết bằng cách mua plugin WordPress chuyên dụng. Chút nhu cầu tùy chỉnh cuối cùng, nếu không quá phức tạp, thậm chí GPT-4 cũng viết giúp bạn được. Nếu bây giờ nó chưa viết được, đợi vài tháng nữa thử lại có khi là được.
 
-#### 自学编程创造
+#### Tự học lập trình để sáng tạo
 
-当然，如果想要高效又完美的实现自己的需求，学习编程自行开发是最好的选择。现在，借助GPT等工具，学习编程变得更加容易和有趣，它极大地降低了学习的门槛，并提高了学习的效率。因此，如果你曾经因为编程难度而放弃，现在是一个重新尝试的好时机。
+Tất nhiên, nếu muốn hiện thực hóa nhu cầu của mình vừa hiệu quả vừa hoàn hảo, học lập trình để tự phát triển là lựa chọn tốt nhất. Ngày nay, nhờ các công cụ như GPT, việc học lập trình trở nên dễ dàng và thú vị hơn nhiều: nó hạ thấp đáng kể rào cản học tập và nâng cao hiệu quả học. Vì vậy, nếu bạn từng bỏ cuộc vì lập trình khó, thì bây giờ là thời điểm tốt để thử lại.
 
-如果你觉得学习编程细节过于繁琐，那么掌握其中的编程思想即可。因为不管是使用NoCode和Devin这种写码机器人，都需要理解代码背后对需求的实现逻辑。
+Nếu bạn thấy học chi tiết lập trình quá rườm rà, thì chỉ cần nắm tư duy lập trình trong đó là được. Bởi dù dùng NoCode hay các robot viết code như Devin, đều cần hiểu logic hiện thực hóa nhu cầu đằng sau đoạn code.
 
-资产的量化评估
+Đánh giá định lượng tài sản
 -------
 
-既然资产是把钱放进我们口袋的东西，那是不是越多越好呢？理论上讲，当然是的。但是资产并不是一成不变的，它也需要定时维护、也会随着市场和需求而变化，甚至可能从资产变成负债，持续消耗我们的财富。因此，我们需要对资产进行量化评估，抓大放小，把主要精力放到优质资产上。
+Tài sản là thứ bỏ tiền vào túi ta, vậy có phải càng nhiều càng tốt? Về lý thuyết, đương nhiên là vậy. Nhưng tài sản không bất biến: nó cần được bảo trì định kỳ, sẽ thay đổi theo thị trường và nhu cầu, thậm chí có thể từ tài sản biến thành tiêu sản, liên tục bào mòn của cải của ta. Vì vậy, chúng ta cần đánh giá định lượng tài sản, nắm cái lớn buông cái nhỏ, dồn sức chính vào các tài sản chất lượng.
 
-这里给大家分享一个我自己的标准，它包含以下五个评估项：投入、产出、持续性、风险和门槛。
+Ở đây tôi chia sẻ một bộ tiêu chuẩn của riêng mình, gồm năm hạng mục đánh giá: đầu vào, đầu ra, tính bền vững, rủi ro và rào cản.
 
 ![](images/image-39-1024x918.png)
 
-资产的量化评估
+Đánh giá định lượng tài sản
 
-### 性价比
+### Tỷ lệ hiệu quả trên chi phí
 
-首先考虑的是投入，即获取这项资产所需的成本；其次是产出，也就是这项资产能够为我们带来多少收益。将投入和产出相加，我们就可以得出这项资产的性价比。性价比越好，越值得我们持有。
+Điều cần xét trước tiên là đầu vào, tức chi phí cần bỏ ra để có được tài sản này; kế đến là đầu ra, tức tài sản này mang lại cho ta bao nhiêu lợi ích. Gộp đầu vào và đầu ra lại, ta có tỷ lệ hiệu quả trên chi phí của tài sản. Tỷ lệ càng tốt, càng đáng nắm giữ.
 
-这是一个很简单的道理，但需要注意的隐形投入和边际成本。很多成本只有在运作起来时才会显化出来，因此需要还原场景仔细思考。另一些成本可以通过协作效应，将其作为边际成本，从而极大减少投入。
+Đây là lẽ rất đơn giản, nhưng cần chú ý các khoản đầu vào ẩn và chi phí biên. Nhiều chi phí chỉ hiện rõ khi vận hành thực tế, nên cần dựng lại bối cảnh mà suy xét kỹ. Một số chi phí khác có thể nhờ hiệu ứng cộng hưởng mà trở thành chi phí biên, từ đó giảm đầu vào đáng kể.
 
-很多产出不大的资产，如果投入极低，也是可以操作的。
+Nhiều tài sản đầu ra không lớn, nhưng nếu đầu vào cực thấp thì vẫn làm được.
 
 ![](images/image-41-1024x982.png)
 
-B站视频
+Video trên Bilibili
 
-比如我在B站上发布的这个视频《云服务器都99一年了，除了买来吃灰，你还能用来装这些免费云软件》------播放量达到了10万。这段视频是我两年前仅用一个周末的时间制作完成的。
+Ví dụ video tôi đăng trên Bilibili 《Máy chủ đám mây chỉ còn 99 tệ một năm, ngoài mua về phủ bụi, bạn còn có thể cài những phần mềm đám mây miễn phí này》 — lượt xem đạt 100 nghìn. Video này tôi làm xong chỉ trong một dịp cuối tuần cách đây hai năm.
 
-它的盈利方式很简单，即视频下方附有一条腾讯云的推荐链接，我当时并没有期望它能持续带来收入。不过后来的收益超过我的预期，累计下来有小几千。尽管这份收益绝对值看似不多，但考虑到这是被动收入，且我在这上面的投入仅是一个周末的时间，还是相当不错的。
+Cách nó sinh lời rất đơn giản: dưới video gắn một link giới thiệu của Tencent Cloud. Khi đó tôi không kỳ vọng nó mang lại thu nhập lâu dài. Nhưng thu nhập về sau vượt kỳ vọng của tôi, cộng dồn được vài nghìn tệ. Con số tuyệt đối tuy trông không nhiều, nhưng xét rằng đây là thu nhập thụ động, và đầu vào của tôi chỉ là một dịp cuối tuần, thì vẫn khá ổn.
 
-### 持续性
+### Tính bền vững
 
-「被动收入」这个说法容易让人误解为我们持有资产以后，什么事都不需要做了，资产就会源源不断地为我们挣钱。但实际上，每次投入能带来的产出往往是随着时间递减的，因为市场会变化、需求会更新、潮流会轮回、设备会陈旧。我们必须再次投入，才能恢复其产出。持续性则描述了投入之后，可以持续带来收入的时间。
+Cách nói "thu nhập thụ động" dễ khiến người ta hiểu nhầm rằng sau khi nắm giữ tài sản thì chẳng cần làm gì nữa, tài sản sẽ kiếm tiền cho ta không ngừng nghỉ. Nhưng thực tế, đầu ra từ mỗi lần đầu tư thường giảm dần theo thời gian, vì thị trường thay đổi, nhu cầu đổi mới, trào lưu xoay vòng, thiết bị lỗi thời. Ta phải đầu tư thêm lần nữa mới khôi phục được đầu ra. Tính bền vững mô tả khoảng thời gian mà một lần đầu tư có thể tiếp tục mang lại thu nhập.
 
 ![](images/image-40-1024x976.png)
 
-持续性高的资产
+Tài sản có tính bền vững cao
 
-什么是持续性高的资产呢？举个例子，我手上有一项非常小的资产------ 七年前我编写的一本名为《程序员职业小白书》的小册。直到2024年今天，它每个月仍然为我带来收益。以2023年12月，它带来的收益为23.6元；而到了2024年2月，收益大约为70元。这些收益都是扣除税费后的净收入。因此，这可以说是一项持续性极佳的资产。
+Thế nào là tài sản có tính bền vững cao? Lấy ví dụ, tôi có một tài sản rất nhỏ — cuốn sách mỏng tên 《Sách nhập môn nghề lập trình viên》 tôi viết bảy năm trước. Cho đến hôm nay, năm 2024, mỗi tháng nó vẫn mang lại thu nhập cho tôi. Tháng 12/2023, nó mang về 23,6 tệ; đến tháng 2/2024, khoảng 70 tệ. Đây đều là thu nhập ròng sau thuế phí. Vì vậy, có thể nói đây là một tài sản có tính bền vững cực tốt.
 
-### 风险
+### Rủi ro
 
-很多事情并不是我们投入了就一定有回报，也可能背离我们的预期。这就是风险。风险往往和性价比密切相关，高回报往往意味着高风险。尤其是对低门槛的资产来说。比如前文提到的网文创作，因为进入门槛低，竞争异常激烈，所以风险也异常高。
+Không phải cứ đầu tư là chắc chắn có hồi báo; kết quả cũng có thể đi ngược kỳ vọng. Đó là rủi ro. Rủi ro thường gắn chặt với tỷ lệ hiệu quả trên chi phí: hồi báo cao thường đồng nghĩa rủi ro cao, nhất là với các tài sản rào cản thấp. Ví dụ mảng sáng tác văn học mạng đã nhắc ở trên: vì rào cản gia nhập thấp, cạnh tranh khốc liệt bất thường, nên rủi ro cũng cao bất thường.
 
-并不是说高风险的资产一定就不能投入，而是说我们要合理搭配，靠低风险资产保温饱，用高风险资产求发展。
+Không phải tài sản rủi ro cao thì nhất định không được đầu tư, mà là ta cần phối hợp hợp lý: dựa vào tài sản rủi ro thấp để đủ ăn đủ mặc, dùng tài sản rủi ro cao để tìm đường phát triển.
 
-### 门槛
+### Rào cản
 
-很多业务有其硬性门槛，门槛越高，意味着我们前期投入就越大。甚至有一些门槛加大投入也无法达到。不过门槛并非是绝对的，不同产品形态有不同的门槛，通过调整产品形式，我们也可以绕过某些门槛。另一方面，门槛也和杠杆相关，新杠杆领域进入的门槛往往会较低。
+Nhiều nghiệp vụ có rào cản cứng của nó; rào cản càng cao, đầu tư ban đầu càng lớn. Thậm chí có những rào cản tăng đầu tư cũng không vượt nổi. Nhưng rào cản không tuyệt đối: mỗi hình thái sản phẩm có rào cản khác nhau, và bằng cách điều chỉnh hình thức sản phẩm, ta cũng có thể vòng qua một số rào cản. Mặt khác, rào cản còn liên quan đến đòn bẩy: rào cản gia nhập trong các lĩnh vực đòn bẩy mới thường thấp hơn.
 
-从以上五个方面对一个资产进行评分，我们就可以得出一个综合评分，并根据评分对资产进行管理。
+Chấm điểm một tài sản từ năm khía cạnh trên, ta sẽ có một điểm tổng hợp, và dựa vào điểm này để quản lý tài sản.

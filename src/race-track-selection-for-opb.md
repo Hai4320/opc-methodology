@@ -1,88 +1,88 @@
-# 赛道选择:一人企业如何选择赛道
+# Chọn đường đua: Doanh nghiệp một người chọn đường đua như thế nào
 
-现在我们来讨论「规划一人企业」的第二部分，赛道选择。
+Bây giờ chúng ta sẽ thảo luận phần thứ hai của「Hoạch định doanh nghiệp một người」— chọn đường đua.
 
-远离大众刚需
+Tránh xa nhu cầu thiết yếu của đại chúng
 ------
 
-首先要和大家分享的，是一个有点反常识的观点 ------ 远离大众刚需。这和我们通常接触的方法论有点不同。无论是大公司还是创业公司，在产品规划时都会强调必须满足大众的刚性需求，因为只有这样才能覆盖足够大的市场，从而获得相应的回报。
+Điều đầu tiên tôi muốn chia sẻ với các bạn là một quan điểm hơi ngược với lẽ thường ------ tránh xa nhu cầu thiết yếu của đại chúng. Điều này hơi khác với các phương pháp luận mà chúng ta thường tiếp xúc. Dù là công ty lớn hay công ty khởi nghiệp, khi hoạch định sản phẩm đều nhấn mạnh phải đáp ứng nhu cầu thiết yếu của đại chúng, vì chỉ như vậy mới bao phủ được thị trường đủ lớn, từ đó thu về lợi nhuận tương xứng.
 
-这种选择对于大公司和创业公司而言，可能是理所当然的，因为大公司具有人力和资本的双重杠杆，而创业公司则依靠资本杠杆。然而，对于一人企业来说，如果按照同样的逻辑去选择赛道，那么毫无疑问会直接与大公司和创业公司撞上，产生直接的竞争，这显然不是我们所希望的。
+Lựa chọn này với công ty lớn và công ty khởi nghiệp có lẽ là điều hiển nhiên, vì công ty lớn có cả hai đòn bẩy nhân lực và vốn, còn công ty khởi nghiệp thì dựa vào đòn bẩy vốn. Tuy nhiên, với doanh nghiệp một người, nếu chọn đường đua theo cùng logic đó thì chắc chắn sẽ đâm thẳng vào công ty lớn và công ty khởi nghiệp, tạo ra cạnh tranh trực diện — điều mà rõ ràng chúng ta không hề mong muốn.
 
 ![](images/image-49-1024x820.png)
 
-大众刚需：拥挤又易被碾压的赛道
+Nhu cầu thiết yếu của đại chúng: đường đua chật chội và dễ bị nghiền nát
 
-对一人企业而言，至少在初期，直奔大众刚需并非上策。因为这意味着我们将直接面对那些拥有人力和资本杠杆的强大竞争者。并不是说我们完全无法取胜，但没有必要无谓地增加比赛的难度。
+Với doanh nghiệp một người, ít nhất là trong giai đoạn đầu, lao thẳng vào nhu cầu thiết yếu của đại chúng không phải là thượng sách. Vì điều đó đồng nghĩa với việc chúng ta phải trực tiếp đối mặt với những đối thủ hùng mạnh sở hữu đòn bẩy nhân lực và vốn. Không phải là chúng ta hoàn toàn không thể thắng, nhưng không cần thiết phải tự làm tăng độ khó của cuộc đua một cách vô nghĩa.
 
-### 大众的弱需求、小众的强需求
+### Nhu cầu yếu của đại chúng, nhu cầu mạnh của nhóm ngách
 
-相反，我们可以选择从那些对大众来说是弱需求、但对某些小众人群却是强需求的地方入手。我把这个叫做「小众刚需」。
+Ngược lại, chúng ta có thể chọn bắt đầu từ những chỗ mà với đại chúng là nhu cầu yếu, nhưng với một số nhóm người ngách lại là nhu cầu mạnh. Tôi gọi đây là「nhu cầu thiết yếu của nhóm ngách」.
 
-以营养配餐为例，对于大众来说，这可能是一个弱需求，因为偶尔的营养不足和过剩并不是他们最关心的；大多数人更注重食物的口味。然而，对于母婴群体来说，营养就是他们的第一关注点、是刚性需求，远比口味更重要。
+Lấy ví dụ về suất ăn dinh dưỡng: với đại chúng, đây có lẽ là một nhu cầu yếu, vì thỉnh thoảng thiếu hay thừa dinh dưỡng không phải là điều họ quan tâm nhất; đa số người ta chú trọng khẩu vị của món ăn hơn. Tuy nhiên, với nhóm mẹ và bé, dinh dưỡng chính là mối quan tâm số một, là nhu cầu thiết yếu, quan trọng hơn khẩu vị rất nhiều.
 
 ![](images/image-50-1024x543.png)
 
-大众的弱需求，可能是小众的强需求
+Nhu cầu yếu của đại chúng có thể là nhu cầu mạnh của nhóm ngách
 
-通过这样的策略，我们可以在大众的弱需求中找到一部分实际上是刚需的细分市场，这正是一人企业应该着重关注的。如果你发现这个细分市场依然充满竞争，那么可以进一步细分下去。一人企业的优势就是，即使这个市场非常小，但往往对一人企业来说也足够。
+Thông qua chiến lược này, chúng ta có thể tìm thấy trong những nhu cầu yếu của đại chúng một phần thị trường phân khúc thực chất là nhu cầu thiết yếu — đây chính là thứ doanh nghiệp một người nên tập trung chú ý. Nếu bạn phát hiện thị trường phân khúc này vẫn đầy cạnh tranh, thì có thể tiếp tục phân nhỏ hơn nữa. Ưu thế của doanh nghiệp một người là: dù thị trường có rất nhỏ, nhưng với doanh nghiệp một người thì thường là đã đủ.
 
 ![](images/image-51-1024x376.png)
 
-一人企业可以选择更为小众的市场
+Doanh nghiệp một người có thể chọn thị trường ngách hơn nữa
 
-### 小众人群的获客和触达
+### Thu hút và tiếp cận khách hàng nhóm ngách
 
-然而，尽管我们可能发现各种小众刚需，是否适合我们却取决于能否以低成本的方式聚集或触达这个细分人群。
+Tuy nhiên, dù chúng ta có thể phát hiện đủ loại nhu cầu thiết yếu của nhóm ngách, nó có phù hợp với chúng ta hay không lại phụ thuộc vào việc có thể tập hợp hoặc tiếp cận nhóm người phân khúc này với chi phí thấp hay không.
 
-因为小众市场的一大问题就是，通用的获客方式性价比极低。比如，同样是花几百万买开屏广告，面向大众的快消类产品，100 万人看，其中有 80 万都是潜在目标用户，最后点击可能是 20 万。但小众产品如果以同样价格去投放，100 万人中很可能只有 10 万人是目标用户，最终的点击和转化就非常低了。
+Bởi một vấn đề lớn của thị trường ngách là các phương thức thu hút khách hàng thông dụng có hiệu quả trên chi phí cực thấp. Ví dụ, cùng bỏ vài triệu tệ mua quảng cáo màn hình mở ứng dụng: với sản phẩm tiêu dùng nhanh hướng đến đại chúng, 1 triệu người xem thì có tới 800 nghìn là người dùng mục tiêu tiềm năng, cuối cùng có thể được 200 nghìn lượt nhấp. Nhưng nếu sản phẩm ngách chạy quảng cáo với cùng mức giá đó, trong 1 triệu người rất có thể chỉ 100 nghìn là người dùng mục tiêu, lượt nhấp và chuyển đổi cuối cùng sẽ rất thấp.
 
-一些小众人群有自己的垂直渠道，比如论坛。但这种渠道的问题在于用户上限很低，往往投放不了几次用户就覆盖完了。很多垂直社区对广告还有天然的排斥情绪。另一方面，小渠道品质的参差不齐，也让投放难度变大。
+Một số nhóm ngách có kênh dọc riêng của họ, ví dụ như diễn đàn. Nhưng vấn đề của loại kênh này là trần người dùng rất thấp, thường chạy quảng cáo vài lần là đã phủ hết người dùng. Nhiều cộng đồng dọc còn có tâm lý bài xích quảng cáo một cách tự nhiên. Mặt khác, chất lượng các kênh nhỏ không đồng đều cũng khiến việc chạy quảng cáo khó khăn hơn.
 
-当然，以上讨论的是还是有市场费用的情况。更普遍的情况是，根本就没有市场预算。这时候我们就需要自己来做小众人群的聚集工作。常见的方式有以下几种：
+Tất nhiên, những gì thảo luận ở trên vẫn là trường hợp có ngân sách marketing. Tình huống phổ biến hơn là hoàn toàn không có ngân sách marketing. Lúc này chúng ta cần tự mình làm công việc tập hợp nhóm người ngách. Các cách thường gặp gồm:
 
--   内容营销：通过写文章、发视频，以自媒体方式聚集用户
--   SEO：通过特定关键字群，依靠搜索引擎获得用户
--   SideProject营销：针对小众人群的特殊需求开发一个专门用于获客和传播的（免费）项目
+-   Content marketing: viết bài, làm video, tập hợp người dùng theo cách tự truyền thông
+-   SEO: dựa vào cụm từ khóa đặc thù, thu hút người dùng qua công cụ tìm kiếm
+-   Marketing bằng side project: phát triển một dự án (miễn phí) chuyên dùng để thu hút khách hàng và lan truyền, nhắm vào nhu cầu đặc thù của nhóm ngách
 
-前两个大家应该很熟悉了，这里不多讲。说下SideProject营销。内容营销因为门槛低、易于复制，对小众市场来讲往往不是稀缺的，但SideProject的门槛就要高一点，同时给用户提供的价值也更为独特，因此更容易获客和传播。继续用上边母婴人群的例子，在通过浏览论坛、用户访谈之后，我们可以做一个有需求但未被满足的SideProject，比如母乳喂养管理APP（随机例子，不一定有需求）来获客。
+Hai cách đầu chắc mọi người đã quen thuộc, ở đây không nói nhiều. Xin nói về marketing bằng side project. Content marketing vì rào cản thấp, dễ sao chép, nên với thị trường ngách thường không phải thứ khan hiếm; nhưng rào cản của side project thì cao hơn một chút, đồng thời giá trị mang lại cho người dùng cũng độc đáo hơn, do đó dễ thu hút khách hàng và lan truyền hơn. Tiếp tục dùng ví dụ nhóm mẹ và bé ở trên: sau khi lướt diễn đàn, phỏng vấn người dùng, chúng ta có thể làm một side project có nhu cầu nhưng chưa được đáp ứng, ví dụ như app quản lý nuôi con bằng sữa mẹ (ví dụ ngẫu nhiên, chưa chắc có nhu cầu) để thu hút khách hàng.
 
-可以看到，能否以低成本接触和集中细分市场主要取决于个人的资源和能力，而且往往是一个长期的过程。
+Có thể thấy, việc có thể tiếp cận và tập hợp thị trường phân khúc với chi phí thấp hay không chủ yếu phụ thuộc vào nguồn lực và năng lực cá nhân, và thường là một quá trình dài hạn.
 
-因此，我们建议尽可能选择自己的「专长领域」。如果你对某个领域充满热情，即使面对收益不高甚至为零的情况也能持续投入，这就是所谓的专长领域。
+Vì vậy, chúng tôi khuyên nên chọn「lĩnh vực sở trường」của chính mình trong khả năng có thể. Nếu bạn tràn đầy đam mê với một lĩnh vực nào đó, đến mức dù thu nhập không cao thậm chí bằng không vẫn có thể đầu tư liên tục, thì đó chính là lĩnh vực sở trường.
 
-适合一人企业的赛道
+Những đường đua phù hợp với doanh nghiệp một người
 ---------
 
-我们统计了Trends.vc的[上百份历史报告](https://trends.vc/archive/)，总结出以下适合一人企业的赛道/趋势，希望对大家有所启发：
+Chúng tôi đã thống kê [hàng trăm báo cáo lịch sử](https://trends.vc/archive/) của Trends.vc, tổng kết ra các đường đua/xu hướng phù hợp với doanh nghiệp một người dưới đây, hy vọng gợi mở được điều gì đó cho các bạn:
 
-### 数字产品与服务
+### Sản phẩm và dịch vụ số
 
--   软件即服务 (SaaS): SaaS模板、AI驱动的SaaS、WordPress插件、Shopify插件、Chrome扩展、面向企业的SaaS、微型SaaS。
--   数字内容创作: YouTube频道、不出镜YouTube频道、短视频、播客、AI图像生成器、AI生成内容。
--   教育与学习: 微教育(比如基于短信)业务、在线课程、基于群组（用户分组）的课程。
+-   Phần mềm dạng dịch vụ (SaaS): template SaaS, SaaS chạy bằng AI, plugin WordPress, plugin Shopify, tiện ích mở rộng Chrome, SaaS cho doanh nghiệp, micro-SaaS.
+-   Sáng tạo nội dung số: kênh YouTube, kênh YouTube không lộ mặt, video ngắn, podcast, công cụ tạo ảnh AI, nội dung do AI tạo.
+-   Giáo dục và học tập: nghiệp vụ vi giáo dục (ví dụ dựa trên tin nhắn SMS), khóa học trực tuyến, khóa học theo nhóm (phân nhóm người dùng).
 
-### 营销与增长
+### Marketing và tăng trưởng
 
--   内容营销: 不出镜社交媒体账户、每日Newsletter、付费Newsletter、SideProject营销。
--   社区与网络: 付费社区、基于Token的社区。
--   增长策略: 增长黑客、分类导航服务、众包、营销漏斗、以产品为导向的增长。
+-   Content marketing: tài khoản mạng xã hội không lộ mặt, Newsletter hằng ngày, Newsletter trả phí, marketing bằng side project.
+-   Cộng đồng và mạng lưới: cộng đồng trả phí, cộng đồng dựa trên Token.
+-   Chiến lược tăng trưởng: growth hacking, dịch vụ danh bạ phân loại, crowdsourcing, phễu marketing, tăng trưởng dẫn dắt bởi sản phẩm.
 
-### 创业与金融模式
+### Mô hình khởi nghiệp và tài chính
 
--   个体创业: 通过高杠杆技能、个人品牌、微垄断（独立品类）、多元化收入、信任货币化构建百万美元的一人企业。
--   微型企业与投资: 微型私募股权、天使投资。
--   货币化模式: 去中心化自治组织 (DAOs)、非同质化代币 (NFTs)、去中心化金融 (DeFi)。
+-   Khởi nghiệp cá nhân: xây dựng doanh nghiệp một người triệu đô thông qua kỹ năng đòn bẩy cao, thương hiệu cá nhân, vi độc quyền (phân loại sản phẩm độc lập), thu nhập đa dạng, tiền tệ hóa niềm tin.
+-   Doanh nghiệp siêu nhỏ và đầu tư: private equity siêu nhỏ, đầu tư thiên thần.
+-   Mô hình kiếm tiền: tổ chức tự trị phi tập trung (DAOs), token không thể thay thế (NFTs), tài chính phi tập trung (DeFi).
 
-### 技术与创新
+### Công nghệ và đổi mới
 
--   人工智能与机器学习: 细分AI模型、开源AI、AI生成音乐、AI代理、提示词工程、声音克隆。
--   无代码/低代码开发: 无代码、低代码。
--   区块链与数字货币: 流动性挖矿、非同质化代币 (NFTs)、去中心化金融 (DeFi)。
+-   Trí tuệ nhân tạo và học máy: mô hình AI ngách, AI mã nguồn mở, nhạc do AI tạo, AI agent, prompt engineering, nhân bản giọng nói.
+-   Phát triển NoCode/LowCode: NoCode, LowCode.
+-   Blockchain và tiền số: khai thác thanh khoản, token không thể thay thế (NFTs), tài chính phi tập trung (DeFi).
 
-### 个性化与定制服务
+### Dịch vụ cá nhân hóa và tùy chỉnh
 
--   专业服务与咨询: 包括代理机构、软件开发服务、咨询、微咨询。
--   定制化产品与服务: 包括无限服务、移动应用、电子书、独立游戏。
+-   Dịch vụ chuyên môn và tư vấn: gồm agency, dịch vụ phát triển phần mềm, tư vấn, vi tư vấn.
+-   Sản phẩm và dịch vụ tùy chỉnh: gồm dịch vụ không giới hạn, ứng dụng di động, ebook, game indie.
 
-注：由于政策限制，数字货币相关业务在中国大陆是被禁止的。
+Lưu ý: do hạn chế về chính sách, các nghiệp vụ liên quan đến tiền số bị cấm tại Trung Quốc đại lục.

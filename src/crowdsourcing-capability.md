@@ -1,78 +1,78 @@
-# 众包能力
+# Năng lực crowdsourcing
 
-最后还有一个基于产品池和用户池之上的、非常重要的能力 ------ 众包能力。
+Cuối cùng còn một năng lực rất quan trọng, xây trên nền product pool và user pool — năng lực crowdsourcing.
 
-为什么需要众包
+Vì sao cần crowdsourcing
 -------
 
-对于一人企业来说，这个能力至关重要，因为我们需要严格控制人数。这是由于我们的商业模式和竞争策略都是按照这个设计的。
+Với doanh nghiệp một người, năng lực này cực kỳ quan trọng, vì chúng ta cần kiểm soát nghiêm ngặt số nhân sự. Đó là do mô hình kinh doanh và chiến lược cạnh tranh của chúng ta đều được thiết kế dựa trên điều này.
 
-我们在很多策略中都提到，由于人数较少，我们可以专注于非常垂直的小市场。即使获得的利润相对于大公司来说较少，但因为人数少，所以人均高，这就成了我们商业模式和竞争策略的基础。如果我们有很多人，那么这种优势就不存在了。
+Trong nhiều chiến lược, chúng tôi đã nói: nhờ ít người, ta có thể tập trung vào những thị trường ngách rất hẹp. Kể cả lợi nhuận thu được ít so với công ty lớn, nhưng vì ít người nên bình quân đầu người cao — đây chính là nền tảng của mô hình kinh doanh và chiến lược cạnh tranh của chúng ta. Nếu có nhiều người, lợi thế này không còn nữa.
 
-我们现在可以通过AI和自动化处理很多事情，但总有一些问题是它们无法解决的，需要由人来解决。这就形成了一个基本矛盾。虽然在我们起步的阶段这个矛盾不会太明显，但随着业务量增加，它会日益明显。
+Hiện chúng ta có thể xử lý rất nhiều việc bằng AI và tự động hóa, nhưng luôn có những vấn đề chúng không giải quyết được, cần con người xử lý. Điều này tạo thành một mâu thuẫn cơ bản. Tuy ở giai đoạn khởi đầu, mâu thuẫn này chưa quá rõ, nhưng khi khối lượng nghiệp vụ tăng, nó sẽ ngày càng lộ rõ.
 
-为了解决这个矛盾，我们需要拥有众包的能力。简单来说，众包就是将任务分包给很多人，通常是我们产品的用户。在这种方式下，我们不需要雇佣员工，所以员工数量不会增加，可以很好地满足我们一人企业在规模上面的要求。
+Để giải quyết mâu thuẫn này, chúng ta cần sở hữu năng lực crowdsourcing. Nói đơn giản, crowdsourcing là chia nhỏ nhiệm vụ giao cho nhiều người — thường là người dùng sản phẩm của chúng ta. Theo cách này, ta không cần thuê nhân viên, nên số nhân viên không tăng, đáp ứng tốt yêu cầu về quy mô của doanh nghiệp một người.
 
 ![](images/image-36-1024x468.png)
 
-众包能力在基础设施中的位置和重要性
+Vị trí và tầm quan trọng của năng lực crowdsourcing trong hạ tầng
 
-众包能力的构成要件
+Các thành phần cấu thành năng lực crowdsourcing
 ---------
 
-这个方案听起来很理想，但实际操作中有很多需要注意的细节。
+Phương án này nghe rất lý tưởng, nhưng khi thao tác thực tế có rất nhiều chi tiết cần lưu ý.
 
-首先，并不是所有的任务都可以众包，它们需要非常明确，而我们分包给的任务执行者需要具备相应的能力、时间和意愿。所以总体来讲，我们需要处理掉所有自己、自动化和AI能处理的事情，最后将处理不了的部分拿出来进行众包。
+Trước hết, không phải nhiệm vụ nào cũng crowdsourcing được: chúng cần cực kỳ rõ ràng, và người nhận nhiệm vụ cần có đủ năng lực, thời gian và mong muốn tương ứng. Nên nhìn chung, ta cần xử lý hết những gì bản thân, tự động hóa và AI làm được, cuối cùng đem phần không xử lý nổi ra crowdsourcing.
 
 ![](images/image-37-1024x491.png)
 
-众包系统的构成要件
+Các thành phần cấu thành hệ thống crowdsourcing
 
-众包系统的构成要件包括几个方面。
+Các thành phần của hệ thống crowdsourcing gồm mấy khía cạnh.
 
-### 清晰的细分任务
+### Nhiệm vụ chia nhỏ rõ ràng
 
-首先，要有一个清晰的细分任务。不能将一整块任务扔出去，这样完不成的风险很高，沟通成本也高。需要多人紧密合作的任务也不适合直接众包。我们需要将任务分得特别细，无需沟通就可以直接执行。
+Trước hết, phải có nhiệm vụ được chia nhỏ và rõ ràng. Không thể ném nguyên một khối việc ra ngoài — rủi ro không hoàn thành rất cao, chi phí trao đổi cũng cao. Nhiệm vụ cần nhiều người phối hợp chặt chẽ cũng không phù hợp để crowdsourcing trực tiếp. Ta cần chia nhiệm vụ thật nhỏ, đến mức không cần trao đổi gì cũng thực hiện được ngay.
 
-例如，如果我们要翻译我们的整个网站，我们可以将要翻译的内容全部拆成单句，然后发给我们的用户。每一个用户只需要翻译这一句，然后提交。我们会对比两到三个人的翻译结果，然后从中选择一个较好的。而选择结果的任务又可以作为一个独立任务，再次通过众包系统分发下去。采用类似于这样的逐步分拆的方式，使每一个细分任务都足够明确。
+Ví dụ, nếu muốn dịch toàn bộ website, ta có thể tách toàn bộ nội dung cần dịch thành từng câu đơn lẻ, rồi gửi cho người dùng. Mỗi người chỉ cần dịch một câu rồi nộp. Ta so sánh kết quả dịch của hai đến ba người, chọn ra bản tốt hơn. Mà việc chọn kết quả lại có thể trở thành một nhiệm vụ độc lập, tiếp tục phân phát qua hệ thống crowdsourcing. Bằng cách chia tách dần như vậy, mỗi nhiệm vụ nhỏ đều đủ rõ ràng.
 
-另外，单人的工作量应该足够小。因为众包与外包不同，众包是任务执行人在业余时间来做这个事情，所以他的时间和精力都是非常不可控和不可知的。我们需要将承担的工作量变得足够小，然后执行任务的人足够多，这样我们才可以更好地进行控制质量和风险。
+Ngoài ra, khối lượng công việc của mỗi người nên đủ nhỏ. Vì crowdsourcing khác outsourcing: người thực hiện làm việc này trong thời gian rảnh, nên thời gian và sức lực của họ rất khó kiểm soát và khó đoán. Ta cần làm cho phần việc mỗi người gánh đủ nhỏ, và số người thực hiện đủ đông, như vậy mới kiểm soát chất lượng và rủi ro tốt hơn.
 
-### 明确的验收条件
+### Điều kiện nghiệm thu rõ ràng
 
-第二，是一个明确的验收条件。其核心是量化，即这个任务是否完成，完成的好不好，要有一个量化的标准。最好可以自动验收。
+Thứ hai là điều kiện nghiệm thu rõ ràng. Cốt lõi là lượng hóa: nhiệm vụ này xong chưa, làm tốt hay không, phải có tiêu chuẩn định lượng. Tốt nhất là nghiệm thu tự động được.
 
-自动验收的最大优点在于，一旦验收完成，我们就可以实时发送奖励。这样对任务执行人的激励效果会放大，不但会刺激他继续来做众包任务，甚至还会推动他邀请自己的朋友来参与。
+Ưu điểm lớn nhất của nghiệm thu tự động là: nghiệm thu xong có thể gửi thưởng theo thời gian thực. Như vậy hiệu quả khích lệ với người thực hiện được khuếch đại — không chỉ kích thích họ tiếp tục nhận nhiệm vụ crowdsourcing, thậm chí còn thúc đẩy họ mời bạn bè cùng tham gia.
 
-### 有吸引力的奖励
+### Phần thưởng hấp dẫn
 
-最后，有吸引力的奖励也非常重要。
+Cuối cùng, phần thưởng hấp dẫn cũng rất quan trọng.
 
-现在各个APP里面的邀请任务已经非常多了，套路已经被用烂了，产生「吸引力」就很难。
+Hiện các loại nhiệm vụ mời bạn bè trong đủ thứ APP đã quá nhiều, chiêu trò đã bị dùng nhàm, tạo được "sức hút" rất khó.
 
-我们发现依然有吸引力的奖励首先是现金或等价物，比如说京东购物卡；然后是与业务相关的一些有价无市的物品，比如说像我们设计的 NodeJS 实体包，这个现在已经买不到了。如果把它作为奖品的话，我觉得还是对我们的目标人群是很有吸引力的。总的来说，在奖励上，要多一点真诚，少一点套路。
+Chúng tôi thấy phần thưởng vẫn còn hấp dẫn trước hết là tiền mặt hoặc vật ngang giá, ví dụ thẻ mua sắm JD; sau đó là những vật phẩm liên quan đến nghiệp vụ mà có tiền cũng khó mua, ví dụ như "gói NodeJS phiên bản vật lý" chúng tôi từng thiết kế — giờ đã không mua được nữa. Nếu dùng nó làm phần thưởng, tôi nghĩ với nhóm mục tiêu của chúng tôi vẫn rất hấp dẫn. Nhìn chung, về phần thưởng, hãy chân thành nhiều hơn, bớt chiêu trò đi.
 
-发放时机刚才已经说过了，最理想的方式是实时发放，因为它可以在任务执行过程中就把激励循环转起来，最后获得的效果会好很多。
+Về thời điểm trao thưởng thì vừa nói rồi: lý tưởng nhất là trao theo thời gian thực, vì nó khởi động được vòng lặp khích lệ ngay trong quá trình thực hiện nhiệm vụ, hiệu quả cuối cùng sẽ tốt hơn nhiều.
 
-众包系统
+Hệ thống crowdsourcing
 ----
 
-那么，要完成众包，我们需要什么样的支持系统？
+Vậy, để làm crowdsourcing, chúng ta cần hệ thống hỗ trợ như thế nào?
 
-这取决于我们是否要自动判定验收条件，因为不同的任务的验收条件是完全不同的。
+Điều này tùy thuộc ta có muốn tự động phán định điều kiện nghiệm thu hay không, vì điều kiện nghiệm thu của mỗi loại nhiệm vụ hoàn toàn khác nhau.
 
-如果要自动判定，我们就需要各种垂直细分的专用系统。比如，像裂变和推荐返现就是非常典型的垂直众包。这个场景被单独拿出来优化运行，甚至现在大家都不觉得它算众包了。
+Nếu muốn phán định tự động, ta cần các hệ thống chuyên dụng theo từng ngách. Ví dụ, cơ chế lan truyền mời bạn (viral referral) và hoàn tiền giới thiệu là kiểu crowdsourcing chuyên ngách rất điển hình. Kịch bản này được tách riêng ra tối ưu vận hành, đến mức giờ mọi người còn chẳng coi nó là crowdsourcing nữa.
 
-但它本质上就是一种众包。我们可以回过头来看它的这几个要件：
+Nhưng bản chất nó chính là một dạng crowdsourcing. Ta có thể quay lại soi các thành phần của nó:
 
-1.  首先，它有一个清晰细分的任务。给你一个链接，你通过这个链接邀请用户来。
-2.  然后，它的验收条件也非常明确，用户带着邀请码注册，系统直接就能识别到。
-3.  最后奖励也是实时的发放的，一旦发现任务完成以后，立刻发送奖励，很多系统微信上立马就可以收到现金。
+1.  Trước hết, nó có nhiệm vụ chia nhỏ rõ ràng: đưa bạn một link, bạn mời người dùng qua link đó.
+2.  Sau đó, điều kiện nghiệm thu cũng rất rõ: người dùng mang mã mời đăng ký, hệ thống nhận diện được ngay.
+3.  Cuối cùng, phần thưởng cũng trao theo thời gian thực: hễ phát hiện nhiệm vụ hoàn thành, lập tức gửi thưởng — nhiều hệ thống nhận được tiền mặt ngay trên WeChat.
 
-所以，众包不一定是一个独立系统，它也可以是一个垂直的功能。
+Vì vậy, crowdsourcing không nhất thiết là một hệ thống độc lập, nó cũng có thể là một tính năng chuyên ngách.
 
-如果接受人工验收，那么我们可以有一些更通用的方案。
+Nếu chấp nhận nghiệm thu thủ công, ta có thể có những phương án phổ quát hơn.
 
-比如论坛加积分商城。网龄稍微大一点的同学可能用过，基本流程就是，你可以在论坛发布任务，然后把积分悬赏放上去，然后其他人完成任务以后，你去结帖，然后积分就会转让给他。同时论坛本身提供一个积分商城来做奖励的兑换。当然，现在论坛的这个产品形态已经用得非常少了，但是类似的机制依然运行得很好。
+Ví dụ forum kết hợp gian hàng đổi điểm. Các bạn có thâm niên trên mạng chắc từng dùng: quy trình cơ bản là bạn đăng nhiệm vụ lên forum, treo thưởng bằng điểm; người khác hoàn thành nhiệm vụ, bạn chốt thớt, điểm sẽ chuyển cho họ. Đồng thời bản thân forum cung cấp gian hàng đổi điểm để quy đổi phần thưởng. Tất nhiên, hình thái sản phẩm forum giờ đã được dùng rất ít, nhưng cơ chế tương tự vẫn vận hành rất tốt.
 
-如果你使用WordPress，它有一些现成的商业的威客插件。安装以后，可以为 WordPress 添加类似的任务发布、领取、验收、积分/现金结算的功能。
+Nếu dùng WordPress, có sẵn một số plugin thương mại kiểu "chợ việc tự do" (task marketplace). Cài xong, WordPress sẽ có thêm các tính năng tương tự: đăng nhiệm vụ, nhận nhiệm vụ, nghiệm thu, thanh toán bằng điểm/tiền mặt.

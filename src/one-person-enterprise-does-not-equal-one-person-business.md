@@ -1,104 +1,104 @@
-一人企业≠一人业务
+Doanh nghiệp một người ≠ nghiệp vụ một người
 =========
 
-本书的结构主要是三大模块：定义一人企业、规划一人企业、构建一人业务。细心的读者可能已经注意到，与前两部分相比，第三部分的标题有所不同------这并非巧合。
+Cấu trúc của cuốn sách này gồm ba mô-đun lớn: định nghĩa doanh nghiệp một người, hoạch định doanh nghiệp một người, xây dựng nghiệp vụ một người. Bạn đọc tinh ý có lẽ đã nhận ra, so với hai phần đầu, tiêu đề của phần thứ ba có chút khác biệt------đây không phải là ngẫu nhiên.
 
 ![](images/image-72-1024x240.png)
 
-其实在第一个版本的方法论中，第三模块原本是构建一人企业。但在最近两年的实操迭代中，我们发现如果将一人企业和业务等同，容易陷入思维误区。
+Thực ra trong phiên bản đầu tiên của phương pháp luận, mô-đun thứ ba vốn là "xây dựng doanh nghiệp một người". Nhưng qua hai năm thực hành và lặp lại gần đây, chúng tôi phát hiện rằng nếu đánh đồng doanh nghiệp một người với nghiệp vụ, ta rất dễ rơi vào ngộ nhận trong tư duy.
 
-一人企业不等同一人业务
+Doanh nghiệp một người không đồng nghĩa với nghiệp vụ một người
 -----------
 
-如果我们将一人企业等同于一个单一的业务，那么一旦这个业务失败。我们就只能丢掉整个企业，从头再来。这种做法在创业公司里边尤为常见，而我们原先也是未加思考地沿用了这一模式。
+Nếu chúng ta đánh đồng doanh nghiệp một người với một nghiệp vụ duy nhất, thì một khi nghiệp vụ đó thất bại, ta chỉ còn cách vứt bỏ cả doanh nghiệp và làm lại từ đầu. Cách làm này đặc biệt phổ biến ở các công ty khởi nghiệp, và trước đây chúng tôi cũng đã áp dụng mô hình này mà không suy nghĩ kỹ.
 
-然而，深入思考后会发现，创业公司中项目与公司紧密绑定，很大程度上是由于股份结构和资产清算方式导致的。对于一人企业来说，所有的资产通常都是一人持有，因而不存在这类顾虑。
+Tuy nhiên, khi suy ngẫm sâu hơn sẽ thấy, việc dự án và công ty gắn chặt với nhau ở các công ty khởi nghiệp phần lớn là do cấu trúc cổ phần và phương thức thanh lý tài sản gây ra. Với doanh nghiệp một người, toàn bộ tài sản thường do một người nắm giữ, nên không tồn tại những lo ngại kiểu này.
 
-站在失败业务的肩上
+Đứng trên vai những nghiệp vụ thất bại
 ---------
 
-另一方面，对一人企业来讲，业务失败是常态，经常几个月就会遇到一次。如果我们丢掉失败项目的一切重新开始，那么经常会原地踏步。相反，如果我们能把失败项目的中间成果充分利用，那么下次就能站在它们肩上前进。如此屡败屡战，终将成功。
+Mặt khác, với doanh nghiệp một người, nghiệp vụ thất bại là chuyện thường tình, vài tháng lại gặp một lần. Nếu ta vứt bỏ mọi thứ của dự án thất bại rồi bắt đầu lại, thì thường sẽ giậm chân tại chỗ. Ngược lại, nếu ta biết tận dụng triệt để các thành quả trung gian của dự án thất bại, thì lần sau có thể đứng trên vai chúng mà tiến lên. Cứ thế thua rồi lại chiến, cuối cùng sẽ thành công.
 
 ![](images/image-73-1024x456.png)
 
-一人企业可以有多个一人业务
+Một doanh nghiệp một người có thể có nhiều nghiệp vụ một người
 
-这种认知上的微小差异，可能在执行时被放大，从而导致完全不同的结果。比如说，之前我一般是一个项目注册一个独立域名，使用一套独立的用户系统。这样品牌之间完全隔离，互不影响。但也导致一旦项目关闭，用户就完全丢失了。
+Sự khác biệt nhỏ trong nhận thức này có thể bị phóng đại khi thực thi, dẫn đến những kết quả hoàn toàn khác nhau. Chẳng hạn, trước đây tôi thường đăng ký một tên miền riêng cho mỗi dự án, dùng một hệ thống người dùng độc lập. Như vậy các thương hiệu hoàn toàn tách biệt, không ảnh hưởng lẫn nhau. Nhưng điều đó cũng khiến một khi dự án đóng cửa, người dùng bị mất hoàn toàn.
 
-我现在的做法是，将所有项目都放到方糖的品牌下，使用方糖的二级域名，使用方糖的统一用户系统。这样，多个业务之间的用户是共享的，对用户来说也更方便，不用总是注册。
+Cách làm hiện tại của tôi là đưa tất cả dự án vào dưới thương hiệu Fangtang, dùng tên miền cấp hai của Fangtang, dùng hệ thống người dùng thống nhất của Fangtang. Như vậy, người dùng được chia sẻ giữa nhiều nghiệp vụ, và với người dùng cũng tiện lợi hơn, không phải đăng ký đi đăng ký lại.
 
-在技术实施上，我们通过前后端分离，将网站、客户端和后端API完全分开，并将后端API改造为了一个内部开放平台。这样在上新的项目时，只需要向开放平台中添加缺少的API，然后使用独立的前端页面来调用API就好了。
+Về mặt triển khai kỹ thuật, chúng tôi tách rời front-end và back-end, tách hoàn toàn website, client và API back-end, đồng thời cải tạo API back-end thành một nền tảng mở nội bộ. Như vậy khi ra dự án mới, chỉ cần bổ sung các API còn thiếu vào nền tảng mở, rồi dùng trang front-end độc lập để gọi API là xong.
 
 ![](images/image-1-414x1024.jpg)
 
-统一大后端API方案
+Phương án API back-end lớn thống nhất
 
-不为盈利的一人业务
+Nghiệp vụ một người không vì lợi nhuận
 ---------
 
-进一步扩展这种思路，如果我们发现一人业务盈利的难度太大（这通常发生在一人企业的早期，由资源和经验缺乏导致），那么我们可以规划几个专门用来获取资源的一人业务，为后续的变现降低难度。
+Mở rộng thêm lối tư duy này: nếu chúng ta nhận thấy nghiệp vụ một người quá khó sinh lời (điều này thường xảy ra ở giai đoạn đầu của doanh nghiệp một người, do thiếu nguồn lực và kinh nghiệm), thì ta có thể hoạch định vài nghiệp vụ một người chuyên để thu thập nguồn lực, giảm độ khó cho việc kiếm tiền về sau.
 
 ![](images/image-71-1024x456.png)
 
-构建一人业务
+Xây dựng nghiệp vụ một người
 
-在过去，我一直不理解那些蹭热点开发应用的做法。例如，当前流行什么，他们就开发什么。我们会发现，一旦这些热点不再流行，这些应用很快就销声匿迹了。
+Trước đây, tôi luôn không hiểu nổi cách làm phát triển ứng dụng "ăn theo trend". Ví dụ, cái gì đang thịnh hành thì họ phát triển cái đó. Ta sẽ thấy, một khi những trend này hết hot, các ứng dụng đó nhanh chóng biến mất tăm.
 
-然而，如果我们从一个系统化的角度来考虑这个问题，会发现其实这种做法颇有意思。尽管蹭热点的业务似乎并不直接贡献收入，但它可以吸引用户。这些用户下载了应用程序，订阅了公众号，或加入了微信群之后，就被纳入了我们的用户池。当我们构建下一个与这个目标用户群高度重合的业务时，就能显著降低我们的客户获取成本。
+Tuy nhiên, nếu ta xem xét vấn đề này từ góc độ hệ thống hóa, sẽ thấy cách làm này thực ra khá thú vị. Dù nghiệp vụ ăn theo trend dường như không trực tiếp đóng góp doanh thu, nhưng nó có thể thu hút người dùng. Những người dùng này sau khi tải ứng dụng, đăng ký kênh công khai WeChat, hoặc tham gia nhóm WeChat, đã được đưa vào user pool của chúng ta. Khi ta xây dựng nghiệp vụ tiếp theo có nhóm người dùng mục tiêu trùng khớp cao với nhóm này, ta có thể giảm đáng kể chi phí thu hút khách hàng.
 
-因此，从系统化的思维来看，蹭热点并非毫无价值。相反，它为我们构建和扩大用户基础提供了一种有效的方法。
+Vì vậy, nhìn từ tư duy hệ thống hóa, ăn theo trend không hề vô giá trị. Ngược lại, nó cung cấp cho ta một phương pháp hiệu quả để xây dựng và mở rộng nền tảng người dùng.
 
-一人企业月报
+Báo cáo tháng doanh nghiệp một người
 ------
 
-为了更好的思考一人业务和一人企业之间如何协同优化，我们设计了「一人企业月报」。月报分为两个部分，分别适用于月初和月末。
+Để suy nghĩ tốt hơn về cách phối hợp tối ưu giữa nghiệp vụ một người và doanh nghiệp một người, chúng tôi đã thiết kế «Báo cáo tháng doanh nghiệp một người». Báo cáo tháng chia làm hai phần, dùng cho đầu tháng và cuối tháng.
 
 ![](images/image-81-1024x586.png)
 
-一人企业月报-月初版本
+Báo cáo tháng doanh nghiệp một người - phiên bản đầu tháng
 
-### 收益目标
+### Mục tiêu thu nhập
 
-月初，我们会设定收益目标，同时对比当前资产的月周期性收入（MRR），我们期望达到的最低可行利润（MVPr），以及实现工作自由所需的MRR。通过比较，我们可以非常清楚地看到自己所在的位置和离目标的差距。想象一下达到下一个里程碑，我们可以获得的更自在的工作和生活状态，这会激励我们前行。
+Đầu tháng, chúng ta đặt ra mục tiêu thu nhập, đồng thời đối chiếu thu nhập định kỳ hàng tháng (MRR) của tài sản hiện tại, mức lợi nhuận khả thi tối thiểu (MVPr) mà ta kỳ vọng đạt được, và mức MRR cần thiết để đạt tự do công việc. Qua so sánh, ta có thể thấy rất rõ vị trí của mình và khoảng cách đến mục tiêu. Hãy tưởng tượng khi đạt cột mốc tiếp theo, ta sẽ có được trạng thái làm việc và cuộc sống thoải mái hơn — điều này sẽ thúc đẩy ta tiến lên.
 
-接下来是资产变动部分，即我们计划新增、优化和处理的资产，以及对这些资产的简要描述。
+Tiếp theo là phần biến động tài sản, tức các tài sản mà ta dự định bổ sung, tối ưu và xử lý, cùng mô tả ngắn gọn về những tài sản này.
 
-此外，还有三个状态模块，分别描述我们业务的当前状态，我将其视为业务的「健康度」。
+Ngoài ra, còn có ba mô-đun trạng thái, lần lượt mô tả trạng thái hiện tại của nghiệp vụ — tôi xem chúng như «độ khỏe mạnh» của nghiệp vụ.
 
-### 用户池
+### User pool
 
-其中，用户池即我们能触达的用户群体。触达的方式可以是微信推送、电子邮件或手机短信等直接方法。
+Trong đó, user pool là nhóm người dùng mà ta có thể tiếp cận. Cách tiếp cận có thể là các phương thức trực tiếp như đẩy thông báo WeChat, email hoặc tin nhắn SMS.
 
-我们将用户细分为「原生用户」和「第三方平台用户」。原生用户指那些在我们自己完全控制的平台上注册的用户，例如拥有我们App的用户；而第三方平台用户指在诸如微博或哔哩哔哩上关注我们账号的用户。其核心区别在于，我们推送消息时，是否受到限制或是否需要额外付费。
+Chúng tôi chia người dùng thành «người dùng gốc» và «người dùng nền tảng bên thứ ba». Người dùng gốc là những người đăng ký trên nền tảng do ta hoàn toàn kiểm soát, ví dụ người dùng sở hữu App của ta; còn người dùng nền tảng bên thứ ba là những người theo dõi tài khoản của ta trên các nền tảng như Weibo hay Bilibili. Điểm khác biệt cốt lõi nằm ở chỗ: khi ta đẩy thông báo, có bị hạn chế hay có phải trả thêm phí hay không.
 
-此外，我们还需要考虑参与二次传播和付费的用户数量，这些都是用户层的关键指标。
+Ngoài ra, ta còn cần xem xét số lượng người dùng tham gia lan truyền thứ cấp và trả phí — đây đều là các chỉ số then chốt của tầng người dùng.
 
-### 内容池和基础设施
+### Content pool và hạ tầng
 
-内容池指的是能够带来收入或流量的内容。其中带来收入的内容实质上已经成为了资产，放到这里是为了从内容特性的统一视角去思考它。
+Content pool là những nội dung có thể mang lại doanh thu hoặc lưu lượng truy cập. Trong đó, nội dung mang lại doanh thu về bản chất đã trở thành tài sản; đặt ở đây là để suy nghĩ về nó từ góc nhìn thống nhất theo đặc tính nội dung.
 
-基础设施层涉及到构建共用产品逻辑时所需的基础设施。
+Tầng hạ tầng liên quan đến các hạ tầng cần thiết khi xây dựng logic sản phẩm dùng chung.
 
-很多产品都在基于微信公众号来构建用户池和内容池作为基础设施。但微信公众号平台已经过了发展期，现在开始控制流量和着重变现，对传播有不小的限制。比如他们要求非公众号主题的商业推广必须走他们的广告计划。
+Rất nhiều sản phẩm đang xây dựng user pool và content pool trên nền tảng kênh công khai WeChat làm hạ tầng. Nhưng nền tảng kênh công khai WeChat đã qua thời kỳ phát triển, giờ bắt đầu kiểm soát lưu lượng và tập trung kiếm tiền, đặt ra không ít hạn chế cho việc lan truyền. Ví dụ, họ yêu cầu các quảng bá thương mại không thuộc chủ đề của kênh phải đi qua chương trình quảng cáo của họ.
 
-相比之下，完全自主控制的基础设施才是最好的解决方案。
+So với đó, hạ tầng hoàn toàn tự chủ mới là giải pháp tốt nhất.
 
-APP是自主性和触达率最好的方案。但开发APP对一人企业来说，是非常高的成本。维护也需要持续投入，光是各个应用市场的更新都要折腾挺久。另一方面，APP发版需要平台审核，对更新及时性有很大的影响。
+APP là phương án tốt nhất về tính tự chủ và tỷ lệ tiếp cận. Nhưng phát triển APP với doanh nghiệp một người là chi phí rất cao. Việc bảo trì cũng cần đầu tư liên tục, chỉ riêng việc cập nhật trên các chợ ứng dụng đã tốn khá nhiều công sức. Mặt khác, phát hành phiên bản APP cần nền tảng phê duyệt, ảnh hưởng lớn đến tính kịp thời của cập nhật.
 
-小程序是一个折中的方案，但从2024年开始，也要进行APP备案。另外在iOS上的支付也经常被禁止。
+Mini program là một phương án dung hòa, nhưng từ năm 2024 cũng phải đăng ký hồ sơ như APP. Ngoài ra, thanh toán trên iOS cũng thường xuyên bị cấm.
 
-比较下来，我们觉得对于早期的一人企业项目，使用独立网站性价比最高。不过需要将用户系统和微信整合，并利用微信的模版消息、客服消息、订阅消息来做触达。
+So sánh lại, chúng tôi cho rằng với các dự án doanh nghiệp một người giai đoạn đầu, dùng website độc lập có hiệu quả chi phí cao nhất. Tuy nhiên cần tích hợp hệ thống người dùng với WeChat, và tận dụng tin nhắn mẫu, tin nhắn chăm sóc khách hàng, tin nhắn đăng ký của WeChat để tiếp cận người dùng.
 
-如果要从头开发独立网站，其成本并不低。但如果通过WordPress来搭建，则仅需支付服务器的费用，一个最小的云主机实例就可以，一个月的支出在50元以内。我们正在开发一个用于支持一人企业方法论的WordPress插件，可以将WordPress和微信用户整合、文章支持推送给订阅用户、支持微信支付和XorPay接口，并可以进行产品众筹。成熟后会在本站公布，敬请期待。
+Nếu phát triển website độc lập từ đầu, chi phí không hề thấp. Nhưng nếu dựng bằng WordPress, thì chỉ cần trả phí máy chủ — một cloud instance nhỏ nhất là đủ, chi tiêu mỗi tháng dưới 50 tệ. Chúng tôi đang phát triển một plugin WordPress hỗ trợ phương pháp luận doanh nghiệp một người, có thể tích hợp WordPress với người dùng WeChat, hỗ trợ đẩy bài viết cho người dùng đăng ký, hỗ trợ thanh toán WeChat và giao diện XorPay, đồng thời có thể thực hiện crowdfunding sản phẩm. Khi hoàn thiện sẽ công bố trên trang này, mời các bạn đón chờ.
 
-有了自己的独立网站，内容和用户都可以围绕它来构建。内容首先放到自己的主站上，然后再同步到第三方平台。在同步的内容中，我们可以在自己的平台提供额外的内容，引导用户回到主站查看，从而确保核心资产和基础设施都受自己控制。
+Có website độc lập của riêng mình, nội dung và người dùng đều có thể xây dựng xoay quanh nó. Nội dung trước tiên đưa lên trang chủ của mình, rồi mới đồng bộ sang các nền tảng bên thứ ba. Trong nội dung đồng bộ, ta có thể cung cấp nội dung bổ sung trên nền tảng của mình, dẫn dắt người dùng quay về trang chủ xem, từ đó đảm bảo tài sản cốt lõi và hạ tầng đều nằm trong tầm kiểm soát của mình.
 
-### 月末总结
+### Tổng kết cuối tháng
 
 ![](images/opb-month-end-1024x583.png)
 
-一人企业月报-月末版本
+Báo cáo tháng doanh nghiệp một người - phiên bản cuối tháng
 
-月末时，我们会有一个对应的图表来回顾本月的工作，包括资产的现状和处理情况，以及是否达到了我们设定的目标。其中主要变动的是资产构成，已经收益目标部分。
+Cuối tháng, chúng ta có một biểu đồ tương ứng để nhìn lại công việc trong tháng, bao gồm hiện trạng và tình hình xử lý tài sản, cũng như có đạt được mục tiêu đã đặt ra hay không. Phần thay đổi chính là cấu thành tài sản và phần mục tiêu thu nhập.
 
-「一人企业月报」的主要目的是让我们强制性地以全面的角度思考业务，并定期进行。确保我们不会漏掉重要的部分。
+Mục đích chính của «Báo cáo tháng doanh nghiệp một người» là buộc chúng ta phải suy nghĩ về nghiệp vụ từ góc nhìn toàn diện, và thực hiện định kỳ. Đảm bảo ta không bỏ sót những phần quan trọng.

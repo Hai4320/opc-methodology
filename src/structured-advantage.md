@@ -1,137 +1,137 @@
-# 竞争策略:结构化优势
+# Chiến lược cạnh tranh: Lợi thế cấu trúc
 
-虽然不战而屈人之兵是为上策，但我们总会有直面竞争的时候，本文将讨论这种场景下的策略。
+Dù không đánh mà khuất phục được địch là thượng sách, nhưng rồi cũng sẽ có lúc chúng ta phải đối mặt trực diện với cạnh tranh; bài viết này sẽ thảo luận chiến lược cho kịch bản đó.
 
-什么是结构化优势
+Lợi thế cấu trúc là gì
 --------
 
-所谓的结构化优势，是指针对竞品的「固有弱点」构建的优势。固有弱点一词，源于《不对称创新》这本有点年代的书籍。尽管我不能确定该概念是否最初由此提出，我确实是在这本书中首次接触到。
+Cái gọi là lợi thế cấu trúc là lợi thế được xây dựng nhắm vào「điểm yếu cố hữu」của sản phẩm cạnh tranh. Thuật ngữ điểm yếu cố hữu bắt nguồn từ 《Đổi mới bất đối xứng》, một cuốn sách đã có tuổi. Dù tôi không chắc khái niệm này có phải được đề xuất đầu tiên ở đây hay không, nhưng tôi thực sự tiếp xúc với nó lần đầu qua cuốn sách này.
 
 ![](images/image-62-756x1024.png)
 
-《不对称创新》
+《Đổi mới bất đối xứng》
 
-### 固有弱点
+### Điểm yếu cố hữu
 
-固有弱点是指那些难以纠正的弱点。这种难以纠正并非因为不可见，而是由于价值网络的特性。使得即使看得到，却改不了。通常，这些弱点源自两个方面：一是商业模式；二是竞争优势。
+Điểm yếu cố hữu là những điểm yếu khó sửa chữa. Khó sửa chữa không phải vì không nhìn thấy, mà là do đặc tính của mạng lưới giá trị, khiến cho dù thấy được cũng không đổi được. Thông thường, những điểm yếu này bắt nguồn từ hai phương diện: một là mô hình kinh doanh; hai là lợi thế cạnh tranh.
 
 ![](images/image-63-1024x624.png)
 
-固有弱点的常见来源
+Các nguồn gốc thường gặp của điểm yếu cố hữu
 
-#### 来自商业模式的固有弱点
+#### Điểm yếu cố hữu từ mô hình kinh doanh
 
-以我们之前讨论过的百视达的线上业务为例，其商业模式本身存在冲突，新模式的引入（线上业务）会摧毁旧的模式（线下门店）。这种情况下，公司会考虑，为何要为了一个（还未完全成熟的）新模式去改变旧的模式，尤其是当旧模式仍然能带来可观收入时。另一方面，即使高层下定了决心，只要价值网络没有更新，执行起来也会是困难重重。这就来自商业模式的固有弱点。
+Lấy ví dụ nghiệp vụ trực tuyến của Blockbuster mà chúng ta từng thảo luận: mô hình kinh doanh của nó tự thân đã tồn tại xung đột, việc đưa vào mô hình mới (nghiệp vụ trực tuyến) sẽ phá hủy mô hình cũ (cửa hàng offline). Trong tình huống này, công ty sẽ cân nhắc: tại sao phải vì một mô hình mới (còn chưa hoàn toàn chín muồi) mà thay đổi mô hình cũ, nhất là khi mô hình cũ vẫn đang mang lại thu nhập đáng kể. Mặt khác, dù lãnh đạo cấp cao đã hạ quyết tâm, chỉ cần mạng lưới giá trị chưa được cập nhật, việc thực thi cũng sẽ muôn vàn khó khăn. Đây chính là điểm yếu cố hữu đến từ mô hình kinh doanh.
 
 ![](images/image-64-709x1024.png)
 
-《网飞传奇》
+《Huyền thoại Netflix》
 
-#### 来自竞争优势的固有弱点
+#### Điểm yếu cố hữu từ lợi thế cạnh tranh
 
-当企业在其领域通过某种方式获得竞争优势时，若要求其改变竞争方式，之前的投资就会化为泡影。这其实是一种路径依赖。
+Khi doanh nghiệp đã giành được lợi thế cạnh tranh trong lĩnh vực của mình theo một cách nào đó, nếu yêu cầu họ thay đổi cách cạnh tranh thì khoản đầu tư trước đó sẽ tan thành mây khói. Đây thực chất là một dạng phụ thuộc lối mòn.
 
-许多企业在社交媒体营销上的迟钝是一个典型的例子。他们之前的营销是基于传统媒体渠道构建的，而且效果不错。当社交媒体刚兴起时，同样的钱，投放到传统渠道获得的收益更多。于是会理所当然的继续投放到传统渠道。而当社交媒体成为主流渠道时，再切换渠道已经失去了很多优势。
+Sự chậm chạp của nhiều doanh nghiệp trong marketing trên mạng xã hội là một ví dụ điển hình. Hoạt động marketing trước đó của họ được xây dựng trên các kênh truyền thông truyền thống, và hiệu quả không tệ. Khi mạng xã hội mới nổi lên, cùng một số tiền, chạy quảng cáo trên kênh truyền thống mang lại lợi ích nhiều hơn. Thế là họ đương nhiên tiếp tục đổ vào kênh truyền thống. Đến khi mạng xã hội trở thành kênh chủ đạo thì việc chuyển kênh đã mất đi rất nhiều lợi thế.
 
-一人企业特有的结构化优势
+Lợi thế cấu trúc đặc thù của doanh nghiệp một người
 ------------
 
-可以看到，结构化优势是在知己知彼的基础上，有针对性的构建的。这里我们从一人企业出发，针对大企业和创业公司，总结了一些结构化优势。你当然可以从自己的具体情况出发，构建自己特有的结构化优势。
+Có thể thấy, lợi thế cấu trúc được xây dựng một cách có chủ đích trên cơ sở biết mình biết người. Ở đây, xuất phát từ doanh nghiệp một người, nhắm vào doanh nghiệp lớn và công ty khởi nghiệp, chúng tôi tổng kết một số lợi thế cấu trúc. Bạn hoàn toàn có thể xuất phát từ hoàn cảnh cụ thể của mình để xây dựng lợi thế cấu trúc đặc thù riêng.
 
-### 副产品优势
+### Lợi thế từ sản phẩm phụ
 
-这是一人企业以副业形态运行时时特有的、特别好用的优势。我在《程序员如何优雅地挣零花钱》和微博、推特上不断提及，甚至将其作为《精益副业》一书的中心概念。
+Đây là lợi thế đặc thù và đặc biệt hữu dụng khi doanh nghiệp một người vận hành dưới hình thái side project. Tôi đã nhắc đến nó liên tục trong 《Lập trình viên kiếm tiền tiêu vặt một cách thanh lịch như thế nào》 và trên Weibo, Twitter, thậm chí lấy nó làm khái niệm trung tâm của cuốn 《Side project tinh gọn》.
 
-它的核心逻辑是：利用主业产生的副产品或中间产品来创造收益，由于这部分产品的成本几乎为零，竞争对手很难与之竞争。
+Logic cốt lõi của nó là: tận dụng sản phẩm phụ hoặc sản phẩm trung gian sinh ra từ công việc chính để tạo thu nhập; do chi phí của phần sản phẩm này gần như bằng không, đối thủ cạnh tranh rất khó đọ lại.
 
-我们来看一个对程序员讲很实用的例子。
+Chúng ta xem một ví dụ rất thực tế với lập trình viên.
 
 ![](images/image-65-1024x368.png)
 
-复合副产品优势
+Lợi thế sản phẩm phụ kép
 
-我们假设他在一家大型互联网公司工作，主要进行前端开发。这是他的主业，也是主要收入来源，包括公司提供的薪资、期权和股票。这部分收入已经充分覆盖了他的投入成本，并保障了日常生活。
+Giả sử anh ấy làm việc tại một công ty internet lớn, chủ yếu làm phát triển front-end. Đây là công việc chính, cũng là nguồn thu nhập chính, gồm lương, quyền chọn và cổ phiếu công ty cấp. Phần thu nhập này đã bao phủ đầy đủ chi phí đầu tư của anh và bảo đảm cuộc sống thường ngày.
 
-然而，在开发中，他累积出了自己的组件库，这就是副产品。他把组件库部分开源，以免费+收费的方式进行售卖。这时候，他的投入只是边际成本（比如搭建官网、制作文档、推广和客服），因为组件库的成本主业已经支付了。
+Tuy nhiên, trong quá trình phát triển, anh tích lũy được thư viện component của riêng mình — đây chính là sản phẩm phụ. Anh mở mã nguồn một phần thư viện component, bán theo hình thức miễn phí + trả phí. Lúc này, khoản đầu tư của anh chỉ là chi phí biên (như dựng website chính thức, làm tài liệu, quảng bá và chăm sóc khách hàng), vì chi phí của thư viện component đã được công việc chính chi trả.
 
-相对于从头开始做这么一个组件库的竞争对手，他的成本非常低。更重要的是，如果主业也在使用这个组件库，那么还能获得大量的真实用户反馈，可以快速迭代。这就是副产品优势。
+So với đối thủ cạnh tranh phải làm một thư viện component như vậy từ đầu, chi phí của anh rất thấp. Quan trọng hơn, nếu công việc chính cũng đang dùng thư viện component này thì còn nhận được lượng lớn phản hồi từ người dùng thực, có thể lặp cải tiến nhanh chóng. Đây chính là lợi thế từ sản phẩm phụ.
 
-进一步，在对组件库的开发和维护过程中，他可以录制屏幕作为素材。这也是副产品。在进行剪辑和整理后，可以作为付费视频课程进行售卖。由于有开源组件库的影响力，这些课程在制作之前就已经拥有不少的潜在用户了。
+Tiến thêm một bước, trong quá trình phát triển và bảo trì thư viện component, anh có thể quay màn hình làm tư liệu. Đây cũng là sản phẩm phụ. Sau khi biên tập và sắp xếp, có thể bán dưới dạng khóa học video trả phí. Nhờ sức ảnh hưởng của thư viện component mã nguồn mở, những khóa học này đã có không ít người dùng tiềm năng từ trước cả khi được sản xuất.
 
-所以，这其实是一个多层嵌套的副产品优势，主业开发 → 组件库（副产品），组件库开发 → 视频课程（副产品），我们称其为复合副产品优势。
+Vậy nên, đây thực ra là lợi thế sản phẩm phụ lồng nhau nhiều tầng: phát triển công việc chính → thư viện component (sản phẩm phụ), phát triển thư viện component → khóa học video (sản phẩm phụ) — chúng tôi gọi đó là lợi thế sản phẩm phụ kép.
 
-以上只是一个简单的例子，并不局限于组件库，也不局限于程序员。可以根据自己的情况自行推演。另外请特别注意，不同公司对于可能的副产品有不同的规定，请在遵守规定的前提下进行。
+Trên đây chỉ là một ví dụ đơn giản, không giới hạn ở thư viện component, cũng không giới hạn ở lập trình viên. Bạn có thể tự suy diễn theo hoàn cảnh của mình. Ngoài ra xin đặc biệt lưu ý, các công ty khác nhau có quy định khác nhau về sản phẩm phụ khả dĩ, hãy thực hiện trên tiền đề tuân thủ quy định.
 
-### 第三方优势
+### Lợi thế bên thứ ba
 
-第三方优势是指我们可以做官方不愿意或不方便做的业务。
+Lợi thế bên thứ ba là việc chúng ta có thể làm những nghiệp vụ mà bên chính thức không muốn làm hoặc không tiện làm.
 
-#### 官方不愿意做
+#### Bên chính thức không muốn làm
 
 ![](images/image-66.png)
 
-基于第三方优势的聚合红包应用
+Ứng dụng tổng hợp phong bao lì xì dựa trên lợi thế bên thứ ba
 
-以实际例子来说明，比如饿了么不会为美团发放红包，反之亦然。这种情况下，用户需要在这两个平台之间切换以领取红包，造成了不便。因此，如果我们创建一个聚合红包应用，让用户在一个应用里边就能领取到两家的红包，这无疑对用户具有更大的吸引力。对于饿了么和美团而言，他们不会去开发这样的应用，这正是第三方优势的体现。
+Lấy ví dụ thực tế: Ele.me sẽ không phát phong bao lì xì cho Meituan, và ngược lại. Trong tình huống này, người dùng phải chuyển qua lại giữa hai nền tảng để nhận lì xì, gây bất tiện. Vì vậy, nếu chúng ta tạo một ứng dụng tổng hợp lì xì, để người dùng nhận được lì xì của cả hai nhà trong cùng một ứng dụng, chắc chắn sẽ hấp dẫn người dùng hơn. Với Ele.me và Meituan, họ sẽ không phát triển ứng dụng như vậy — đây chính là biểu hiện của lợi thế bên thứ ba.
 
-#### 官方不方便做
+#### Bên chính thức không tiện làm
 
-还有一些业务，官方虽然可能很想做，但他们的身份没法做，或者说做了没用。比如针对全行业的产品测评，虽然官方也可以做，但缺乏公信力。这种第三方优势便催生了一大批的独立测评机构。不过，这种机构需要谨慎的设计自己的盈利模式，否则很容易沦为笑话。
+Còn có một số nghiệp vụ mà bên chính thức tuy rất muốn làm, nhưng thân phận của họ không cho phép, hoặc làm rồi cũng vô ích. Ví dụ như đánh giá sản phẩm cho toàn ngành: tuy bên chính thức cũng làm được, nhưng thiếu độ tin cậy công chúng. Lợi thế bên thứ ba kiểu này đã sản sinh ra hàng loạt tổ chức đánh giá độc lập. Tuy nhiên, loại tổ chức này cần thiết kế mô hình sinh lời của mình một cách thận trọng, nếu không rất dễ biến thành trò cười.
 
-#### 常见套路：聚合
+#### Chiêu thức thường gặp: tổng hợp
 
-聚合是第三方优势的一个常见套路。因为它在第三方优势的基础上，往往还能为用户带来便利。
+Tổng hợp là một chiêu thức thường gặp của lợi thế bên thứ ba. Vì trên nền tảng lợi thế bên thứ ba, nó thường còn mang lại tiện lợi cho người dùng.
 
 ![](images/image-67-1024x941.png)
 
-LLM结果聚合
+Tổng hợp kết quả LLM
 
-以VerifAI这个应用为例，它允许用户同时在几个大型语言模型上进行提问，并返回答案供用户选择。这对于寻求最佳答案的用户来说，是一个非常便捷的工具。而对于其中的LLM公司而言，它们通常不会开发这样的工具，因为这意味着需要展示竞争对手的内容。
+Lấy ứng dụng VerifAI làm ví dụ: nó cho phép người dùng đặt câu hỏi đồng thời trên vài mô hình ngôn ngữ lớn và trả về các câu trả lời cho người dùng lựa chọn. Với người dùng tìm kiếm câu trả lời tốt nhất, đây là một công cụ vô cùng tiện lợi. Còn với các công ty LLM trong đó, họ thường sẽ không phát triển công cụ như vậy, vì điều đó đồng nghĩa với việc phải hiển thị nội dung của đối thủ cạnh tranh.
 
-这是就官方机构通常不愿意或做不好的事情。通过利用第三方优势，我们可以提供独特的价值，满足用户的特定需求，这在竞争激烈的市场中是一个重要的结构化优势。
+Đây chính là những việc mà tổ chức chính thức thường không muốn làm hoặc làm không tốt. Bằng cách tận dụng lợi thế bên thứ ba, chúng ta có thể cung cấp giá trị độc đáo, đáp ứng nhu cầu đặc thù của người dùng — đây là một lợi thế cấu trúc quan trọng trong thị trường cạnh tranh khốc liệt.
 
-### 低成本优势
+### Lợi thế chi phí thấp
 
-低成本是一人企业的一个巨大的结构化优势。我们在讨论中不停地提到一个概念，那就是「最低可行利润」。只要达到这个最低可行利润，我们就能收支平衡，即便不赚钱，如果能满足我们的兴趣和爱好，我们也可以持续地经营下去。哪怕是五年、十年，直到最终取得成功。如果是以副业形态存在的一人业务，我们甚至还可以补贴一部分成本来维持。这让我们能以长期主义的角度来思考问题。
+Chi phí thấp là một lợi thế cấu trúc khổng lồ của doanh nghiệp một người. Trong các thảo luận, chúng ta liên tục nhắc đến một khái niệm, đó là「lợi nhuận khả thi tối thiểu」. Chỉ cần đạt mức lợi nhuận khả thi tối thiểu này, chúng ta đã cân bằng thu chi; dù không kiếm được tiền, nếu thỏa mãn được sở thích và đam mê, chúng ta vẫn có thể kinh doanh bền bỉ. Dù là năm năm, mười năm, cho đến khi cuối cùng thành công. Nếu là nghiệp vụ một người tồn tại dưới hình thái side project, chúng ta thậm chí còn có thể bù đắp một phần chi phí để duy trì. Điều này cho phép chúng ta suy nghĩ vấn đề từ góc độ chủ nghĩa dài hạn.
 
 ![](images/image-68-711x1024.png)
 
-并不是所有人都能够做长远的打算
+Không phải ai cũng có thể tính chuyện lâu dài
 
-与此相对的是，大公司和创业公司往往缺乏这样的耐心。在常年不赚钱的情况下，很少能长期持续。甚至一两家公司关闭业务，可能引发整个行业的关闭潮。以下是2016年不到一年时间内，各大厂家对网盘业务的关闭和调整情况：
+Trái ngược với điều đó, công ty lớn và công ty khởi nghiệp thường thiếu sự kiên nhẫn như vậy. Trong tình trạng nhiều năm không kiếm được tiền, rất hiếm khi duy trì được lâu dài. Thậm chí một hai công ty đóng cửa nghiệp vụ có thể châm ngòi cho làn sóng đóng cửa của cả ngành. Dưới đây là tình hình đóng cửa và điều chỉnh nghiệp vụ lưu trữ đám mây của các hãng lớn trong chưa đầy một năm 2016:
 
--   3月4日，115 网盘宣布，继今年1月份下线礼包分享功能后，下线「我聊」文件分享功能。
--   3月17日， UC网盘宣布4月15日起终止网盘的存储服务，停止UC网盘的上传服务/离线资源存至网盘功能/视频转码服务。
--   4月26日，迅雷快盘宣布停止快盘个人用户的存储服务，所有用户数据将保留到2016年6月30日。
--   4月25日，新浪微盘宣布将于2016年6月30日关闭免费个人用户的存储服务，即日起暂停分享及站内搜索功能。
--   4月28日，腾讯微云宣布将于2016年5月27日关闭文件中转站功能。
--   5月3日，华为网盘宣布即日起停止用户数据存储分享服务，所有用户数据保留到2016年6月30日，之后终止免费永久空间资格
--   10月20日， 360云盘宣布转型关闭
+-   Ngày 4/3, 115 Wangpan tuyên bố, tiếp sau việc gỡ bỏ chức năng chia sẻ gói quà vào tháng 1 năm nay, gỡ bỏ chức năng chia sẻ file「Woliao」.
+-   Ngày 17/3, UC Wangpan tuyên bố từ ngày 15/4 chấm dứt dịch vụ lưu trữ, dừng dịch vụ tải lên của UC Wangpan / chức năng lưu tài nguyên offline vào ổ đám mây / dịch vụ chuyển mã video.
+-   Ngày 26/4, Xunlei Kuaipan tuyên bố dừng dịch vụ lưu trữ cho người dùng cá nhân của Kuaipan, mọi dữ liệu người dùng sẽ được giữ đến ngày 30/6/2016.
+-   Ngày 25/4, Sina Weipan tuyên bố sẽ đóng dịch vụ lưu trữ cho người dùng cá nhân miễn phí vào ngày 30/6/2016, tạm dừng chức năng chia sẻ và tìm kiếm trong trang từ ngày công bố.
+-   Ngày 28/4, Tencent Weiyun tuyên bố sẽ đóng chức năng trạm trung chuyển file vào ngày 27/5/2016.
+-   Ngày 3/5, Huawei Wangpan tuyên bố từ ngày công bố dừng dịch vụ lưu trữ và chia sẻ dữ liệu người dùng, mọi dữ liệu người dùng giữ đến ngày 30/6/2016, sau đó chấm dứt quyền sử dụng dung lượng vĩnh viễn miễn phí.
+-   Ngày 20/10, 360 Yunpan tuyên bố chuyển đổi mô hình và đóng cửa.
 
-创业公司因为需要依靠融资来发展，将增长视为核心指标，更天然的缺乏耐心。在社交书签服务领域的Delicious和Pinboard的经历是一个很好的例子。
+Công ty khởi nghiệp vì cần dựa vào gọi vốn để phát triển, coi tăng trưởng là chỉ số cốt lõi, nên càng thiếu kiên nhẫn một cách tự nhiên. Trải nghiệm của Delicious và Pinboard trong lĩnh vực dịch vụ đánh dấu trang xã hội là một ví dụ rất hay.
 
 ![](images/image-69-921x1024.png)
 
-Delicious和Pinboard
+Delicious và Pinboard
 
-Delicious创办于2003年底，当时这个网站以一种创新的方式允许用户保存、分享和发现网页书签。它很快就吸引了大量的关注和用户，这种创新的互联网服务模式在当时是前所未有的。仅仅两年后，2005年12月9日，Yahoo看中了Delicious的潜力和影响力，将其纳入麾下。然而，随着时间的推移，Delicious似乎未能在Yahoo的体系内继续保持其创新性和活力，尤其是在2010年12月，Yahoo宣布准备关闭Delicious时，这一消息震惊了互联网社区。
+Delicious được thành lập cuối năm 2003; khi đó website này cho phép người dùng lưu, chia sẻ và khám phá bookmark trang web theo một cách sáng tạo. Nó nhanh chóng thu hút lượng lớn sự chú ý và người dùng — mô hình dịch vụ internet sáng tạo này là chưa từng có vào thời điểm đó. Chỉ hai năm sau, ngày 9/12/2005, Yahoo nhìn thấy tiềm năng và sức ảnh hưởng của Delicious, đã thu nạp nó về dưới trướng. Tuy nhiên, theo thời gian, Delicious dường như không thể tiếp tục duy trì tính sáng tạo và sức sống trong hệ thống của Yahoo, nhất là vào tháng 12/2010, khi Yahoo tuyên bố chuẩn bị đóng cửa Delicious, tin tức này đã gây chấn động cộng đồng internet.
 
-与此同时，Pinboard于2009年7月上线，它是由Maciej Ceglowski创建的，一个以极简主义为特色的个人项目。初期，Pinboard通过收取约3美元的注册费来维持运营。2010年12月，当Delicious的未来变得不确定时，Pinboard经历了用户数量的激增，从而证明了其作为Delicious替代品的价值和潜力。Pinboard采取了长期主义的战略，通过持续的服务优化和费用调整，如2015年开始收取11美元的年费，而不是一次性的注册费，逐步建立起了稳定的收入来源和用户群。
+Cùng lúc đó, Pinboard ra mắt tháng 7/2009, do Maciej Ceglowski tạo ra — một dự án cá nhân mang đặc trưng chủ nghĩa tối giản. Thời kỳ đầu, Pinboard duy trì vận hành bằng cách thu phí đăng ký khoảng 3 USD. Tháng 12/2010, khi tương lai của Delicious trở nên bất định, Pinboard trải qua đợt tăng vọt số lượng người dùng, qua đó chứng minh giá trị và tiềm năng của nó với tư cách sản phẩm thay thế Delicious. Pinboard theo đuổi chiến lược chủ nghĩa dài hạn, thông qua tối ưu dịch vụ liên tục và điều chỉnh phí — như từ năm 2015 bắt đầu thu phí thường niên 11 USD thay vì phí đăng ký một lần — từng bước xây dựng nguồn thu nhập ổn định và cộng đồng người dùng.
 
-2017年6月1日，Pinboard收购了Delicious，并将其服务关闭，转为只读状态，这标志着Pinboard在社交书签服务领域的领先地位。
+Ngày 1/6/2017, Pinboard mua lại Delicious và đóng dịch vụ của nó, chuyển sang trạng thái chỉ đọc — điều này đánh dấu vị thế dẫn đầu của Pinboard trong lĩnh vực dịch vụ đánh dấu trang xã hội.
 
-Delicious和Pinboard的故事展示了一人企业如何在维持最低成本的情况下，长期发展，最终剩者为王。
+Câu chuyện của Delicious và Pinboard cho thấy doanh nghiệp một người có thể phát triển dài hạn trong khi duy trì chi phí tối thiểu như thế nào, và cuối cùng kẻ trụ lại là vua.
 
-### 专属服务优势
+### Lợi thế dịch vụ chuyên biệt
 
-专属服务优势是一人企业的又一个结构化优势。其核心逻辑是，由于客户数量有限，我们能够为每一位客户提供个性化服务，前提是每位客户的客单价足够高。
+Lợi thế dịch vụ chuyên biệt là một lợi thế cấu trúc nữa của doanh nghiệp một người. Logic cốt lõi của nó là: do số lượng khách hàng có hạn, chúng ta có thể cung cấp dịch vụ cá nhân hóa cho từng khách hàng, với tiền đề là giá trị đơn hàng trên mỗi khách hàng đủ cao.
 
 ![](images/image-70.png)
 
-转服服务优势
+Lợi thế dịch vụ chuyên biệt
 
-许多服务型的一人企业正是基于这样的模式运营。例如，假设我们仅有5到10家客户，每个月，我们为他们提供VIP级别的维护，收费1万元。因此，每个月我们可以稳定地获得5到10万元的收入。由于客户数量有限，我们能够为他们提供随时可用的电话沟通服务，并上门提供定制化及相应的服务。
+Nhiều doanh nghiệp một người dạng dịch vụ vận hành chính trên mô hình như vậy. Ví dụ, giả sử chúng ta chỉ có 5 đến 10 khách hàng; mỗi tháng, chúng ta cung cấp cho họ dịch vụ bảo trì cấp VIP, thu phí 10 nghìn tệ. Nhờ vậy, mỗi tháng chúng ta có thể thu về ổn định 50 đến 100 nghìn tệ. Do số lượng khách hàng có hạn, chúng ta có thể cung cấp cho họ dịch vụ trao đổi qua điện thoại bất cứ lúc nào, và đến tận nơi cung cấp dịch vụ tùy chỉnh cùng các dịch vụ tương ứng.
 
-这种专属优势在大公司中是难以实现的，因为这是来自收益上限的结构化优势。从人力和效率的角度来看，大公司无法为它的巨量客户都提供个性化服务。甚至，他们的用户都无法接触到人类客服。
+Lợi thế chuyên biệt này khó có thể thực hiện ở công ty lớn, vì đây là lợi thế cấu trúc đến từ trần doanh thu. Xét từ góc độ nhân lực và hiệu suất, công ty lớn không thể cung cấp dịch vụ cá nhân hóa cho lượng khách hàng khổng lồ của họ. Thậm chí, người dùng của họ còn không tiếp cận nổi nhân viên chăm sóc khách hàng là con người.
 
-当然，这种优势是否显著取决于所处的专属服务领域是否真正需要这种个性化特性。如果客户对此类服务的依赖性越强，那么这个优势就越明显。
+Tất nhiên, lợi thế này có rõ rệt hay không phụ thuộc vào việc lĩnh vực dịch vụ chuyên biệt đang hoạt động có thực sự cần đặc tính cá nhân hóa này hay không. Khách hàng càng phụ thuộc vào loại dịch vụ này, lợi thế này càng rõ rệt.

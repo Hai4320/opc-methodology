@@ -1,119 +1,119 @@
-# 内容池和自动化能力
+# Content pool và năng lực tự động hóa
 
 
-内容池
-除了用户池，我们其实还需要一个内容池。原因有两个。
+Content pool
+Ngoài user pool, thực ra chúng ta còn cần một content pool. Có hai lý do.
 
-官网：品牌和入口
-内容池首先可以用来存放官网，这是我们的品牌和入口。
+Website chính thức: thương hiệu và cửa ngõ
+Content pool trước hết dùng để đặt website chính thức — đây là thương hiệu và cửa ngõ của chúng ta.
 
-一般在做软件产品时，大部分人会做一个产品官网，但在做媒体产品时，则很可能只在各个平台上有各种账号，却没有自己的官网。
+Thông thường khi làm sản phẩm phần mềm, đa số mọi người sẽ làm một website chính thức cho sản phẩm; nhưng khi làm sản phẩm truyền thông, rất có thể chỉ có đủ loại tài khoản trên các nền tảng mà không có website riêng.
 
-但其实，官网的意义是非常重大的。往大了说，它代表着品牌、IP和入口。往小了说，它能解决「如果账号被平台封了怎么办？」这种现实问题。
+Nhưng thực ra, ý nghĩa của website chính thức rất lớn. Nói rộng ra, nó đại diện cho thương hiệu, IP và cửa ngõ. Nói hẹp lại, nó giải quyết được vấn đề thực tế kiểu "tài khoản bị nền tảng khóa thì làm sao?".
 
-如果我们在各个平台都有账号，但没有独立的官网，那万一我们在平台上的账号被封了，用户即使想找我们，知道我们的品牌名称，但他们没有办法与我们沟通，因为我们没有其他渠道了。
+Nếu chúng ta có tài khoản trên mọi nền tảng nhưng không có website độc lập, thì lỡ tài khoản trên nền tảng bị khóa, người dùng dù muốn tìm chúng ta, biết cả tên thương hiệu, họ cũng không có cách nào liên lạc, vì chúng ta chẳng còn kênh nào khác.
 
-封号这事情，虽然是小概率事件，但是很要命。而且随着越来越多的平台采用不成熟的人工智能，即使是一个处处循规蹈矩的账号，也可能很莫名其妙的就触发了风控规则导致封号。
+Chuyện khóa tài khoản tuy là sự kiện xác suất thấp nhưng rất chí mạng. Hơn nữa, khi ngày càng nhiều nền tảng dùng AI chưa hoàn thiện, kể cả một tài khoản khuôn phép từng li từng tí cũng có thể vô cớ kích hoạt quy tắc kiểm soát rủi ro dẫn đến bị khóa.
 
-所以我们需要有一个完全控制在自己手上的东西。确保平台封了我们的账号，只要用户愿意，他们依然可以找到我们。一个好记的品牌、简短的域名就是很好的解决方案。
+Vì vậy chúng ta cần một thứ hoàn toàn nằm trong tay mình. Đảm bảo rằng nếu nền tảng khóa tài khoản, chỉ cần người dùng muốn, họ vẫn tìm được chúng ta. Một thương hiệu dễ nhớ, một tên miền ngắn gọn chính là giải pháp tốt.
 
-内容中心
-内容池除了是一个入口以外，也是我们的内容中心，我们的内容都应该放到这个平台上。不是说用户只能到这个地方来看，而是说我们在其他平台上发的内容，应该在这个平台上都有一份。这样我们才能应对「内容被删了怎么办的问题」。
+Trung tâm nội dung
+Content pool ngoài vai trò cửa ngõ còn là trung tâm nội dung của chúng ta — mọi nội dung đều nên đưa lên nền tảng này. Không phải là người dùng chỉ được xem ở đây, mà là nội dung chúng ta đăng trên các nền tảng khác đều nên có một bản ở đây. Có vậy mới ứng phó được với vấn đề "nội dung bị xóa thì làm sao?".
 
-在各个平台上内容被删，或者审核不通过，或者审核通过后突然又不通过，这种情况已经司空见惯了。我们需要在自己的官网上来做一个备份。这样的话，即使我们发布在平台的内容被删掉，用户到官网还是可以看得见的。
+Nội dung bị xóa trên các nền tảng, hoặc không qua kiểm duyệt, hoặc duyệt xong rồi đột nhiên lại không qua — những chuyện này đã quá quen thuộc. Chúng ta cần làm một bản sao lưu trên website của mình. Như vậy, kể cả nội dung đăng trên nền tảng bị xóa, người dùng vào website vẫn xem được.
 
-有些同学可能觉得内容被删没有什么大问题，但如果是一系列的内容，其中有几集被删了，甚至说一个系列教程，最关键的几节莫名其妙的被平台给删掉了，而且自己还没有备份，那用户也没有其他地方可以看，这就非常的难受了对吧？
+Có bạn có thể nghĩ nội dung bị xóa chẳng phải chuyện lớn, nhưng nếu là một loạt nội dung mà vài tập trong đó bị xóa, thậm chí một series bài giảng mà mấy bài then chốt nhất bị nền tảng xóa một cách khó hiểu, mình lại không có bản sao lưu, người dùng cũng chẳng còn chỗ nào xem — vậy thì khó chịu vô cùng đúng không?
 
-内容成本
-全量内容备份可能会有成本问题。
+Chi phí nội dung
+Sao lưu toàn bộ nội dung có thể gặp vấn đề chi phí.
 
-如果只是图文内容，那整体成本比较低，我们直接使用云平台存储，通过CDN访问就可以了。但如果我们的内容视频很多的话，自己Hosting可能导致成本上升。
+Nếu chỉ là nội dung chữ và ảnh thì tổng chi phí khá thấp, chúng ta dùng thẳng lưu trữ cloud, truy cập qua CDN là được. Nhưng nếu nội dung có nhiều video, tự hosting có thể khiến chi phí tăng lên.
 
-我们通过两个方案来解决视频成本问题。
+Chúng tôi giải quyết vấn đề chi phí video bằng hai phương án.
 
-多视频源方案
-简单的说，在官网上，优先以嵌入方式展示其他平台的视频，只有失效、或者用户主动要求，才载入我们自己Host的视频源。
+Phương án đa nguồn video
+Nói đơn giản: trên website, ưu tiên hiển thị video của nền tảng khác dưới dạng nhúng (embed); chỉ khi video hỏng, hoặc người dùng chủ động yêu cầu, mới tải nguồn video do chúng tôi tự host.
 
-具体实现上，我们做了一个WordPress插件。它可以同时把多个视频源，放到一个视频播放框里。默认显示B站视频，通过点击Tab切换到Youtube或者我们自己的源。这样大部分的视频流量会去往B站。
+Về triển khai cụ thể, chúng tôi làm một plugin WordPress. Nó có thể đặt nhiều nguồn video vào cùng một khung phát. Mặc định hiển thị video Bilibili, bấm Tab để chuyển sang YouTube hoặc nguồn của chúng tôi. Nhờ vậy phần lớn lưu lượng video sẽ đổ về Bilibili.
 
-海外存储和CDN方案
-另外一个省钱的办法是在一些非关键业务上可以考虑使用国外的服务。
+Phương án lưu trữ nước ngoài và CDN
+Một cách tiết kiệm khác là với những nghiệp vụ không trọng yếu, có thể cân nhắc dùng dịch vụ nước ngoài.
 
-国内CDN因为成本的原因都比较贵，大概一个G反正也要几毛钱。但国外的网络网络资源的价格是不同的，我们完全可以用来做非关键业务或者备用方案。
-
-
-R2 的定价
-比如，CloudFlare的R2，它的流量是不计费的，它只对我们的存储容量和访问的次数收费。默认提供的免费额度也很高，在用户不多的情况下完全可以免费使用。
-
-但它的问题在于，国内访问的时候，它的速度没有国内同类服务快。毕竟没有国内服务器，即使我们把它设置成东亚地区优先，访问速度依然还是会慢一点点。现在我们方糖07网站上面的图片就是放到R2里边的，大家可以测试一下速度。之前的用户反馈还算OK。
-
-有了以上两个方案，我们基本可以零成本的做到内容全量备份了。
-
-但是我们要非常清楚一件事情，就是即使从长期来讲，我们的官网的用户量、流量和影响力都很难比不过第三方的大平台。所以我们依然需要把内容分发到第三方平台去触达那些用户。
-
-不是所有的平台用户都愿意从平台来到我们的官网，所以我们需要把内容分发到这些平台上，让这部分不愿意过来的用户在第三方平台上直接就可以看到我们的内容。只有我们长期地和他们建立起来信任关系以后，他们才会愿意到我们的官网来。
-
-内容分发能力
-事实上，内容分发是一个很痛苦的工作，它很简单，但是很频繁。
-
-因为只要我们发布一次内容，我们都需要去做这么一遍，这其实是新媒体运营岗的很大一部分工作量。
-
-下图是一个比较典型的内容分发示意图，也是方糖目前在用的。
+CDN trong nước (Trung Quốc) vì lý do chi phí đều khá đắt, đại khái mỗi GB cũng mất vài mao tệ. Nhưng giá tài nguyên mạng ở nước ngoài lại khác, hoàn toàn có thể dùng cho nghiệp vụ không trọng yếu hoặc làm phương án dự phòng.
 
 
-方糖的内容分发方案
-长内容
-首先我们用 WordPress 架设了官方网站（ft07.com）用来放长图文内容（文章）。目前主要是一人企业方法相关的内容，以后会把其他内容逐步迁移过来。这些长图文，我们可以通过接口直接推送到公众号里边进行发布
+Bảng giá R2
+Ví dụ, R2 của Cloudflare không tính phí lưu lượng, chỉ thu phí theo dung lượng lưu trữ và số lần truy cập. Hạn mức miễn phí mặc định cũng rất cao, khi người dùng chưa nhiều thì hoàn toàn có thể dùng miễn phí.
 
-短内容
-短内容（像微博）这块，我们是自架了个 Memos ，这是一个比较类似于微博的开源项目，可以自行架设。首先在上面发布内容，再通过工具把它同步到微博和推特。这避免了短内容在平台被删的问题。同时，我们会通过挂件的方式把短内容显示到官网，因为官网才是内容池，所有的内容都应该在这个地方汇聚。
+Nhưng vấn đề của nó là khi truy cập từ Trung Quốc, tốc độ không nhanh bằng dịch vụ cùng loại trong nước. Dù sao cũng không có máy chủ trong nước, kể cả đặt ưu tiên khu vực Đông Á, tốc độ truy cập vẫn chậm hơn một chút. Hiện ảnh trên website Fangtang 07 của chúng tôi đang đặt trong R2, mọi người có thể thử tốc độ. Phản hồi của người dùng trước đây là tạm ổn.
 
-视频内容
-视频这一块，因为我们之前是做网课，所以我们有一个网课产品。于是我们把视频放到网课产品平台上做本地的host。同时我们会把视频分发到哔哩哔哩和 YouTube，然后从这两个平台上反向为我们的官网导流。这个视频hosting不是必须的，直接用 WordPress 也能实现。
+Với hai phương án trên, về cơ bản chúng ta có thể sao lưu toàn bộ nội dung với chi phí gần như bằng không.
 
-可以看到，在这个框架下，无论是短内容，长图文和视频内容都得到了较好的处理。
+Nhưng phải hiểu rất rõ một điều: kể cả về dài hạn, lượng người dùng, lưu lượng và sức ảnh hưởng của website chúng ta cũng khó lòng sánh với các nền tảng lớn bên thứ ba. Vì vậy chúng ta vẫn cần phân phối nội dung lên các nền tảng bên thứ ba để tiếp cận những người dùng ở đó.
 
-但要把这个流程完全用起来，却不容易。如果我们的内容每天都有更新，尤其是短内容，可能一天数十次，那分发本身就会很麻烦。就不是说它有什么难度，而是说它的工作量在哪，是一个体力活。
+Không phải người dùng nào trên nền tảng cũng sẵn lòng rời nền tảng để đến website của chúng ta, nên ta cần phân phối nội dung lên các nền tảng đó, để nhóm người dùng không muốn qua vẫn xem được nội dung của chúng ta ngay trên nền tảng bên thứ ba. Chỉ khi chúng ta xây dựng được quan hệ tin cậy lâu dài với họ, họ mới sẵn lòng đến website của chúng ta.
 
-但比较幸运的是，我们现在可以通过自动化的方式来做这个事情，可以数十倍的提升效率。
+Năng lực phân phối nội dung
+Thực tế, phân phối nội dung là một công việc rất cực: nó đơn giản nhưng rất lặp đi lặp lại.
 
-当然，这不是说自动化能完全替代新媒体岗，这个岗位还有很多其他的职能，比如跟用户互动、客服、关系维护。这些目前自动化暂时还是做不到的。不过AI可能将来能做到，毕竟现在评论罗伯特已经会怼用户了（误）。
+Vì cứ mỗi lần đăng nội dung, chúng ta lại phải làm lại nguyên quy trình đó — đây thực ra là phần lớn khối lượng công việc của vị trí vận hành truyền thông mới.
 
-总而言之，就是我们现在其实通过自动化的能力可以把内容分发这件事情给做了。所以，这个内容分发能力本质上就是自动化能力。
+Hình dưới là một sơ đồ phân phối nội dung khá điển hình, cũng là cách Fangtang đang dùng.
 
-自动化能力
-自动化能力这一块，我们自己是用FlowDeer来做。
+
+Phương án phân phối nội dung của Fangtang
+Nội dung dài
+Trước hết chúng tôi dùng WordPress dựng website chính thức (ft07.com) để đặt nội dung chữ-ảnh dài (bài viết). Hiện chủ yếu là nội dung liên quan đến phương pháp doanh nghiệp một người, sau này sẽ chuyển dần các nội dung khác về. Những bài dài này có thể đẩy thẳng qua API vào official account để đăng.
+
+Nội dung ngắn
+Mảng nội dung ngắn (kiểu Weibo), chúng tôi tự host một Memos — đây là dự án open source khá giống Weibo, có thể tự dựng. Đăng nội dung lên đó trước, rồi dùng công cụ đồng bộ sang Weibo và Twitter. Cách này tránh được việc nội dung ngắn bị xóa trên nền tảng. Đồng thời, chúng tôi hiển thị nội dung ngắn lên website qua widget, vì website mới là content pool, mọi nội dung đều phải hội tụ về đây.
+
+Nội dung video
+Mảng video, vì trước đây chúng tôi làm khóa học online nên có sẵn một sản phẩm khóa học. Chúng tôi đặt video lên nền tảng khóa học đó để host cục bộ. Đồng thời phân phối video lên Bilibili và YouTube, rồi từ hai nền tảng này dẫn ngược lưu lượng về website. Việc tự host video này không bắt buộc, dùng thẳng WordPress cũng làm được.
+
+Có thể thấy, trong khung này, dù là nội dung ngắn, bài chữ-ảnh dài hay video đều được xử lý khá ổn.
+
+Nhưng để vận hành trọn vẹn quy trình này lại không dễ. Nếu nội dung cập nhật hàng ngày, nhất là nội dung ngắn, có khi vài chục lần một ngày, thì bản thân việc phân phối sẽ rất phiền. Không phải nó khó, mà là khối lượng công việc của nó — một việc tay chân thuần túy.
+
+Nhưng may mắn là giờ chúng ta có thể làm việc này bằng tự động hóa, hiệu suất tăng hàng chục lần.
+
+Tất nhiên, không có nghĩa tự động hóa thay thế hoàn toàn được vị trí truyền thông mới — vị trí này còn nhiều chức năng khác như tương tác với người dùng, chăm sóc khách hàng, duy trì quan hệ. Những việc này hiện tự động hóa tạm thời chưa làm được. Nhưng AI có lẽ tương lai sẽ làm được, dù sao bây giờ "bình luận Robert" đã biết cãi nhau với người dùng rồi (đùa thôi).
+
+Tóm lại, hiện chúng ta thực sự có thể dùng năng lực tự động hóa để hoàn thành việc phân phối nội dung. Vì vậy, năng lực phân phối nội dung về bản chất chính là năng lực tự động hóa.
+
+Năng lực tự động hóa
+Mảng năng lực tự động hóa, chúng tôi dùng FlowDeer.
 
 FlowDeer
-您可以认为它是一个自动化脚本的管理工具，同时也自带了很多现成的脚本。可以阅读这篇文章了解更多。
+Bạn có thể coi nó là một công cụ quản lý script tự động hóa, đồng thời kèm sẵn rất nhiều script làm sẵn. Có thể đọc bài viết này để tìm hiểu thêm.
 
 
-FlowDeer界面
-我们自己用得比较多的脚本，主要是微博发布，推特发布，然后RSS的监控内容抓取，然后翻译网页内容的监控，以及账号保活。
+Giao diện FlowDeer
+Những script chúng tôi dùng nhiều nhất chủ yếu là đăng Weibo, đăng Twitter, giám sát và thu thập nội dung RSS, giám sát kèm dịch nội dung trang web, và giữ tài khoản luôn đăng nhập (keep-alive).
 
 
-一些常用的FlowDeer/FXD脚本
-所谓账号保活，比如说，我们要发布微博内容的时候，账号是需要登录的，对吧？而保活是说，我们登录一次以后，它每隔一段时间帮您去刷新一下，保证这个账号一直是登录的。这样要发布的时候就不用登录了，可以直接发布出去。
+Một số script FlowDeer/FXD thường dùng
+Giữ tài khoản luôn đăng nhập nghĩa là, ví dụ khi đăng nội dung Weibo thì tài khoản phải ở trạng thái đăng nhập, đúng không? Keep-alive tức là sau khi đăng nhập một lần, cứ cách một khoảng thời gian nó lại giúp bạn làm mới phiên, đảm bảo tài khoản luôn đăng nhập. Như vậy lúc cần đăng thì không phải đăng nhập lại, đăng thẳng luôn.
 
-我们还做了这个文章小编，它是自动化和AI功能的一个整合。
+Chúng tôi còn làm "trợ lý biên tập bài viết" — một sự kết hợp giữa tự động hóa và tính năng AI.
 
-像我经常分享一些GitHub上的开源项目，那以前都是我自己要撰写文案的。有了这个文章小编以后，我基本上就是丢一个链接给它，它自己过去截图然后提取主要内容，写一个总结，写完了给我做个审核，审核完了直接发布就好了。整个这个流程是非常顺畅的，一般一分钟不到。
+Như tôi hay chia sẻ các dự án open source trên GitHub, trước đây đều phải tự viết nội dung giới thiệu. Có trợ lý biên tập này rồi, cơ bản tôi chỉ cần ném cho nó một link, nó tự vào chụp màn hình rồi trích xuất nội dung chính, viết một bản tóm tắt, viết xong đưa tôi duyệt, duyệt xong đăng luôn. Cả quy trình rất trơn tru, thường chưa đến một phút.
 
-所以自动化能力其实已经是内容池所必须的一个能力了。尤其对于一人企业来讲，我们的精力是非常有限的。所以能自动化的地方一定要自动化。
+Vì vậy năng lực tự động hóa thực ra đã là năng lực bắt buộc của content pool. Đặc biệt với doanh nghiệp một người, sức lực của chúng ta cực kỳ hạn chế, nên chỗ nào tự động hóa được thì nhất định phải tự động hóa.
 
-可编程浏览器脚本
-当然如果不想用FlowDeer，实际上也可以自己手工来编写Puppetter脚本。这是一个无头浏览器，或者把它理解成可编程浏览器更为确切。我们可以编程控制浏览器的一切。可以打开某个网页，点击某个按钮，然后去检测对应的文本，可以上传文件，发布视频，而且是自动化的。
+Script trình duyệt lập trình được
+Tất nhiên nếu không muốn dùng FlowDeer, thực ra bạn cũng có thể tự viết script Puppeteer. Đây là một headless browser, hoặc chính xác hơn hãy hiểu nó là trình duyệt lập trình được. Chúng ta có thể lập trình điều khiển mọi thứ của trình duyệt: mở một trang web, bấm một nút, kiểm tra đoạn văn bản tương ứng, upload file, đăng video — và tất cả đều tự động.
 
-验证码问题
-当然也有一些限制，比如验证码和类似拖动式的机器人验证。
+Vấn đề captcha
+Tất nhiên cũng có một số hạn chế, ví dụ captcha và các loại xác minh robot kiểu kéo-thả.
 
-我们是建议大家用它来代替自己的日常工作，就是完全模拟真人操作的频率范围以内来做自动化。这种情况下，实际上能遇到验证码的时候不会太多。当然你要把它规模化，这个问题就很大。但这不是我们的目标。我们的目标是代替日常工作。
+Chúng tôi khuyên mọi người dùng nó để thay thế công việc hàng ngày của chính mình, tức là tự động hóa hoàn toàn trong phạm vi tần suất thao tác mô phỏng người thật. Trong trường hợp đó, thực tế số lần gặp captcha sẽ không nhiều. Còn nếu muốn mở rộng quy mô thì vấn đề này rất lớn — nhưng đó không phải mục tiêu của chúng ta. Mục tiêu của chúng ta là thay thế công việc hàng ngày.
 
-用AI聊天驱动工作流
-另一方面，自动化+AI聊天可以让自动化能力变得灵活。这里有一个例子，是FlowDeer里边集成的AI聊天窗口。
+Dùng AI chat điều khiển workflow
+Mặt khác, tự động hóa + AI chat có thể làm năng lực tự động hóa trở nên linh hoạt. Đây là một ví dụ: cửa sổ AI chat tích hợp trong FlowDeer.
 
 
-FlowDeer Chat 聊天工作流
-在这个聊天环境里面，您可以把FlowDeer的里面所有的脚本都当做一个工具来使用。比如类似图中的，我可以调用图像生成工具让它生成一张图，然后同时调用微博发布工具，让它这种发微博。而这一切，我们只需要在聊天窗口里面通过聊天的方式就可以完成，这个是非常方便而高效的。
+Workflow chat của FlowDeer Chat
+Trong môi trường chat này, bạn có thể dùng tất cả script trong FlowDeer như những công cụ (tool). Ví dụ như trong hình, tôi có thể gọi công cụ tạo ảnh để nó sinh một bức ảnh, đồng thời gọi công cụ đăng Weibo để nó đăng lên Weibo. Và tất cả những việc này chỉ cần hoàn thành bằng cách trò chuyện trong cửa sổ chat — cực kỳ tiện lợi và hiệu quả.
 
-当然现在因为AI智能的问题，还只是一个辅助性的东西。但是我觉得这是暂时性的，因为AI的智能每个月都在提升，我觉得很快就可以达到普通人的标准。
+Tất nhiên hiện tại vì giới hạn trí tuệ của AI, nó vẫn chỉ là một thứ mang tính hỗ trợ. Nhưng tôi nghĩ đó chỉ là tạm thời, vì trí tuệ của AI mỗi tháng đều tăng, tôi nghĩ rất nhanh sẽ đạt chuẩn của người bình thường.

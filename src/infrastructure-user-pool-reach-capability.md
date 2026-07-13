@@ -1,109 +1,109 @@
-# 用户池和触达能力
+# User pool và năng lực tiếp cận
 
-什么是基础设施
+Hạ tầng là gì
 -------
 
-在一人企业方法论2.0中，我们讲了三个方面。
+Trong phương pháp luận doanh nghiệp một người 2.0, chúng tôi nói về ba mảng.
 
 ![](images/image-16-1024x382.png)
 
-一人企业方法论的三大内容
+Ba nội dung lớn của phương pháp luận doanh nghiệp một người
 
-第一，什么是一人企业；第二，如何规划一人企业；第三，如何构建一人业务。
+Thứ nhất, doanh nghiệp một người là gì; thứ hai, hoạch định doanh nghiệp một người như thế nào; thứ ba, xây dựng nghiệp vụ một người ra sao.
 
-前两部分，我们在专栏里之前的文章中讲得已经比较详细，都是理论和认知层次的内容，没有深入到实践中去。到了第三部分，虽然我们知道要构建一人业务，但具体怎么构建、怎么落地、怎么操作，缺乏一个可以看得见摸得着的例子或发力点。
+Hai phần đầu, chúng tôi đã trình bày khá chi tiết trong các bài trước của chuyên mục — đều là nội dung ở tầng lý thuyết và nhận thức, chưa đi sâu vào thực hành. Đến phần thứ ba, tuy biết là phải xây dựng nghiệp vụ một người, nhưng cụ thể xây thế nào, triển khai ra sao, thao tác thế nào, lại thiếu một ví dụ hay điểm tựa có thể nhìn thấy, sờ thấy được.
 
-在之前的内容中，我们反复强调，一人企业并不是一人业务。
+Trong các nội dung trước, chúng tôi nhấn mạnh nhiều lần: doanh nghiệp một người không phải là nghiệp vụ một người.
 
-这是2.0版本和1.0版本最大的区别。一人企业包含了很多个一人业务，只要其中一个业务做起来了，我们就可以实现财务自由。
+Đây là khác biệt lớn nhất giữa phiên bản 2.0 và 1.0. Doanh nghiệp một người bao gồm rất nhiều nghiệp vụ một người, chỉ cần một trong số đó chạy được, chúng ta đã có thể đạt tự do tài chính.
 
-按照这个说法，一人企业就像图中所示，在一个一人企业里有很多一人业务。
+Theo cách nói này, doanh nghiệp một người giống như trong hình: trong một doanh nghiệp một người có rất nhiều nghiệp vụ một người.
 
 ![](images/image-17-1024x503.png)
 
-每个业务各自为战
+Mỗi nghiệp vụ tự chiến đấu riêng lẻ
 
-但实际上，一旦按照这个方式操作，你会发现有很多一人业务，但每个业务各自为战，1+1可能连2都达不到，甚至小于2。
+Nhưng thực tế, một khi làm theo cách này, bạn sẽ thấy có rất nhiều nghiệp vụ một người, nhưng mỗi nghiệp vụ tự chiến đấu riêng lẻ, 1+1 có khi không đạt nổi 2, thậm chí nhỏ hơn 2.
 
-因为精力被分散到各个业务上，所以一人业务之间必须要协同。一些公共的功能和资源需要抽取出来，放到一个地方公用，我们称之为基础设施。这就是我们今天要重点讲的内容。
+Vì sức lực bị phân tán vào từng nghiệp vụ, nên các nghiệp vụ một người bắt buộc phải phối hợp với nhau. Một số tính năng và tài nguyên chung cần được tách ra, đặt vào một chỗ để dùng chung — chúng tôi gọi đó là hạ tầng. Đây chính là nội dung trọng tâm hôm nay.
 
 ![](images/image-18-1024x501.png)
 
-基础设施
+Hạ tầng
 
-用户池
+User pool
 ---
 
-首先，我们可以从每一个业务中抽取出来的，是用户池。所谓用户池，就是用户注册、登录、留存的地方。它的基本功能当然是注册和登录。
+Trước hết, thứ có thể tách ra từ mỗi nghiệp vụ là user pool. User pool là nơi người dùng đăng ký, đăng nhập và được giữ chân. Tính năng cơ bản của nó dĩ nhiên là đăng ký và đăng nhập.
 
-### 低成本登录
+### Đăng nhập chi phí thấp
 
-但如何以最低成本让用户登录，实际上是有讲究的。
+Nhưng làm sao để người dùng đăng nhập với chi phí thấp nhất thì thực ra có nhiều điều đáng bàn.
 
-比如在国内，如果通过电子邮件方式登录，邮件到达率会很差。很多用户不愿意用邮箱，收验证邮件时很痛苦。另一方面，如果用手机号登录，到达率还可以，现在有云平台可以发送，但会有成本问题。此外，技术人群很讨厌用手机号登录，而普通用户可以接受，主要还是成本的问题。
+Ví dụ ở Trung Quốc, nếu đăng nhập qua email, tỷ lệ email đến nơi rất kém. Nhiều người dùng không muốn dùng email, nhận email xác thực rất khổ sở. Mặt khác, nếu đăng nhập bằng số điện thoại, tỷ lệ đến nơi tạm ổn, hiện có nền tảng cloud để gửi, nhưng lại có vấn đề chi phí. Ngoài ra, giới kỹ thuật rất ghét đăng nhập bằng số điện thoại, còn người dùng phổ thông thì chấp nhận được — vấn đề chính vẫn là chi phí.
 
-我们测试后发现，对一人企业来说，最低成本的用户登录方案是第三方登录。
+Sau khi thử nghiệm, chúng tôi thấy với doanh nghiệp một người, phương án đăng nhập chi phí thấp nhất là đăng nhập qua bên thứ ba.
 
 ![](images/image-19-1024x683.png)
 
-第三方登录
+Đăng nhập qua bên thứ ba
 
-在所有第三方登录中，我们认为微信登录最好用。原因有两个。
+Trong tất cả các kiểu đăng nhập bên thứ ba, chúng tôi cho rằng đăng nhập WeChat là tốt nhất. Có hai lý do.
 
-第一，你可以用最低的成本覆盖最主流的人群。
+Thứ nhất, bạn có thể phủ được nhóm người dùng chủ lưu nhất với chi phí thấp nhất.
 
-我见过很多人没有支付宝，但很少见不用微信的人。偶尔遇到不用微信的，是不用智能手机的人。所以，微信的覆盖度非常高。还有一个更大样本的证据，我们方糖自己的国内服务只支持微信登录和微信支付，多年来要求使用支付宝支付的用户非常少，不到十个。
+Tôi từng gặp nhiều người không có Alipay, nhưng rất hiếm gặp người không dùng WeChat. Thỉnh thoảng gặp người không dùng WeChat thì đó là người không dùng smartphone. Vì vậy, độ phủ của WeChat cực kỳ cao. Còn một bằng chứng với mẫu lớn hơn: dịch vụ trong nước của Fangtang chúng tôi chỉ hỗ trợ đăng nhập WeChat và thanh toán WeChat, nhiều năm qua số người dùng yêu cầu thanh toán bằng Alipay cực kỳ ít, chưa đến mười người.
 
-第二，微信的生态是一个完整的闭环。
+Thứ hai, hệ sinh thái WeChat là một vòng khép kín hoàn chỉnh.
 
-这在国内很难找到同样的替代品：支付宝有支付功能，但没有社交功能，也没有内容分发平台和公众号，无法在上面做运营；微博可以做运营，但没有支付功能，私信到达率很差，无法做有效触达。
+Ở Trung Quốc rất khó tìm được sản phẩm thay thế tương đương: Alipay có chức năng thanh toán nhưng không có chức năng mạng xã hội, cũng không có nền tảng phân phối nội dung và official account, không làm vận hành trên đó được; Weibo làm vận hành được nhưng không có chức năng thanh toán, tỷ lệ tin nhắn riêng đến nơi rất kém, không tiếp cận hiệu quả được.
 
-从生态角度看，只有微信的生态闭环是非常完整的，有公众号、推送、私信、社群和支付功能。
+Nhìn từ góc độ hệ sinh thái, chỉ có vòng khép kín của WeChat là rất hoàn chỉnh: có official account, đẩy thông báo, tin nhắn riêng, group và thanh toán.
 
-所以，如果只接一个第三方，我们建议只接微信登录。当然，你也可以把其他平台的登录接入，这没有影响。不过在一人企业的起步阶段，我们建议大家专注于一个平台，不要分散精力。等到业务运转起来后，再回过头来完善。毕竟多方对接终究会多一些额外成本。
+Vì vậy, nếu chỉ tích hợp một bên thứ ba, chúng tôi khuyên chỉ tích hợp đăng nhập WeChat. Tất nhiên, bạn cũng có thể tích hợp đăng nhập của các nền tảng khác, không ảnh hưởng gì. Nhưng ở giai đoạn khởi đầu của doanh nghiệp một người, chúng tôi khuyên mọi người tập trung vào một nền tảng, đừng phân tán sức lực. Đợi nghiệp vụ chạy ổn rồi hãy quay lại hoàn thiện. Dù sao tích hợp nhiều bên rốt cuộc cũng thêm chi phí phát sinh.
 
-触达能力
+Năng lực tiếp cận
 ----
 
-接下来，有了用户池后，如果无法触达用户，实际上这个用户池是没有意义的。在你这里和在其他平台上没有区别，甚至其他平台还能触达用户。
+Tiếp theo, có user pool rồi mà không tiếp cận được người dùng thì user pool đó thực ra vô nghĩa. Ở chỗ bạn và ở nền tảng khác chẳng khác gì nhau, thậm chí nền tảng khác còn tiếp cận được người dùng.
 
-所以，我们做用户池必然要有触达能力，即能够给用户发送消息或以其他方式告知他，这样才能做到流量复用和产品的二次销售。
+Vì vậy, làm user pool nhất định phải có năng lực tiếp cận — tức có thể gửi tin nhắn hoặc thông báo cho người dùng bằng cách nào đó — có vậy mới tái sử dụng được lưu lượng và bán sản phẩm lần hai.
 
 ![](images/image-20-1024x679.png)
 
-触达方式
+Các cách tiếp cận
 
-常见的触达方式包括以下几种：
+Các cách tiếp cận thường gặp gồm:
 
-### APP消息
+### Thông báo trong APP
 
-效果可能所有推送渠道中是最好的，自由度也最高。但对一人企业来讲，却不是最适合的。
+Hiệu quả có lẽ tốt nhất trong mọi kênh đẩy thông báo, độ tự do cũng cao nhất. Nhưng với doanh nghiệp một người thì lại không phù hợp nhất.
 
-因为APP消息推送的前提是用户安装你的APP，这个成本现在已经变得很高；APP上架也非常麻烦，尤其对个人来说，基本上很难上架，因此不适合在起步阶段做。
+Vì tiền đề của thông báo APP là người dùng phải cài APP của bạn, chi phí này giờ đã rất cao; đưa APP lên store cũng rất phiền phức, đặc biệt với cá nhân thì gần như không thể, nên không phù hợp ở giai đoạn khởi đầu.
 
-### 短信
+### SMS
 
-通过云平台发送，到达率还不错，但需要走短信模版。另外由于垃圾短信太多，很多用户是不看短信的。
+Gửi qua nền tảng cloud, tỷ lệ đến nơi khá ổn, nhưng phải dùng mẫu tin nhắn đăng ký sẵn. Ngoài ra do tin nhắn rác quá nhiều, rất nhiều người dùng không đọc SMS.
 
-### 邮件
+### Email
 
-邮件到达率低且实时性差。很多用户已经不用邮箱，就算偶尔会看邮件，但是可能一周或者甚至一个月才会去看一次。
+Email có tỷ lệ đến nơi thấp và tính thời gian thực kém. Nhiều người dùng đã bỏ email; kể cả thỉnh thoảng có xem thì cũng có khi một tuần, thậm chí một tháng mới mở một lần.
 
-### 群消息
+### Tin nhắn group
 
-这是我们实验下来，效果最好的两个渠道之一，另一个是微信模板/订阅消息。
+Đây là một trong hai kênh hiệu quả nhất theo thử nghiệm của chúng tôi — kênh còn lại là tin nhắn mẫu / tin nhắn đăng ký của WeChat.
 
-可以通过以下几种方式将消息告知群里所有人，并进行有效的互动和实时沟通：
+Có thể thông báo tin cho tất cả thành viên trong group và tương tác, trao đổi thời gian thực qua mấy cách sau:
 
-1.  群置顶：将重要消息置顶，确保所有群成员都能看到。置顶消息可以是重要通知、活动安排或新产品发布等。
-2.  群代办：利用微信群的代办功能，创建待办事项，提醒群成员关注和参与。代办事项可以设置提醒时间，确保群成员不会错过重要信息。
-3.  互动发红包：通过发红包的方式，提高群内的互动活跃度。红包不仅能吸引群成员的注意，还能增加他们对消息的关注度和参与度。
-4.  实时互动：在群内发布消息后，及时回应群成员的反馈和问题。这种实时互动能够帮助你迅速发现消息中存在的问题，并进行及时的调整和解决。
+1.  Ghim tin trong group: ghim tin quan trọng để mọi thành viên đều thấy. Tin ghim có thể là thông báo quan trọng, lịch hoạt động hoặc ra mắt sản phẩm mới.
+2.  Việc cần làm trong group: dùng tính năng nhắc việc của group WeChat để tạo mục cần làm, nhắc thành viên chú ý và tham gia. Mục nhắc việc có thể đặt giờ nhắc, đảm bảo thành viên không bỏ lỡ thông tin quan trọng.
+3.  Phát lì xì tương tác: phát lì xì (red packet) để tăng độ sôi nổi trong group. Lì xì không chỉ thu hút sự chú ý của thành viên mà còn tăng mức độ quan tâm và tham gia của họ với thông điệp.
+4.  Tương tác thời gian thực: sau khi đăng tin trong group, phản hồi kịp thời ý kiến và câu hỏi của thành viên. Kiểu tương tác thời gian thực này giúp bạn nhanh chóng phát hiện vấn đề trong thông điệp và điều chỉnh, xử lý kịp thời.
 
-### 微信模板消息或订阅消息
+### Tin nhắn mẫu hoặc tin nhắn đăng ký của WeChat
 
-另一个较好的单向消息渠道是微信的模板消息或订阅消息。
+Một kênh tin một chiều khá tốt khác là tin nhắn mẫu (template message) hoặc tin nhắn đăng ký (subscription message) của WeChat.
 
-由于订阅消息的权限较难获得，普通账号通常无法获取一次订阅即可无限发送的权限，这意味着用户在看完消息后必须再次订阅，操作不便。因此，我们通常使用模板消息来进行操作。模板消息虽然在推送形式、推送内容上有着诸多限制，但它不会被限流，实时性也非常高。
+Do quyền gửi tin nhắn đăng ký khá khó xin — tài khoản thường không lấy được quyền "đăng ký một lần, gửi không giới hạn" — nghĩa là người dùng xem xong tin phải đăng ký lại, thao tác bất tiện. Vì vậy chúng tôi thường dùng tin nhắn mẫu. Tin nhắn mẫu tuy bị nhiều hạn chế về hình thức và nội dung đẩy, nhưng không bị bóp lưu lượng, tính thời gian thực cũng rất cao.
 
-通过微信的推送接口、群机器人（Wechaty）或者手机脚本方案（Auto.js），我们可以实现触达能力自动化。
+Thông qua API đẩy tin của WeChat, bot group (Wechaty) hoặc phương án script trên điện thoại (Auto.js), chúng ta có thể tự động hóa năng lực tiếp cận.

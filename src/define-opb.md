@@ -1,169 +1,169 @@
-# 一人企业的定义
+# Định nghĩa doanh nghiệp một người
 
-什么是一人企业
+Doanh nghiệp một người là gì
 -------
 
-首先，我们来谈谈什么是一人企业。
+Trước hết, chúng ta hãy bàn xem doanh nghiệp một người là gì.
 
-### 一人企业的定义
+### Định nghĩa doanh nghiệp một người
 
-在这里，我想给出一个我自己的定义：「一人企业是以个体或个人品牌为主导的业务体」。
+Ở đây, tôi muốn đưa ra một định nghĩa của riêng mình: 「Doanh nghiệp một người là một thể nghiệp vụ do cá nhân hoặc thương hiệu cá nhân chủ đạo」.
 
 ![](images/image-5-1024x353.png)
 
-什么是一人企业
+Doanh nghiệp một người là gì
 
-之所以选择称之为「业务体」，而非「公司」，是因为存在一个普遍的误解，即许多人认为必须要注册一家公司。尽管后来我将其称之为「企业」，这种误解仍旧存在。
+Sở dĩ chọn gọi là 「thể nghiệp vụ」 mà không phải 「công ty」, là vì tồn tại một hiểu lầm phổ biến: nhiều người cho rằng nhất định phải đăng ký một công ty. Dù sau này tôi đã gọi nó là 「doanh nghiệp」, hiểu lầm này vẫn còn đó.
 
 ![](images/image-6-1024x462.png)
 
-一人企业的基本定义
+Định nghĩa cơ bản về doanh nghiệp một người
 
-实际上，一人企业是一个业务体，这意味着并非非要注册公司，只要你有业务即可。同时，它以个体或个人品牌为主导，并不意味着必须是单人运作，小团队同样适用，只要是以个体为主导就行。此外，个人品牌的个性和独特的个人IP是这种业务模式的特色或亮点。它还可以、甚至更多地作为副业存在。
+Thực ra, doanh nghiệp một người là một thể nghiệp vụ, nghĩa là không nhất thiết phải đăng ký công ty, chỉ cần bạn có nghiệp vụ là được. Đồng thời, nó do cá nhân hoặc thương hiệu cá nhân chủ đạo, không có nghĩa là bắt buộc phải vận hành một mình — đội nhóm nhỏ cũng phù hợp, miễn là do cá nhân chủ đạo. Ngoài ra, cá tính của thương hiệu cá nhân và IP cá nhân độc đáo chính là nét đặc sắc hay điểm sáng của mô hình nghiệp vụ này. Nó còn có thể, thậm chí thường xuyên hơn, tồn tại dưới dạng side project.
 
-那么，如果某人不想做一人企业或从事副业，学习这一模式是否还有意义呢？实际上，我认为这依然非常有意义。
+Vậy nếu ai đó không muốn làm doanh nghiệp một người hay làm side project, thì việc học mô hình này còn có ý nghĩa không? Thực ra, tôi cho rằng vẫn rất có ý nghĩa.
 
-因为你可以将其视为创业公司或中大型企业的初期阶段。毕竟，不可能一开始就成为一个中大型企业，一切总是从小处开始。一人企业提供了一个非常好的起点。当然，创业公司也是一个很好的起点，但前提是你能够获得融资。如果你无法获得融资，或者需要为某个目标做大量准备，在这个阶段，一人企业的概念同样是一个非常好的思考工具。
+Bởi bạn có thể xem nó như giai đoạn khởi đầu của một công ty khởi nghiệp hoặc doanh nghiệp vừa và lớn. Suy cho cùng, không thể ngay từ đầu đã là một doanh nghiệp vừa và lớn, mọi thứ luôn bắt đầu từ những điều nhỏ. Doanh nghiệp một người cung cấp một điểm xuất phát rất tốt. Tất nhiên, công ty khởi nghiệp cũng là một điểm xuất phát tốt, nhưng với tiền đề là bạn gọi được vốn. Nếu bạn không gọi được vốn, hoặc cần chuẩn bị rất nhiều cho một mục tiêu nào đó, thì ở giai đoạn này, khái niệm doanh nghiệp một người cũng là một công cụ tư duy rất tốt.
 
-### 一人企业不等于个体工商户
+### Doanh nghiệp một người không phải là hộ kinh doanh cá thể
 
-很多人把「一人企业」和「个体户」划上等号，这是不对的。它们有根本上的不同。
+Nhiều người đánh đồng 「doanh nghiệp một người」 với 「hộ kinh doanh cá thể」, điều này không đúng. Chúng khác nhau về căn bản.
 
 ![](images/image-7-1024x382.png)
 
-一人企业和个体户的区别
+Sự khác biệt giữa doanh nghiệp một người và hộ kinh doanh cá thể
 
-一人企业的核心在于通过资产实现变现，而不是简单地出售时间。它依靠杠杆效应实现规模化，在形式上，既可以是个体户，也可以是私人公司，甚至是没有实体业务的组织。关于资产、杠杆和规模化，我们将在后续内容中详细讨论。
+Cốt lõi của doanh nghiệp một người là kiếm tiền thông qua tài sản, chứ không phải đơn thuần bán thời gian. Nó dựa vào hiệu ứng đòn bẩy để mở rộng quy mô; về hình thức, nó có thể là hộ kinh doanh cá thể, có thể là công ty tư nhân, thậm chí là tổ chức không có nghiệp vụ thực thể. Về tài sản, đòn bẩy và mở rộng quy mô, chúng ta sẽ thảo luận chi tiết trong các phần sau.
 
-### 一人企业不等于创业公司
+### Doanh nghiệp một người không phải là công ty khởi nghiệp
 
 ![](images/image-8-1024x347.png)
 
-一人企业和创业公司的区别
+Sự khác biệt giữa doanh nghiệp một người và công ty khởi nghiệp
 
-接下来，我们来探讨一人企业与创业公司的区别。
+Tiếp theo, chúng ta cùng tìm hiểu sự khác biệt giữa doanh nghiệp một người và công ty khởi nghiệp.
 
-最显著的区别在于，一人企业不需要融资，我们可以独立做主。我们的业务可以是「小而美」，追求「更好而非仅仅更大」。
+Khác biệt rõ rệt nhất là doanh nghiệp một người không cần gọi vốn, chúng ta có thể tự mình làm chủ. Nghiệp vụ của chúng ta có thể 「nhỏ mà đẹp」, theo đuổi 「tốt hơn chứ không chỉ lớn hơn」.
 
-对于已经获得投资的创业公司而言，通常不被允许仅满足于「小而美」，因为风险资本对投资项目的期望是在3到5年内实现至少5到10倍的回报。如果达不到这一目标，投资便被视为失败。但一人企业则不同，它允许存在「小而美」的可能性。
+Với công ty khởi nghiệp đã nhận đầu tư, thường thì họ không được phép chỉ hài lòng với 「nhỏ mà đẹp」, vì vốn mạo hiểm kỳ vọng dự án đầu tư đạt hồi vốn ít nhất 5 đến 10 lần trong 3 đến 5 năm. Nếu không đạt mục tiêu này, khoản đầu tư bị xem là thất bại. Nhưng doanh nghiệp một người thì khác, nó cho phép khả năng 「nhỏ mà đẹp」 tồn tại.
 
-有趣的是，一人企业可以发展成为创业公司的前期阶段。这意味着，是否选择创业完全取决于个人。如果你满足于维持一个稳定的现金流，并不渴望不断扩大规模或与参与竞争，那么你可以选择继续经营一个「小而美」的公司。如果想要大规模发展，那么你也可以在一人企业的基础上进行融资。甚至连什么时候做出这个选择，都可以由你决定。因此，一人企业可以作为创业公司发展的一个前期阶段。
+Điều thú vị là, doanh nghiệp một người có thể phát triển thành giai đoạn tiền đề của công ty khởi nghiệp. Nghĩa là, có chọn khởi nghiệp hay không hoàn toàn tùy thuộc vào cá nhân. Nếu bạn hài lòng với việc duy trì một dòng tiền ổn định, không khao khát mở rộng quy mô liên tục hay lao vào cạnh tranh, bạn có thể chọn tiếp tục vận hành một công ty 「nhỏ mà đẹp」. Nếu muốn phát triển quy mô lớn, bạn cũng có thể gọi vốn trên nền tảng doanh nghiệp một người. Thậm chí thời điểm đưa ra lựa chọn này cũng do bạn quyết định. Vì vậy, doanh nghiệp một người có thể đóng vai trò là giai đoạn tiền đề trong sự phát triển của công ty khởi nghiệp.
 
-### 定义的意义
+### Ý nghĩa của định nghĩa
 
-当然，这里所述的一人企业定义是本书内的特定定义。
+Tất nhiên, định nghĩa doanh nghiệp một người nêu ở đây là định nghĩa riêng trong phạm vi cuốn sách này.
 
-如果你的业务符合这个定义，那么在本书中的内容适配性最好；如果有不符合的地方，比如你是一家创业公司想要应用这套方法论，可能会有60%到70%的内容适用于你的初始阶段。
+Nếu nghiệp vụ của bạn khớp với định nghĩa này, thì nội dung cuốn sách sẽ phù hợp với bạn nhất; nếu có chỗ không khớp, ví dụ bạn là một công ty khởi nghiệp muốn áp dụng bộ phương pháp luận này, thì có thể 60% đến 70% nội dung sẽ áp dụng được cho giai đoạn khởi đầu của bạn.
 
-然而，如果有些内容明显不符合你的公司情况，你就需要自行进行调整。比如说，我们的假设是你只有一个小团队，这意味着你可能只有两三个员工，其中只有一两个是全职的，其他人是兼职或以合同形式工作的。这种模式包括以合作分成或外包的形式与你的核心团队周围的服务提供商或合作伙伴合作。如果这不适用于你的情况，那么你就需要调整我们的一些中间结论。
+Tuy nhiên, nếu có những nội dung rõ ràng không phù hợp với tình hình công ty bạn, bạn cần tự điều chỉnh. Chẳng hạn, giả định của chúng tôi là bạn chỉ có một đội nhóm nhỏ, nghĩa là có thể chỉ có hai ba nhân viên, trong đó chỉ một hai người làm toàn thời gian, những người còn lại làm bán thời gian hoặc theo hợp đồng. Mô hình này bao gồm việc hợp tác theo hình thức chia sẻ doanh thu hoặc thuê ngoài với các nhà cung cấp dịch vụ hoặc đối tác xung quanh đội ngũ nòng cốt của bạn. Nếu điều này không đúng với trường hợp của bạn, bạn cần điều chỉnh một số kết luận trung gian của chúng tôi.
 
-总之，这套方法论本身是灵活的，你可以根据自己的实际情况进行调整。但是，符合这个定义的比例越大，你需要调整的地方就越少。这就意味着，通过本书提供的视角和工具，你可以为自己的业务或个人品牌构建一个强大的基础，无论是作为一个独立的个体企业主，还是在更大的商业环境中寻求成长和扩展。
+Tóm lại, bản thân bộ phương pháp luận này là linh hoạt, bạn có thể điều chỉnh theo tình hình thực tế của mình. Nhưng tỷ lệ khớp với định nghĩa này càng lớn, chỗ bạn cần điều chỉnh càng ít. Điều đó có nghĩa là, thông qua góc nhìn và công cụ mà cuốn sách này cung cấp, bạn có thể xây dựng một nền móng vững chắc cho nghiệp vụ hoặc thương hiệu cá nhân của mình, dù là với tư cách một chủ doanh nghiệp cá nhân độc lập, hay đang tìm kiếm sự trưởng thành và mở rộng trong môi trường kinh doanh lớn hơn.
 
-另一个方面，即使你完全符合我们的定义，也应该带着质疑精神来阅读本书。因为市场和需求随时都在变动。不过为了提升效率，我们建议先全面了解本方法论及其推论和结论，在第二遍阅读时，再自行推理和验证。
+Mặt khác, ngay cả khi bạn hoàn toàn khớp với định nghĩa của chúng tôi, bạn vẫn nên đọc cuốn sách này với tinh thần hoài nghi. Bởi thị trường và nhu cầu luôn biến động. Tuy nhiên để nâng cao hiệu quả, chúng tôi khuyên bạn trước tiên hãy tìm hiểu toàn diện phương pháp luận này cùng các suy luận và kết luận của nó, đến lần đọc thứ hai mới tự mình suy luận và kiểm chứng.
 
-一人企业的特点
+Đặc điểm của doanh nghiệp một người
 -------
 
-在详细讨论一人企业的定义之后，我们来看一下一人企业的特点。
+Sau khi thảo luận chi tiết định nghĩa doanh nghiệp một người, chúng ta hãy xem các đặc điểm của nó.
 
 ![](images/image-9-1024x390.png)
 
-一人企业的特点
+Đặc điểm của doanh nghiệp một người
 
-它有三个显著的特点：员工数量少，资源有限，以及面对的竞争环境是以小博大。
+Nó có ba đặc điểm nổi bật: số nhân viên ít, nguồn lực hạn chế, và môi trường cạnh tranh phải đối mặt là lấy nhỏ thắng lớn.
 
 ![](images/image-10-1024x370.png)
 
-员工少的优缺点
+Ưu nhược điểm của việc ít nhân viên
 
-### 员工数量少
+### Số nhân viên ít
 
-首先，关于员工数量少这一特点，这并不一定是缺点。
+Trước hết, về đặc điểm số nhân viên ít, đây không hẳn là nhược điểm.
 
-#### 成本低
+#### Chi phí thấp
 
-员工少的优势在于成本较低，不存在固定的人工和硬件成本。如果我们只是一个人，可能就会选择在家中工作，从而无需租用办公室或支付水电等办公场地成本。在业务发展顺利时，这些费用可能无足轻重，但在业务遇到困难时，则可能成为骆驼背上的最后一根稻草。没有固定成本，意味着业务上长久的韧性：只要每月的生活费用得到覆盖，我们就能维持生计，业务也能持续下去。
+Ưu thế của việc ít nhân viên là chi phí thấp, không có chi phí cố định về nhân công và phần cứng. Nếu chỉ có một mình, chúng ta có thể chọn làm việc tại nhà, nhờ đó không cần thuê văn phòng hay trả tiền điện nước và các chi phí mặt bằng. Khi việc kinh doanh thuận lợi, những khoản này có thể chẳng đáng kể, nhưng khi kinh doanh gặp khó, chúng có thể trở thành cọng rơm cuối cùng đè gãy lưng lạc đà. Không có chi phí cố định đồng nghĩa với sức bền lâu dài trong kinh doanh: chỉ cần chi phí sinh hoạt hàng tháng được bù đắp, chúng ta duy trì được cuộc sống, nghiệp vụ cũng tiếp tục được.
 
-#### 灵活
+#### Linh hoạt
 
-其次，员工少也使得企业更加灵活。例如，我们可以通过远程工作或更换城市的方式来调整收入压力。如果在北京生活感到不适，完全可以选择搬到其他地方，甚至出国。但是，如果拥有一个团队，这种调整就变得复杂，特别是如果团队需要面对面沟通。相比之下，员工少意味着更高的灵活性。我们经常见到大公司从一个城市搬迁到另一个城市时，会面临大量员工离职的问题，这正是因为缺乏灵活性。
+Thứ hai, ít nhân viên cũng khiến doanh nghiệp linh hoạt hơn. Ví dụ, chúng ta có thể giảm áp lực thu nhập bằng cách làm việc từ xa hoặc chuyển thành phố. Nếu sống ở Bắc Kinh thấy không thoải mái, hoàn toàn có thể chuyển đến nơi khác, thậm chí ra nước ngoài. Nhưng nếu có một đội nhóm, việc điều chỉnh này trở nên phức tạp, nhất là khi đội nhóm cần giao tiếp trực tiếp. So ra, ít nhân viên đồng nghĩa với độ linh hoạt cao hơn. Chúng ta thường thấy các công ty lớn khi chuyển từ thành phố này sang thành phố khác sẽ đối mặt với làn sóng nhân viên nghỉ việc, chính là vì thiếu tính linh hoạt.
 
-#### 知识、技能、人脉受限
+#### Kiến thức, kỹ năng, quan hệ bị giới hạn
 
-然而，员工数量少也有其缺点，在知识、技能和人脉方面都受到限制。许多专业知识与特定岗位紧密相关，而在一个人的企业中，如果你主要负责开发工作，那么需要补充的知识范围就特别广泛。此外，人脉在商务拓展和销售方面尤其关键。虽然我们可以通过社交网络构建新的人脉关系，但相比那些大公司或创业公司，他们通过直接挖角或与以往合作伙伴建立的联系，拥有的原有人脉网络要丰富得多，这使得他们在谈合作时更加顺利。相对而言，作为一名完全的新人，没有既有人脉的支持，确实会显得更为艰难。
+Tuy nhiên, số nhân viên ít cũng có nhược điểm: bị giới hạn về kiến thức, kỹ năng lẫn quan hệ. Nhiều kiến thức chuyên môn gắn chặt với vị trí công việc cụ thể, mà trong doanh nghiệp của một người, nếu bạn chủ yếu phụ trách phát triển, thì phạm vi kiến thức cần bổ sung đặc biệt rộng. Ngoài ra, quan hệ đặc biệt then chốt trong phát triển kinh doanh và bán hàng. Tuy chúng ta có thể xây dựng quan hệ mới qua mạng xã hội, nhưng so với các công ty lớn hay công ty khởi nghiệp — vốn có mạng lưới quan hệ sẵn có phong phú hơn nhiều nhờ trực tiếp chiêu mộ người hoặc kết nối với các đối tác cũ — họ thuận lợi hơn hẳn khi đàm phán hợp tác. Tương đối mà nói, là một người hoàn toàn mới, không có quan hệ sẵn có hậu thuẫn, quả thực sẽ vất vả hơn.
 
-不过幸运的是，GPT和Claude可以极大程度的补全我们的知识树；而通过社交网络，我们可以快速建立新形态的人脉。
+May mắn là, GPT và Claude có thể bổ khuyết cây kiến thức của chúng ta ở mức độ rất lớn; còn qua mạng xã hội, chúng ta có thể nhanh chóng xây dựng những dạng quan hệ kiểu mới.
 
-### 资源有限
+### Nguồn lực hạn chế
 
 ![](images/image-11-1024x389.png)
 
-资源有限的优缺点
+Ưu nhược điểm của nguồn lực hạn chế
 
-首先，我们要考虑的一个问题是时间资源的有限性。时间是一人企业中最稀缺的资源。
+Trước hết, một vấn đề cần cân nhắc là sự hữu hạn của nguồn lực thời gian. Thời gian là nguồn lực khan hiếm nhất trong doanh nghiệp một người.
 
-#### 时间有限，试错半年
+#### Thời gian có hạn, thử sai mất nửa năm
 
-以一人公司为例，假设每周工作5天，每天工作10个小时，那么一周便有50个工时。
+Lấy công ty một người làm ví dụ: giả sử mỗi tuần làm 5 ngày, mỗi ngày làm 10 tiếng, thì một tuần có 50 giờ công.
 
-50个工时意味着什么？举个例子，如果你要制作一个网页并添加细节，可能需要大约10个小时，而这还不包括测试和后期的一些优化工作。也就是说，如果以网站开发为例，一周大约可以完成3-5个页面。简略计算，两个小功能大约就能占用一周的时间。
+50 giờ công nghĩa là gì? Ví dụ, nếu bạn cần làm một trang web và thêm các chi tiết, có thể mất khoảng 10 tiếng, chưa kể kiểm thử và một số việc tối ưu về sau. Nói cách khác, nếu lấy phát triển website làm ví dụ, một tuần làm được khoảng 3-5 trang. Tính sơ sơ, hai tính năng nhỏ là chiếm trọn một tuần.
 
 ![](images/image-12.png)
 
-方糖多钱外包报价计算器
+Công cụ tính báo giá thuê ngoài "Fangtang bao nhiêu tiền"
 
-一个题外话，我之前做过一个[外包报价计算器](https://money.ftqq.com/)，但你也可以用来简单估算项目的工时。
+Nói ngoài lề một chút, trước đây tôi từng làm một [công cụ tính báo giá thuê ngoài](https://money.ftqq.com/), bạn cũng có thể dùng nó để ước lượng nhanh giờ công của dự án.
 
-因此，如果我们的一个项目以开发周期来进行试错，一次试错可能需要半年时间。这里的试错不仅仅是开发过程，而是从项目立项，到产品设计，再到开发和上线的整个过程。
+Vì vậy, nếu một dự án của chúng ta thử sai theo chu kỳ phát triển, một lần thử sai có thể mất nửa năm. Thử sai ở đây không chỉ là quá trình phát triển, mà là toàn bộ quá trình từ lập dự án, thiết kế sản phẩm, đến phát triển và ra mắt.
 
-由于资源非常有限，我们的产品设计和开发不能并行，开发只能依靠我们自己。当然，我们可以聘请兼职帮手，但沟通成本可能会比开发本身的时间成本还要高。大家实际操作一下就会明白我在说什么。
+Do nguồn lực rất hạn chế, thiết kế sản phẩm và phát triển của chúng ta không thể chạy song song, việc phát triển chỉ có thể dựa vào chính mình. Tất nhiên có thể thuê người hỗ trợ bán thời gian, nhưng chi phí giao tiếp có khi còn cao hơn cả chi phí thời gian của bản thân việc phát triển. Cứ bắt tay vào làm thực tế bạn sẽ hiểu tôi đang nói gì.
 
-#### 零成本推广，地狱难度开局
+#### Quảng bá chi phí bằng không, khởi đầu ở độ khó địa ngục
 
-接下来，谈谈推广。一般来说，我们不会有太多市场费用。在没有市场费用的情况下进行推广实际上是非常困难的。
+Tiếp theo, nói về quảng bá. Thông thường, chúng ta sẽ không có nhiều ngân sách marketing. Quảng bá trong điều kiện không có ngân sách marketing thực sự rất khó.
 
-我曾经一直思考，为什么很多独立开发者不擅长做推广，而看那些市场总监进行的活动和策划，都显得如此有力度，传播性极好。但后来有过自己创业的亲历以后，我发现那些市场总监确实很有能力，但营销效果也是建立在较大的市场费用基础上的。
+Tôi từng luôn suy nghĩ vì sao nhiều lập trình viên phát triển độc lập không giỏi quảng bá, trong khi nhìn các hoạt động và kế hoạch do các giám đốc marketing thực hiện thì đều mạnh mẽ, lan tỏa cực tốt. Nhưng sau khi tự mình trải nghiệm khởi nghiệp, tôi nhận ra các giám đốc marketing đó quả thực rất giỏi, nhưng hiệu quả marketing cũng được xây trên nền tảng ngân sách thị trường khá lớn.
 
-在一人企业的起步阶段，通常来说，我们没有太多的资金。如果真的拥有几千万，可能更趋向于以购买而非创造的方式来获得资产。即使将其存入银行，立刻就可以实现财务自由，至少是一种初步的财务自由。因此，对于大多数人来说，推广实际上是在没有市场费用的情况下进行的，这是非常困难的。包括那些在大公司能够做好推广的人，如果没有任何市场费用，他们也会觉得非常困难。
+Ở giai đoạn khởi đầu của doanh nghiệp một người, thông thường chúng ta không có nhiều vốn. Nếu thực sự có vài chục triệu tệ, có lẽ ta sẽ thiên về mua tài sản thay vì tạo ra tài sản. Kể cả chỉ gửi ngân hàng thôi cũng lập tức đạt tự do tài chính, ít nhất là dạng tự do tài chính sơ khởi. Vì vậy, với đa số mọi người, quảng bá thực chất được tiến hành trong điều kiện không có ngân sách marketing — điều này cực kỳ khó. Kể cả những người làm quảng bá giỏi ở công ty lớn, nếu không có chút ngân sách marketing nào, họ cũng sẽ thấy rất khó khăn.
 
-在这种情况下，我们可以尝试通过内容营销或利用自媒体进行推广，但这特别耗时。自传播的产品或许更为有效，在本书的后续，我们也会详细讨论这部分内容。
+Trong tình huống này, chúng ta có thể thử quảng bá bằng content marketing hoặc tận dụng self-media, nhưng cách này đặc biệt tốn thời gian. Sản phẩm tự lan truyền có lẽ hiệu quả hơn — ở phần sau của cuốn sách, chúng ta cũng sẽ thảo luận chi tiết nội dung này.
 
-#### 被迫精简和专注
+#### Buộc phải tinh giản và tập trung
 
-另一个方面看，资源的有限也会反向推动我们提出更有针对性和吸引力的价值主张、设计出更精简的、更一针见血的产品，反而和那些大而全的产品拉开差距。
+Nhìn từ mặt khác, nguồn lực hạn chế cũng thúc đẩy ngược lại chúng ta đưa ra tuyên bố giá trị nhắm trúng đích và hấp dẫn hơn, thiết kế sản phẩm tinh gọn hơn, đánh trúng tim đen hơn — ngược lại tạo được khoảng cách với những sản phẩm to mà ôm đồm.
 
-### 以小博大
+### Lấy nhỏ thắng lớn
 
 ![](images/image-13-1024x339.png)
 
-一人企业必须以小博大
+Doanh nghiệp một người buộc phải lấy nhỏ thắng lớn
 
-那么，第三个特点就是，经营一人企业，必然面临「以小博大」的处境。
+Đặc điểm thứ ba là: vận hành doanh nghiệp một người tất yếu đối mặt với tình thế 「lấy nhỏ thắng lớn」.
 
-#### 多重竞争
+#### Cạnh tranh nhiều tầng
 
-很多独立开发者和创业公司都有一种「我弱我有理」的心态；觉得因为自己的弱势身份就理应获得更多的支持。情怀的确可以让用户买几次单，但很难让用户一直买单。从用户和市场的角度来看，绝大部分人比起关心这个产品背后是谁，他们更关心的是提供的产品质量如何，服务是否到位，价格是否合理，性价比是否高。
+Nhiều lập trình viên phát triển độc lập và công ty khởi nghiệp có tâm lý 「tôi yếu nên tôi có lý」, cho rằng vì thân phận yếu thế nên đương nhiên đáng được hỗ trợ nhiều hơn. Tình cảm quả thực có thể khiến người dùng trả tiền vài lần, nhưng khó khiến họ trả tiền mãi. Từ góc độ người dùng và thị trường, tuyệt đại đa số mọi người, so với việc quan tâm ai đứng sau sản phẩm, họ quan tâm hơn đến chất lượng sản phẩm ra sao, dịch vụ có chu đáo không, giá cả có hợp lý không, có đáng đồng tiền không.
 
-因此，无论是大型企业、创业公司、开源项目还是我们的同行，都可能是我们的竞争对手，尤其是大型企业和开源项目，它们对独立开发者构成了很强的竞争压力。例如，苹果公司一旦发布新系统或系统的新版本，很多独立开发的小组件就可能被官方功能取代，导致这部分开发者的收入归零。
+Vì vậy, dù là doanh nghiệp lớn, công ty khởi nghiệp, dự án mã nguồn mở hay đồng nghiệp cùng ngành, đều có thể là đối thủ cạnh tranh của chúng ta; đặc biệt doanh nghiệp lớn và dự án mã nguồn mở tạo áp lực cạnh tranh rất mạnh lên các nhà phát triển độc lập. Ví dụ, Apple mỗi lần phát hành hệ điều hành mới hoặc phiên bản mới, nhiều tiện ích nhỏ do các nhà phát triển độc lập làm ra có thể bị tính năng chính thức thay thế, khiến thu nhập của nhóm nhà phát triển này về không.
 
-#### 成功一次即可的游戏
+#### Trò chơi chỉ cần thành công một lần
 
-看到这里，你应该已经发现经营一人企业的难度颇大了。的确如此。但这是成功一次即可财务自由的游戏。
+Đọc đến đây, hẳn bạn đã nhận ra vận hành doanh nghiệp một người khó nhường nào. Đúng là như vậy. Nhưng đây là trò chơi chỉ cần thành công một lần là tự do tài chính.
 
-对一般人而言，每月10万、一年120万被动收入，足以「财务自由」。虽然这个数字放到个体薪资上看起来很多，但能做到月盈利超过10万的小企业遍地都是。而一人企业的另一个特点就是，它能根据个体的贡献来进行精确分配收益 ------ 因为员工就一个人。换句话说就是，企业挣的都是你的。
+Với người bình thường, thu nhập thụ động 100.000 tệ mỗi tháng, 1,2 triệu tệ mỗi năm là đủ để 「tự do tài chính」. Con số này đặt cạnh lương cá nhân nghe có vẻ nhiều, nhưng những doanh nghiệp nhỏ đạt lợi nhuận trên 100.000 tệ mỗi tháng thì đâu đâu cũng có. Và một đặc điểm khác của doanh nghiệp một người là nó có thể phân phối lợi ích chính xác theo đóng góp của cá nhân ------ vì nhân viên chỉ có một người. Nói cách khác, doanh nghiệp kiếm được bao nhiêu đều là của bạn.
 
-即使你在大厂打工，即便公司非常成功，如果你不是高管、如果没有赶上企业上市或爆发期、或者没能持有相当数量的公司期权或股票，那么最终折算下来月收入超过10万的并不多，高额收益仅限于极少数人。
+Kể cả bạn làm thuê ở công ty lớn, dù công ty rất thành công, nếu bạn không phải quản lý cấp cao, không bắt kịp đợt IPO hay giai đoạn bùng nổ của doanh nghiệp, hoặc không nắm giữ lượng đáng kể quyền chọn hay cổ phiếu công ty, thì quy đổi ra cuối cùng, số người có thu nhập tháng vượt 100.000 tệ không nhiều — lợi ích khổng lồ chỉ giới hạn ở số cực ít người.
 
-尤其在个体崛起的现在，大厂原有的贡献衡量体系已经落后了。董明珠与其助理、东方甄选及其主播的之间的矛盾不是偶然的。大厂不是不知道贡献衡量体系有问题，而是它们想要的就是螺丝钉。
+Nhất là trong thời đại cá nhân trỗi dậy hiện nay, hệ thống đo lường đóng góp vốn có của các công ty lớn đã lạc hậu. Mâu thuẫn giữa Đổng Minh Châu và trợ lý của bà, giữa East Buy và các streamer của họ không phải ngẫu nhiên. Không phải các công ty lớn không biết hệ thống đo lường đóng góp có vấn đề, mà là thứ họ muốn chính là những con ốc vít.
 
-而一人企业这个游戏虽然难，但只要屡败屡战、持续优化，总能坚持到成功的那天。这也是我沉迷于此、不可自拔的主要原因。
+Còn trò chơi doanh nghiệp một người tuy khó, nhưng chỉ cần thua không nản, liên tục tối ưu, rồi sẽ trụ được đến ngày thành công. Đây cũng là lý do chính khiến tôi say mê nó không dứt ra được.
 
-#### 认知层的竞争
+#### Cạnh tranh ở tầng nhận thức
 
-我知道很多读者都觉得自己比其他人优秀、有一些也的确如此。但即便这样，以一人之力和大中企业硬碰硬，还是有种螳臂挡车的既视感。
+Tôi biết nhiều bạn đọc đều cảm thấy mình giỏi hơn người khác — một số quả thực như vậy. Nhưng dù thế, lấy sức một người đối đầu trực diện với doanh nghiệp vừa và lớn vẫn có cảm giác châu chấu đá xe.
 
-因为平心而论，大部分的企业都没有航天飞机、芯片和大模型的核心技术作为护城河。而作为一人企业，我们在资源上不占优势。即使我们是技术能力出众的开发者，也难以与大公司顶尖的专家们竞争。更何况，我们不可能将全部时间用到开发上。
+Bởi công bằng mà nói, phần lớn doanh nghiệp không có công nghệ lõi kiểu tàu con thoi, chip hay mô hình lớn làm hào bảo vệ. Còn là doanh nghiệp một người, chúng ta không chiếm ưu thế về nguồn lực. Kể cả khi chúng ta là nhà phát triển có năng lực kỹ thuật xuất sắc, cũng khó cạnh tranh với các chuyên gia hàng đầu của công ty lớn. Huống hồ, chúng ta không thể dồn toàn bộ thời gian cho việc phát triển.
 
-所以，四两拨千斤，是因为顺势借力；以小博大，更要讲究方式方法。
+Vì vậy, bốn lạng bạt ngàn cân là nhờ thuận thế mượn lực; lấy nhỏ thắng lớn càng phải chú trọng phương pháp và cách thức.
 
-一人企业的竞争，有一半都是在认知上。因此，本书专门设置了「规划一人企业」这个模块，尝试从「底层逻辑」、「赛道选择」、「竞争策略」几个方面帮大家进行认知上的强化。
+Cuộc cạnh tranh của doanh nghiệp một người, một nửa nằm ở nhận thức. Do đó, cuốn sách này dành riêng phần 「Hoạch định doanh nghiệp một người」, cố gắng giúp mọi người củng cố nhận thức từ các khía cạnh 「logic nền tảng」, 「chọn đường đua」, 「chiến lược cạnh tranh」.

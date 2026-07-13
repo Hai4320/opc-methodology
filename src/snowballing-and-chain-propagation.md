@@ -1,124 +1,124 @@
-# 底层逻辑:滚雪球和链式传播
+# Logic nền tảng: Hiệu ứng quả cầu tuyết và lan truyền dây chuyền
 
-我们继续探讨底层逻辑。这次聊聊滚雪球和链式传播。
+Chúng ta tiếp tục bàn về logic nền tảng. Lần này nói về hiệu ứng quả cầu tuyết và lan truyền dây chuyền.
 
 ![](images/image-43-1024x651.png)
 
-复利和滚雪球
+Lãi kép và hiệu ứng quả cầu tuyết
 
-复利：钱生钱
+Lãi kép: tiền đẻ ra tiền
 ------
 
-金钱最迷人的地方，不仅在于它本身就是财富，更因为它还会不断地带来新财富。
+Điều mê hoặc nhất của tiền không chỉ ở chỗ bản thân nó là của cải, mà còn vì nó không ngừng sinh ra của cải mới.
 
-复利，是一种将利息并入本金，在下一个周期同样产生利息的算法。它是现代理财一个重要概念，由此产生的财富增长，称作「复利效应」，对财富可以带来深远的影响。
+Lãi kép là thuật toán nhập lãi vào gốc, để chu kỳ sau tiếp tục sinh lãi trên số đó. Đây là một khái niệm quan trọng trong quản lý tài chính hiện đại; tăng trưởng của cải sinh ra từ nó được gọi là "hiệu ứng lãi kép", có thể mang lại ảnh hưởng sâu rộng đến của cải.
 
-假设投资每年的回报率是100%，本金10万，如果只按照普通利息计算，每年回报只有10万元，10年亦只有100万元，整体财富增长只是10倍，但按照复利方法计算，首年回报是10万元，令个人整体财富变成20万，第二年20万会变成40万，第三年40万再变80万元，10年累计增长将高达1024倍（2的10次方），亦即指10万元的本金，最后会变成1.024亿元。当然，在实际投资中往往很难实现每年固定高回报率。市场波动、经济周期、投资选择等因素都会影响实际的投资回报。一般年回报率10%就已经是不错的投资了。
+Giả sử tỷ suất lợi nhuận đầu tư mỗi năm là 100%, vốn gốc 100 nghìn tệ. Nếu chỉ tính theo lãi đơn, mỗi năm chỉ thu về 100 nghìn, 10 năm cũng chỉ 1 triệu, tổng của cải tăng 10 lần. Nhưng tính theo lãi kép, năm đầu thu về 100 nghìn, đưa tổng của cải lên 200 nghìn; năm thứ hai 200 nghìn biến thành 400 nghìn, năm thứ ba 400 nghìn thành 800 nghìn; sau 10 năm mức tăng tích lũy lên tới 1024 lần (2 mũ 10), tức vốn gốc 100 nghìn tệ cuối cùng biến thành 102,4 triệu tệ. Tất nhiên, trong đầu tư thực tế rất khó duy trì tỷ suất lợi nhuận cao cố định hằng năm. Biến động thị trường, chu kỳ kinh tế, lựa chọn đầu tư đều ảnh hưởng đến lợi nhuận thực tế. Thông thường, tỷ suất 10%/năm đã là khoản đầu tư khá tốt rồi.
 
-即使不主动投资，在我国大多数银行的定期存款，也可以选择利息在到期后与本金合并重新存入，从而实现复利效应。当然，因为利率本身不高、本金不多、周期又太长，这种财富增长的速度差强人意。
+Kể cả không chủ động đầu tư, tiền gửi kỳ hạn ở đa số ngân hàng Trung Quốc cũng có thể chọn nhập lãi vào gốc gửi lại khi đáo hạn, qua đó đạt hiệu ứng lãi kép. Tất nhiên, vì lãi suất vốn không cao, tiền gốc không nhiều, chu kỳ lại quá dài, tốc độ tăng của cải kiểu này chỉ tàm tạm.
 
 ![](images/image-42-817x1024.png)
 
-被动理财是精灵族的天赋技能
+Đầu tư thụ động là thiên phú của tộc tiên
 
-主要还是人族寿命太短，如果是精灵族，那么累计财富就要更加容易。在另一个西方世界常引用的例子中，假设美国土著1626年，愿意以60荷兰盾出售今日曼哈顿的土地，并将这60盾放到荷兰银行，收取每年6.5%的复利利率，他们2005年将可获得约63960亿港元的存款，较纽约市五条大街的物业总市值还要高。
+Vấn đề chính vẫn là tuổi thọ loài người quá ngắn; nếu là tộc tiên thì tích lũy của cải dễ hơn nhiều. Trong một ví dụ khác hay được phương Tây trích dẫn: giả sử năm 1626, thổ dân châu Mỹ chịu bán mảnh đất Manhattan ngày nay với giá 60 guilder Hà Lan, rồi đem 60 guilder đó gửi ngân hàng Hà Lan với lãi kép 6,5%/năm, thì đến năm 2005 họ sẽ có khoản tiền gửi khoảng 6.396 tỷ đô la Hồng Kông — cao hơn cả tổng giá trị bất động sản của năm đại lộ lớn tại New York.
 
-理解复利效应的关键，在于认识到时间对投资回报的放大作用。它还有另外两个要件：
+Chìa khóa để hiểu hiệu ứng lãi kép là nhận ra tác dụng khuếch đại của thời gian lên lợi nhuận đầu tư. Nó còn hai yếu tố nữa:
 
-1.  指数增长：随着时间的推移，增长不是匀速的，而是增速的，因此可以实现指数级的增长
-2.  再投资：将投资获得的回报再投资，从而获得更多的回报，这对实现增长至关重要
+1.  Tăng trưởng lũy thừa: theo thời gian, tăng trưởng không đều tốc mà ngày càng nhanh, nhờ đó đạt được mức tăng cấp số nhân
+2.  Tái đầu tư: đem lợi nhuận thu được từ đầu tư đi đầu tư tiếp để thu về nhiều hơn — điều này tối quan trọng cho tăng trưởng
 
-滚雪球
+Hiệu ứng quả cầu tuyết
 ---
 
-理解复利的逻辑以后，我们会发现它带给我们的启发并不限于金融领域，还可以用到非货币资产管理、知识积累、技能提升等多个领域。不过我们有一个更形象的说法：「滚雪球」效应。
+Hiểu logic của lãi kép rồi, ta sẽ thấy gợi ý nó mang lại không chỉ giới hạn trong lĩnh vực tài chính, mà còn dùng được cho quản lý tài sản phi tiền tệ, tích lũy kiến thức, nâng cao kỹ năng và nhiều lĩnh vực khác. Có điều chúng ta có một cách gọi hình tượng hơn: hiệu ứng "quả cầu tuyết".
 
-它是一个比喻性的表达，来源于将一小块雪在雪地上滚动，雪球会越滚越大的现象，用以形容某种力量或效果随时间的推移而逐渐增强或扩大的过程。依然是复利的三要件：时间、增长、再投入。
+Đây là cách diễn đạt ẩn dụ, bắt nguồn từ hiện tượng lăn một nắm tuyết nhỏ trên nền tuyết, quả cầu tuyết sẽ càng lăn càng to; dùng để mô tả quá trình một lực lượng hay hiệu quả nào đó dần mạnh lên, lớn lên theo thời gian. Vẫn là ba yếu tố của lãi kép: thời gian, tăng trưởng, tái đầu tư.
 
-举几个已经广泛应用到一人企业和创业领域的例子：
+Vài ví dụ đã được áp dụng rộng rãi trong doanh nghiệp một người và giới khởi nghiệp:
 
--   邀请制：获得种子用户以后，通过邀请码、返现等方式让他们邀请朋友作为新用户
--   UGC：发布内容引发用户讨论，将用户讨论整理作为新的内容发布，再整理新内容的讨论
--   付费式增长引擎：向渠道付费为商业产品获取用户，将从用户身上变现的钱再投入渠道，获取更多用户
+-   Cơ chế mời: sau khi có người dùng hạt giống, dùng mã mời, hoàn tiền v.v. để họ mời bạn bè thành người dùng mới
+-   UGC: đăng nội dung khơi mào thảo luận của người dùng, biên tập các thảo luận đó thành nội dung mới để đăng, rồi lại biên tập thảo luận về nội dung mới
+-   Động cơ tăng trưởng trả phí: trả tiền cho kênh phân phối để kéo người dùng cho sản phẩm thương mại, rồi đem tiền kiếm được từ người dùng tái đầu tư vào kênh để kéo thêm người dùng
 
 ![](images/image-44-800x1024.png)
 
-用已有资产收益投入新资产
+Dùng lợi nhuận từ tài sản sẵn có đầu tư vào tài sản mới
 
-从更上一层看，我们也可以用已有资产的收益来投资新的资产。这种投资可以是资金层面的，也可以其他用于变现的间接资源，比如用户和流量。所以，资产会带来新资产。
+Nhìn lên một tầng cao hơn, chúng ta cũng có thể dùng lợi nhuận từ tài sản sẵn có để đầu tư vào tài sản mới. Khoản đầu tư này có thể ở tầng tiền bạc, cũng có thể là các nguồn lực gián tiếp dùng để kiếm tiền khác, như người dùng và lưu lượng. Vậy nên, tài sản sẽ mang đến tài sản mới.
 
-另一个角度看，产品做深入以后必然会向上下游延伸，推动我们创造或者整合相关的资产。这也是「资产会带来新资产」的另一种解读。
+Nhìn từ góc độ khác, sản phẩm khi làm đủ sâu tất yếu sẽ vươn lên thượng nguồn và hạ nguồn, thúc đẩy ta tạo ra hoặc tích hợp các tài sản liên quan. Đó cũng là một cách hiểu khác của "tài sản mang đến tài sản mới".
 
-链式传播：人传人
+Lan truyền dây chuyền: người truyền người
 --------
 
 ![](images/image-45-1024x894.png)
 
-链式传播
+Lan truyền dây chuyền
 
-「滚雪球」在营销传播领域有一个专门的概念，叫做「链式传播」，也被称为「流量裂变」。它主要强调的是「二次传播」，亦即受众是否会产生再次传播内容的行为。具体到微博/推特上，就是「转发」。
+"Hiệu ứng quả cầu tuyết" trong lĩnh vực truyền thông marketing có một khái niệm riêng, gọi là "lan truyền dây chuyền", còn được gọi là "phân hạch lưu lượng". Nó chủ yếu nhấn mạnh "lan truyền lần hai", tức người tiếp nhận có hành vi lan truyền lại nội dung hay không. Cụ thể trên Weibo/Twitter, đó chính là nút "chia sẻ lại" (retweet).
 
-现在很多平台引入了推荐算法，改用平台主导的「推荐流」代替用户主导的「信息流」，这种方式让平台可以名正言顺的控制原本属于用户的流量，也模糊了社会化传播的本质。当然，这不能简单地评价是对是错，商业平台往往有更多基于现实的考量。
+Ngày nay nhiều nền tảng đưa vào thuật toán gợi ý, thay "dòng thông tin" do người dùng chủ đạo bằng "dòng gợi ý" do nền tảng chủ đạo. Cách này cho phép nền tảng danh chính ngôn thuận kiểm soát lưu lượng vốn thuộc về người dùng, cũng làm mờ đi bản chất của lan truyền xã hội. Tất nhiên, không thể đơn giản phán xét đúng sai; các nền tảng thương mại thường có nhiều cân nhắc thực tế hơn.
 
-但我们自己在做一人企业时，应该始终记住「人传人」才是传播的本质：搞定了二次传播，也就省下了市场费用。
+Nhưng khi tự làm doanh nghiệp một người, chúng ta phải luôn nhớ rằng "người truyền người" mới là bản chất của lan truyền: giải quyết được lan truyền lần hai là tiết kiệm được chi phí marketing.
 
-如果想深入理解链式传播，有两本经典书籍推荐给大家，一本是《引爆点》、一本是《疯传》。
+Nếu muốn hiểu sâu về lan truyền dây chuyền, xin giới thiệu hai cuốn sách kinh điển: 《Điểm bùng phát》 và 《Hiệu ứng lan truyền》.
 
-### 《引爆点》
+### 《Điểm bùng phát》
 
-《引爆点》（The Tipping Point）这本书由马尔科姆-格拉德威尔（Malcolm Gladwell）所著，首次出版于2000年。主要探讨了小的变化如何能够引发大的社会效应，即所谓的「引爆点」理论。作者借鉴流行病学的概念，通过将社会现象和病毒的传播类比展开研究。
+《Điểm bùng phát》 (The Tipping Point) do Malcolm Gladwell viết, xuất bản lần đầu năm 2000. Sách chủ yếu bàn về việc những thay đổi nhỏ có thể châm ngòi hiệu ứng xã hội lớn như thế nào — chính là lý thuyết "điểm bùng phát". Tác giả mượn khái niệm từ dịch tễ học, triển khai nghiên cứu bằng cách ví các hiện tượng xã hội với sự lây lan của virus.
 
 ![](images/image-46-722x1024.png)
 
-《引爆点》
+《Điểm bùng phát》
 
-在书中，作者提出了「流行三法则」：
+Trong sách, tác giả đưa ra "ba quy luật của sự lan truyền":
 
--   个别人物法则 (Law of the Few）：在流行传播中，有一些个体更为重要
-    -   社交精英（Connectors）：拥有广泛的社交网络，他们认识的人数远远超过常人，能够作为不同社会圈层之间的桥梁
-    -   信息专家（Mavens）：是信息的集散地，他们对信息有着深刻的理解和掌握，乐于分享。某一领域内被信赖的顾问，能够影响他人的看法和决定
-    -   销售员（Salesmen）：拥有极强的说服和包装能力，能够通过个人魅力或说服技巧影响他人的行为和态度
--   附着力因素法则（Stickiness Factor）：总能找到一种简单的包装方式，让信息变得不可抗拒
--   环境威力法则（Power of context）：传播对于环境极度敏感，一些极小的变动，可能产生巨大的影响
+-   Quy luật thiểu số (Law of the Few): trong lan truyền, có một số cá nhân quan trọng hơn hẳn
+    -   Người kết nối (Connectors): sở hữu mạng lưới xã hội rộng khắp, số người họ quen vượt xa người thường, có thể làm cầu nối giữa các tầng lớp xã hội khác nhau
+    -   Nhà thông thái (Mavens): là đầu mối tập trung và phát tán thông tin, hiểu và nắm thông tin sâu sắc, thích chia sẻ. Là cố vấn được tin cậy trong một lĩnh vực nào đó, có thể ảnh hưởng đến cách nhìn và quyết định của người khác
+    -   Người bán hàng (Salesmen): sở hữu năng lực thuyết phục và "đóng gói" cực mạnh, có thể tác động đến hành vi và thái độ của người khác bằng sức hút cá nhân hoặc kỹ năng thuyết phục
+-   Quy luật yếu tố kết dính (Stickiness Factor): luôn tìm được một cách đóng gói đơn giản khiến thông tin trở nên không thể cưỡng lại
+-   Quy luật sức mạnh bối cảnh (Power of Context): sự lan truyền cực kỳ nhạy cảm với môi trường; những thay đổi rất nhỏ có thể tạo ra ảnh hưởng khổng lồ
 
-其中个别人物法则无论是在社交媒体的大规模兴起，还是在新冠大流行中，都得到了充分的证明。但书中对附着力因素法则的研究，缺乏可操作性，并没有明确指出如何找到这种「简单的包装方式」。
+Trong đó, quy luật thiểu số đã được chứng minh đầy đủ, cả trong sự bùng nổ quy mô lớn của mạng xã hội lẫn trong đại dịch COVID-19. Nhưng nghiên cứu về quy luật yếu tố kết dính trong sách lại thiếu tính khả thi thao tác, không chỉ rõ làm sao tìm ra "cách đóng gói đơn giản" ấy.
 
-### 《疯传》
+### 《Hiệu ứng lan truyền》
 
-《疯传》（Contagious: Why Things Catch On）这本书由乔纳-伯格（Jonah Berger）所著，于2013年出版。在书中，作者提出了使事物变得具有传染性的六大原则，即伯格的「STEPPS」模型。个人认为，这本书则可以看做对《引爆点》的绝佳补充，两者构成了相对完整的、又极具可操作性的链式传播理论。
+《Hiệu ứng lan truyền》 (Contagious: Why Things Catch On) do Jonah Berger viết, xuất bản năm 2013. Trong sách, tác giả đưa ra sáu nguyên tắc khiến sự vật trở nên "dễ lây lan", tức mô hình "STEPPS" của Berger. Cá nhân tôi cho rằng cuốn này có thể xem là phần bổ sung tuyệt vời cho 《Điểm bùng phát》; hai cuốn hợp lại tạo thành một lý thuyết lan truyền dây chuyền tương đối hoàn chỉnh và rất dễ áp dụng.
 
 ![](images/image-47-712x1024.png)
 
-《疯传》
+《Hiệu ứng lan truyền》
 
-六大原则如下：
+Sáu nguyên tắc như sau:
 
--   社交货币（Social Currency）：在社交中，人们用谈论的话题向身边朋友炫耀身份、构建他们渴望的形象。构造符合这一需求的内容就更容易获得传播
--   诱因（Triggers）：可以设计一种在特定环境下能够激活顾客内心的产品与思想的触发器。一旦人们碰到，就会联想起我们的产品和思想
--   情绪（Emotion）：高唤醒情绪更容易刺激传播，包括惊奇/敬畏、幽默/搞笑、欣喜/欢乐，以及愤怒和焦虑
--   公开性（Public）：看不到的事物不会被轻易模仿，更不可能变得流行。设计一些具备公共传播属性的产品和思想
--   实用价值（Practical Value）：人天然具有互助倾向，只要产品或思想能够节省时间或者金钱，帮助个人提升，就会被大力传播
--   故事（Stories）：故事的魅力来自基因。包裹在吸引人的故事中的产品或理念更容易传播
+-   Tiền tệ xã hội (Social Currency): trong giao tiếp xã hội, người ta dùng chủ đề bàn tán để khoe khoang thân phận với bạn bè xung quanh, xây dựng hình ảnh họ khao khát. Nội dung được thiết kế đúng theo nhu cầu này sẽ dễ được lan truyền hơn
+-   Yếu tố kích hoạt (Triggers): có thể thiết kế một "cò súng" kích hoạt sản phẩm và ý tưởng trong tâm trí khách hàng ở những bối cảnh nhất định. Hễ gặp phải, người ta sẽ liên tưởng đến sản phẩm và ý tưởng của chúng ta
+-   Cảm xúc (Emotion): cảm xúc kích thích cao dễ thúc đẩy lan truyền hơn, gồm kinh ngạc/kính sợ, hài hước/vui nhộn, hân hoan/vui sướng, cùng phẫn nộ và lo âu
+-   Tính công khai (Public): thứ không nhìn thấy được thì không dễ bị bắt chước, càng không thể trở nên thịnh hành. Hãy thiết kế những sản phẩm và ý tưởng mang thuộc tính lan truyền công khai
+-   Giá trị thực dụng (Practical Value): con người bẩm sinh có xu hướng tương trợ; chỉ cần sản phẩm hay ý tưởng giúp tiết kiệm thời gian, tiền bạc, hoặc giúp cá nhân tiến bộ, nó sẽ được lan truyền mạnh mẽ
+-   Câu chuyện (Stories): sức hút của câu chuyện đến từ gene. Sản phẩm hay ý niệm được bọc trong một câu chuyện hấp dẫn sẽ dễ lan truyền hơn
 
-六大原则中，关于情绪的研究非常有意思，同时也有些反直觉：满足感和悲伤并不会促进传播。
+Trong sáu nguyên tắc, nghiên cứu về cảm xúc rất thú vị và cũng hơi phản trực giác: cảm giác thỏa mãn và nỗi buồn không thúc đẩy lan truyền.
 
 ![](images/image-48-1024x227.png)
 
-情绪的唤醒效果
+Hiệu quả kích thích của cảm xúc
 
-这些原则已经被大量证明和使用，当我们不知道怎么策划一个传播时，可以把每一个原则都过一遍，往往会很快获得灵感。我们也了设计「链式传播画布」，帮助大家更全面地思考。
+Những nguyên tắc này đã được chứng minh và sử dụng rộng rãi. Khi không biết hoạch định một chiến dịch lan truyền thế nào, ta có thể rà từng nguyên tắc một lượt, thường sẽ nhanh chóng có cảm hứng. Chúng tôi cũng đã thiết kế "canvas lan truyền dây chuyền" giúp mọi người tư duy toàn diện hơn.
 
 ![](images/opb-chain-propagation-1024x573.png)
 
-OPB链式传播画布
+Canvas lan truyền dây chuyền OPB
 
-让雪球先滚起来
+Để quả cầu tuyết lăn trước đã
 -------
 
-时间是滚雪球效应中非常重要的一个要件，也是最难逾越的。因此，合理的时间规划，可以让我们获得更好的收益。一个简单的策略是：优先让雪球滚起来。
+Thời gian là một yếu tố cực kỳ quan trọng trong hiệu ứng quả cầu tuyết, cũng là thứ khó vượt qua nhất. Vì vậy, hoạch định thời gian hợp lý sẽ giúp ta thu về lợi ích tốt hơn. Một chiến lược đơn giản là: ưu tiên cho quả cầu tuyết lăn trước.
 
-换言之，在一个具备滚雪球效应的资产（比如内容平台）和一个不具备此效应的资产（比如中台等内部基础设施）之间，我们应该优先完成前者。这样在我们完成后者的时间里，前者可以同步「滚动」。
+Nói cách khác, giữa một tài sản có hiệu ứng quả cầu tuyết (ví dụ nền tảng nội dung) và một tài sản không có hiệu ứng này (ví dụ hạ tầng nội bộ như middle platform), ta nên ưu tiên hoàn thành cái trước. Như vậy trong thời gian ta làm cái sau, cái trước có thể "lăn" song song.
 
-更进一步，在可以提供被动收入的资产和不能提供被动收入的资产之间，我们同样应该优先前者。这样在处理后者的时间段里，我们可以获得被动收入。
+Tiến thêm một bước, giữa tài sản có thể mang lại thu nhập thụ động và tài sản không thể, ta cũng nên ưu tiên cái trước. Như vậy trong khoảng thời gian xử lý cái sau, ta vẫn có thu nhập thụ động.
 
-你看，只是简单调整项目完成的顺序，就可以获得更多收益，这就是规划的力量；也是我们花大篇幅来讲底层逻辑的原因。
+Bạn thấy đấy, chỉ đơn giản điều chỉnh thứ tự hoàn thành dự án là đã thu về nhiều lợi ích hơn — đó chính là sức mạnh của hoạch định; cũng là lý do chúng ta dành nhiều trang đến vậy để nói về logic nền tảng.

@@ -1,516 +1,516 @@
-# 产品构建:从零构建软件产品或服务
+# Xây dựng sản phẩm: Xây dựng sản phẩm hoặc dịch vụ phần mềm từ con số 0
 
-本文尝试完整地介绍一个软件类产品从规划到上线的全过程，希望能给你带来启发。内容节选和改写自[《精益副业》](https://github.com/easychen/lean-side-bussiness)。
+Bài viết này cố gắng giới thiệu trọn vẹn toàn bộ quá trình từ hoạch định đến ra mắt của một sản phẩm phần mềm, hy vọng mang lại cho bạn nguồn cảm hứng. Nội dung được trích lược và viết lại từ [《Lean Side Business》](https://github.com/easychen/lean-side-bussiness).
 
-产品流程
+Quy trình sản phẩm
 ----
 
 ![](images/image-106-1024x511.png)
 
-更适合一人企业的产品流程
+Quy trình sản phẩm phù hợp hơn với doanh nghiệp một người
 
-在本文中，我们采用的是优化后的、更适合一人企业的产品流程。其中「商业模式画布」步骤，建议换为更加有针对性的「[一人企业画布](https://ft07.com/opb-canvas-and-opb-report/)」。
+Trong bài viết này, chúng ta áp dụng quy trình sản phẩm đã được tối ưu hóa, phù hợp hơn với doanh nghiệp một người. Trong đó, bước「Business Model Canvas」nên được thay bằng「[Canvas doanh nghiệp một người](https://ft07.com/opb-canvas-and-opb-report/)」có tính nhắm đích cao hơn.
 
-这个流程和很多硅谷公司的产品流程很像，但是针对一人企业做了一些调整和优化。经过三年多时间的使用，我们自己用起来已经很顺手。
+Quy trình này rất giống với quy trình sản phẩm của nhiều công ty ở Silicon Valley, nhưng đã được điều chỉnh và tối ưu cho doanh nghiệp một người. Sau hơn ba năm sử dụng, bản thân chúng tôi đã dùng rất thuần thục.
 
-1.  首先定义价值主张，然后围绕着价值来设计商业模式画布。
-2.  完成画布以后，我们把画布里的「客户细分」部分拿出来，做成「用户画像」。这是一个将细分客户具体化、变得有血有肉的工具。
-3.  有了画像，再据此还原用户使用产品的各个场景，他们是用电脑还是用手机、是在家里还是在车上使用等等。
-4.  想象为了在上述场景下向用户传递价值，我们需要什么样的功能，这样就会得到一个功能列表。
-5.  功能列表会很长，不同功能的优先级也不同。所以我们会对功能进行分期，其中最重要也是最靠前的一个功能分期，就是用来开发「最小可行产品」的分期。
-6.  当「最小可行产品」开发完成后，进行「产品市场契合」的验证，如果达不到设定的验证目标，就需要调整功能，甚至重新设计价值主张。
-7.  当通过「产品市场契合」后，我们就可以按照分期迭代开发产品的其他功能了。
-8.  在迭代过程中，我们会持续对新上线的部分功能进行增长优化，保证每一部分功能达到预定的目标。
+1.  Trước tiên định nghĩa tuyên bố giá trị, sau đó thiết kế Business Model Canvas xoay quanh giá trị đó.
+2.  Sau khi hoàn thành canvas, chúng ta lấy phần「phân khúc khách hàng」trong canvas ra để xây dựng「chân dung người dùng」. Đây là công cụ giúp cụ thể hóa các phân khúc khách hàng, khiến họ trở nên có da có thịt.
+3.  Có chân dung rồi, ta dựa vào đó tái hiện các bối cảnh người dùng sử dụng sản phẩm: họ dùng máy tính hay điện thoại, dùng ở nhà hay trên xe, v.v.
+4.  Hình dung xem để truyền tải giá trị đến người dùng trong các bối cảnh nói trên, chúng ta cần những tính năng gì — như vậy sẽ có được một danh sách tính năng.
+5.  Danh sách tính năng sẽ rất dài, độ ưu tiên của các tính năng cũng khác nhau. Vì vậy chúng ta sẽ chia tính năng thành các giai đoạn, trong đó giai đoạn quan trọng nhất và đứng đầu tiên chính là giai đoạn dùng để phát triển「sản phẩm khả thi tối thiểu」(MVP).
+6.  Khi「sản phẩm khả thi tối thiểu」phát triển xong, tiến hành kiểm chứng「product-market fit」; nếu không đạt mục tiêu kiểm chứng đã đặt ra, cần điều chỉnh tính năng, thậm chí thiết kế lại tuyên bố giá trị.
+7.  Khi đã vượt qua「product-market fit」, chúng ta có thể phát triển lặp các tính năng còn lại của sản phẩm theo từng giai đoạn.
+8.  Trong quá trình phát triển lặp, chúng ta liên tục tối ưu tăng trưởng cho các tính năng mới ra mắt, đảm bảo mỗi phần tính năng đạt được mục tiêu định trước.
 
-以上就是我们为一人企业优化的精益流程，虽然讲起来比较多，但实际操作起来还是比较简单的。而且我们其实省略了不少大公司流程中的环节，比如用户访谈、焦点小组等。
+Trên đây là quy trình tinh gọn mà chúng tôi tối ưu cho doanh nghiệp một người; tuy kể ra thì khá dài dòng, nhưng thao tác thực tế lại tương đối đơn giản. Hơn nữa, chúng tôi thực ra đã lược bỏ không ít khâu trong quy trình của các công ty lớn, ví dụ như phỏng vấn người dùng, focus group v.v.
 
-项目简介
+Giới thiệu dự án
 ----
 
-先来介绍一下我们的实战项目 ------ 福利单词。
+Trước tiên xin giới thiệu dự án thực chiến của chúng ta ------ Fuli Words (福利单词).
 
-它来自于我在学习过程中的一个原生需求。最开始我是使用 Anki 这个软件来背单词，软件很好用，但是每次都有一种逼着自己去背的感觉，背完以后如释重负。为了提醒自己不要逃避，我还定了一个闹钟每天催自己。
+Nó xuất phát từ một nhu cầu tự nhiên của tôi trong quá trình học. Ban đầu tôi dùng phần mềm Anki để học từ vựng; phần mềm rất tốt, nhưng lần nào cũng có cảm giác như đang ép bản thân phải học, học xong thì nhẹ cả người. Để nhắc mình đừng trốn tránh, tôi còn đặt báo thức thúc giục bản thân mỗi ngày.
 
-有一天，我又因为上[Pixiv](https://www.pixiv.net/)（一个二次元内容创作社区）看图忘记了时间。突然间我想到，能不能把背单词和看图片这两个行为绑定到一起呢？
+Một hôm, tôi lại mải xem tranh trên [Pixiv](https://www.pixiv.net/) (một cộng đồng sáng tác nội dung anime/manga) mà quên mất thời gian. Bỗng nhiên tôi nghĩ: liệu có thể gắn hai hành vi học từ vựng và xem tranh lại với nhau không?
 
-你看，背单词虽然有用，但让我痛苦，度日如年；看图片很欢乐，流连忘返，但似乎不是很「有用」。如果我们把两者结合到一起，一边看图一边背单词，是不是就可以让背单词不那么难受，可以持续不断地背下去了？
+Bạn thấy đấy, học từ vựng tuy hữu ích nhưng khiến tôi khổ sở, một ngày dài như một năm; xem tranh thì vui vẻ, mê mải quên lối về, nhưng có vẻ không mấy「hữu ích」. Nếu ta kết hợp cả hai, vừa xem tranh vừa học từ, chẳng phải sẽ khiến việc học từ bớt khó chịu và có thể duy trì liên tục hay sao?
 
-这就是福利单词的出发点。
+Đó chính là điểm xuất phát của Fuli Words.
 
-接下来，我们就来看看，怎么从这个还有些模糊的想法中提出一个明确的价值主张，然后围绕它进行商业模式规划、功能和界面设计、验证和迭代开发，最终使其成为一个商业产品。
+Tiếp theo, chúng ta sẽ xem làm thế nào để từ ý tưởng còn mơ hồ này rút ra một tuyên bố giá trị rõ ràng, rồi xoay quanh nó tiến hành hoạch định mô hình kinh doanh, thiết kế tính năng và giao diện, kiểm chứng và phát triển lặp, cuối cùng biến nó thành một sản phẩm thương mại.
 
 ![](images/image-107.png)
 
-福利单词APP
+Ứng dụng Fuli Words
 
-需要说明的是，开发过程很难在有限的篇幅中讲解清楚，也偏离了本文的主题，所以我们只会简略地提及一些需要注意的地方，并不会进行开发的教学。
+Cần nói rõ rằng quá trình lập trình rất khó trình bày rõ ràng trong khuôn khổ có hạn, và cũng lệch khỏi chủ đề của bài viết, nên chúng tôi chỉ nhắc sơ qua một số điểm cần lưu ý chứ không dạy lập trình.
 
-第一步：商业模式规划
+Bước một: Hoạch định mô hình kinh doanh
 ----------
 
-首先我们通过商业模式画布来规划产品的商业模式。
+Trước tiên, chúng ta dùng Business Model Canvas để hoạch định mô hình kinh doanh của sản phẩm.
 
-### 价值主张
+### Tuyên bố giá trị
 
 ![](images/image-108-1024x373.png)
 
-福利单词的价值主张
+Tuyên bố giá trị của Fuli Words
 
-福利单词的核心价值主张在于为那些觉得学习英语充满挑战的人提供一种轻松愉悦的学习方式。其目标是通过增添学习过程中的乐趣来减轻学习者的压力，使本来短暂且困难的学习活动变得更加可持续和习惯化。
+Tuyên bố giá trị cốt lõi của Fuli Words là mang đến một cách học nhẹ nhàng, vui vẻ cho những người cảm thấy việc học tiếng Anh đầy thử thách. Mục tiêu là giảm áp lực cho người học bằng cách thêm niềm vui vào quá trình học, khiến hoạt động học vốn ngắn ngủi và khó khăn trở nên bền vững hơn và dễ thành thói quen hơn.
 
-因此，在「价值主张」部分，我们特别强调了两个关键点：「无痛学习」和「持续性学习」。这两点构成了该产品的核心价值。
+Vì vậy, trong phần「tuyên bố giá trị」, chúng ta đặc biệt nhấn mạnh hai điểm then chốt:「học không đau khổ」và「học liên tục」. Hai điểm này tạo nên giá trị cốt lõi của sản phẩm.
 
-有了这些价值主张，我们能够帮助客户克服以往阻碍他们学习的障碍，从而促进他们的个人成长和提升。
+Với những tuyên bố giá trị này, chúng ta có thể giúp khách hàng vượt qua những rào cản từng ngăn họ học tập, từ đó thúc đẩy sự trưởng thành và tiến bộ của cá nhân họ.
 
-### 客户细分
+### Phân khúc khách hàng
 
 ![](images/image-109-1024x463.png)
 
-福利单词的客户细分
+Phân khúc khách hàng của Fuli Words
 
-细化价值主张需要我们仔细考虑客户的细分。考虑到福利单词是一款学习软件，其目标客户群体自然与学习英语的需求密切相关。我们可以将目标客户分为三类：
+Việc cụ thể hóa tuyên bố giá trị đòi hỏi chúng ta cân nhắc kỹ các phân khúc khách hàng. Xét rằng Fuli Words là một phần mềm học tập, nhóm khách hàng mục tiêu của nó đương nhiên gắn chặt với nhu cầu học tiếng Anh. Ta có thể chia khách hàng mục tiêu thành ba nhóm:
 
-1.  需要备考大学英语四六级的大学生。
-2.  有留学或移民需求，需要准备雅思、托福考试的人群。
-3.  希望通过提高专业英语水平以在职场中取得更好表现的职场人士。
+1.  Sinh viên cần ôn thi chứng chỉ tiếng Anh đại học CET-4/CET-6.
+2.  Người có nhu cầu du học hoặc định cư, cần chuẩn bị cho kỳ thi IELTS, TOEFL.
+3.  Người đi làm muốn nâng cao trình độ tiếng Anh chuyên ngành để thể hiện tốt hơn nơi công sở.
 
-这三类客户的学习目的各有侧重，但通过提供「词库切换」或「自定义词库」功能，我们的软件能够灵活满足他们的需求。
+Ba nhóm khách hàng này có mục đích học tập với trọng tâm khác nhau, nhưng thông qua tính năng「chuyển đổi kho từ vựng」hoặc「kho từ vựng tùy chỉnh」, phần mềm của chúng ta có thể linh hoạt đáp ứng nhu cầu của họ.
 
-### 价值主张的细化
+### Cụ thể hóa tuyên bố giá trị
 
 ![](images/image-110-1024x527.png)
 
-细化后的福利单词价值主张
+Tuyên bố giá trị của Fuli Words sau khi cụ thể hóa
 
-仅仅提供词库供用户学习，并不能使我们的软件与众不同。因此，我们在价值主张中追加他们难以抗拒的部分------「糖」。
+Chỉ cung cấp kho từ vựng cho người dùng học thì không thể khiến phần mềm của chúng ta khác biệt. Vì vậy, trong tuyên bố giá trị, chúng ta bổ sung phần khiến họ khó lòng cưỡng lại ------「kẹo ngọt」.
 
-然而，对不同的用户群体而言，「糖」的含义并不相同。
+Tuy nhiên, với các nhóm người dùng khác nhau, ý nghĩa của「kẹo ngọt」không giống nhau.
 
-如果只是放一些二次元的萌妹子，只有喜欢动漫的人会觉得这是他们的「糖」，可以吸引着他们，每天都来看一看。对于其他一些二次元无感的人群来讲，这些图就毫无吸引力，所以我们需要增加「糖」的种类。比方说有的妹子就喜欢看帅哥、有的粉丝就喜欢看偶像、有的铲屎官就喜欢看猫猫狗狗、有的吃货就喜欢看肉和甜点。这一部分，我们可以用多图库的方式来满足。
+Nếu chỉ đăng vài cô nàng dễ thương phong cách anime, thì chỉ những người thích anime mới thấy đó là「kẹo」của họ, mới bị thu hút mà ngày nào cũng vào xem. Với những người không hứng thú với anime, những bức tranh đó chẳng hấp dẫn chút nào, nên chúng ta cần tăng chủng loại「kẹo」. Ví dụ, có cô nàng thích ngắm trai đẹp, có fan thích ngắm thần tượng, có「con sen」thích ngắm chó mèo, có tín đồ ẩm thực thích ngắm thịt nướng và bánh ngọt. Phần này, ta có thể đáp ứng bằng cách làm nhiều thư viện ảnh.
 
-据此，我们为不同的客户细分制定更具体的价值主张：
+Dựa vào đó, chúng ta đặt ra tuyên bố giá trị cụ thể hơn cho từng phân khúc khách hàng:
 
-1.  「每天看40分钟妹子，一个月记住四六级词汇」
-2.  「看着帅哥，把雅思托福词汇搞定」
-3.  「一边云吸猫一边升职加薪」
+1.  「Mỗi ngày ngắm gái xinh 40 phút, một tháng thuộc hết từ vựng CET-4/6」
+2.  「Vừa ngắm trai đẹp, vừa chinh phục từ vựng IELTS/TOEFL」
+3.  「Vừa hít mèo online vừa thăng chức tăng lương」
 
-现在听起来是不是就有吸引力多了？
+Nghe như vậy chẳng phải hấp dẫn hơn nhiều sao?
 
-### 渠道通路
+### Kênh tiếp cận
 
 ![](images/image-111-1024x577.png)
 
-福利单词的渠道通路
+Kênh tiếp cận của Fuli Words
 
-在「渠道通路」方面，我们计划通过微博引入种子用户。通过对种子用户的测试反馈，一旦产品转化率达到预期标准，我们便会展开更广泛的合作并通过微博启动广告投放，以此来衡量广告成本与带来的流量效果。
+Về「kênh tiếp cận」, chúng ta dự định dẫn người dùng hạt giống về qua Weibo. Thông qua phản hồi thử nghiệm từ người dùng hạt giống, một khi tỷ lệ chuyển đổi của sản phẩm đạt tiêu chuẩn kỳ vọng, chúng ta sẽ triển khai hợp tác rộng hơn và khởi động quảng cáo trên Weibo, qua đó đo lường chi phí quảng cáo so với hiệu quả lưu lượng mang lại.
 
-### 客户关系
+### Quan hệ khách hàng
 
 ![](images/image-112-1024x560.png)
 
-福利单词的客户关系
+Quan hệ khách hàng của Fuli Words
 
-为了维护良好的客户关系，我们将利用腾讯的「兔小巢」工具提供售后支持。这样，用户可以方便地提交反馈，而我们则能通过微信或者QQ等多种渠道及时响应。
+Để duy trì quan hệ khách hàng tốt, chúng ta sẽ dùng công cụ「TuXiaoChao」(兔小巢) của Tencent để hỗ trợ sau bán hàng. Như vậy, người dùng có thể gửi phản hồi thuận tiện, còn chúng ta có thể phản hồi kịp thời qua nhiều kênh như WeChat hay QQ.
 
-### 关键活动
+### Hoạt động then chốt
 
 ![](images/image-113-1024x537.png)
 
-福利单词的关键活动
+Hoạt động then chốt của Fuli Words
 
-在关键活动方面，最小可行产品（MVP）的初版应包含基础的背单词功能、100个单词与相对应的图片，以及简单的互动式学习模块。此外，我们还需要关注用户的学习数据，以验证我们的价值主张。
+Về hoạt động then chốt, phiên bản đầu của sản phẩm khả thi tối thiểu (MVP) nên bao gồm tính năng học từ vựng cơ bản, 100 từ cùng hình ảnh tương ứng, và một module học tương tác đơn giản. Ngoài ra, chúng ta còn cần quan tâm dữ liệu học tập của người dùng để kiểm chứng tuyên bố giá trị của mình.
 
-在MVP验证成功后，我们将开发网页版应用，作为第一阶段的产品发布。此阶段的关键功能包括背单词界面和词库选择功能。为了实现收益，我们还将引入支付和订单系统，并开发分析工具以优化转化过程。
+Sau khi MVP kiểm chứng thành công, chúng ta sẽ phát triển ứng dụng bản web, làm bản phát hành sản phẩm của giai đoạn một. Các tính năng then chốt của giai đoạn này gồm giao diện học từ vựng và tính năng chọn kho từ vựng. Để tạo doanh thu, chúng ta còn đưa vào hệ thống thanh toán và đơn hàng, đồng thời phát triển công cụ phân tích để tối ưu quá trình chuyển đổi.
 
-### 关键资源
+### Nguồn lực then chốt
 
 
 
-福利单词的关键资源
+Nguồn lực then chốt của Fuli Words
 
-关键资源方面，除了人力、资金和时间外，我们还需特别注意用于背单词的图片资源。尤其是在收费环节，我们必须确保图片资源的合法使用。
+Về nguồn lực then chốt, ngoài nhân lực, vốn và thời gian, chúng ta còn phải đặc biệt lưu ý nguồn hình ảnh dùng cho việc học từ vựng. Nhất là ở khâu thu phí, chúng ta phải đảm bảo sử dụng hợp pháp nguồn hình ảnh.
 
-在最小可用产品中，因为不涉及到收费，我们可以使用的图片很多。一旦开始收费，如果还是不加识别地从网上下载各种版权不明的图片，放到自己软件里并以收费的方式进行售卖，很可能会出现侵权。
+Trong sản phẩm khả thi tối thiểu, vì chưa liên quan đến thu phí, chúng ta có thể dùng rất nhiều hình ảnh. Nhưng một khi bắt đầu thu phí, nếu vẫn tải bừa các hình ảnh không rõ bản quyền trên mạng, đưa vào phần mềm của mình rồi bán dưới hình thức thu phí, rất có thể sẽ vi phạm bản quyền.
 
-所以，我们就需要思考图片资源的解决方案。粗略分析后，有以下几种思路：
+Vì vậy, chúng ta cần suy nghĩ về phương án giải quyết nguồn hình ảnh. Sau khi phân tích sơ bộ, có mấy hướng sau:
 
-1.  作者授权
-2.  换用无版权图片
-3.  用户自行提供图片
+1.  Xin tác giả cấp quyền
+2.  Chuyển sang dùng hình ảnh không bản quyền
+3.  Người dùng tự cung cấp hình ảnh
 
-#### 作者授权
+#### Xin tác giả cấp quyền
 
-直接找作者把图片买下来，然后作为付费词库卖给用户，这是最直接的方式。但有问题，那就是价格，光是大一点的词库就有超过一万个单词，也就是说我们要买一万多张图。如果按一张图 50 元计算，需要 50 万的投入。
+Trực tiếp tìm tác giả mua lại hình ảnh, rồi bán cho người dùng dưới dạng kho từ vựng trả phí — đây là cách trực tiếp nhất. Nhưng có vấn đề, đó là giá cả: chỉ riêng một kho từ vựng cỡ lớn đã có hơn mười nghìn từ, nghĩa là chúng ta phải mua hơn mười nghìn bức ảnh. Nếu tính 50 tệ một ảnh, cần đầu tư 500 nghìn tệ.
 
-在一分钱都还没挣之前就做出这么大的投入，风险还是很高的。这种方式更适合我们挣到钱以后，在扩大规模时使用。
+Khi còn chưa kiếm được một xu mà đã bỏ ra khoản đầu tư lớn như vậy thì rủi ro vẫn rất cao. Cách này phù hợp hơn để dùng khi chúng ta đã kiếm được tiền và muốn mở rộng quy mô.
 
-#### 换用无版权图片
+#### Chuyển sang dùng hình ảnh không bản quyền
 
-当然，我们也可以寻找无版权的图片来做图库。这样即使我们打包在软件里进行商业销售也不会有任何问题。互联网上已经有比较庞大的无版权高清图库了，比如 [Unsplash](https://unsplash.com/) 等。不过这些图库主要是风景和动物，人物类非常少。
+Tất nhiên, chúng ta cũng có thể tìm hình ảnh không bản quyền để làm thư viện ảnh. Như vậy dù có đóng gói vào phần mềm để bán thương mại cũng không có vấn đề gì. Trên Internet đã có những kho ảnh HD không bản quyền khá đồ sộ, ví dụ [Unsplash](https://unsplash.com/). Có điều các kho ảnh này chủ yếu là phong cảnh và động vật, ảnh người thì rất ít.
 
-#### 用户自行提供图片
+#### Người dùng tự cung cấp hình ảnh
 
-本质而言，我们卖的是「看图背词」的工具，而不是图片本身。现在之所以在版权上有风险，是因为打包导致的。所以我们可以尝试着将付费的服务和免费的图片分离开。
+Về bản chất, thứ chúng ta bán là công cụ「xem ảnh học từ」chứ không phải bản thân hình ảnh. Sở dĩ hiện có rủi ro về bản quyền là do việc đóng gói gây ra. Vậy nên ta có thể thử tách dịch vụ trả phí và hình ảnh miễn phí ra khỏi nhau.
 
-比如我们可以给用户提供自定义图库的制作工具，让他们把自己收藏的图片导入进去。这样既能达到目的，又没有版权上的风险。
+Ví dụ, chúng ta có thể cung cấp cho người dùng công cụ tạo thư viện ảnh tùy chỉnh, để họ tự nhập các hình ảnh mình sưu tầm vào. Như vậy vừa đạt được mục đích, vừa không có rủi ro bản quyền.
 
-类似需要考虑的，还有背单词时用到的音频。最简单粗暴的方式是使用云平台的TTS（文字转语音）接口直接生成。
+Điều tương tự cần cân nhắc là phần âm thanh dùng khi học từ vựng. Cách đơn giản thô sơ nhất là dùng API TTS (chuyển văn bản thành giọng nói) của các nền tảng cloud để sinh trực tiếp.
 
-### 成本与收益
+### Chi phí và doanh thu
 
 ![](images/image-115-1024x413.png)
 
-福利单词的成本和收益
+Chi phí và doanh thu của Fuli Words
 
-最后，通过填补商业模式画布的相关部分，我们可以开始对成本和收益进行预估，以计算预期利润区间。
+Cuối cùng, bằng cách điền nốt các phần liên quan của Business Model Canvas, chúng ta có thể bắt đầu ước tính chi phí và doanh thu để tính ra khoảng lợi nhuận kỳ vọng.
 
-由于我们开发的项目相对比较小，用到的资源也不是特别的多，所以商业模式画布做得还不算细致。不过通常来讲，第一版的商业模式，画布本身也不会特别细。它是随着项目的进展不断被细化的。
+Do dự án chúng ta phát triển tương đối nhỏ, nguồn lực dùng đến cũng không nhiều lắm, nên Business Model Canvas làm chưa thật chi tiết. Nhưng thông thường, canvas mô hình kinh doanh phiên bản đầu tiên vốn cũng không quá chi tiết. Nó sẽ được cụ thể hóa dần theo tiến độ dự án.
 
-最后我们来看看完整的商业模式画布：
+Cuối cùng hãy xem Business Model Canvas hoàn chỉnh:
 
 ![](images/image-116-1024x659.png)
 
-福利单词的完整商业画布
+Business Model Canvas hoàn chỉnh của Fuli Words
 
-第二步：为细分客户建立用户画像
+Bước hai: Xây dựng chân dung người dùng cho các phân khúc khách hàng
 ---------------
 
-### 什么是用户画像
+### Chân dung người dùng là gì
 
-在商业模式画布里面，我们对客户进行了细分，把客户分成了不同的组，每一组代表一个独立的需求。
+Trong Business Model Canvas, chúng ta đã phân khúc khách hàng, chia khách hàng thành các nhóm khác nhau, mỗi nhóm đại diện cho một nhu cầu độc lập.
 
-用户画像（persona）呢，就是给这些已经分好的组，每一组搞一个人设、建一个虚拟形象，让其变得有血有肉、有姓名有年龄有性别、有自己的身份有自己的爱好、有使用产品的场景。
+Chân dung người dùng (persona) chính là việc tạo cho mỗi nhóm đã phân sẵn đó một nhân vật, dựng một hình tượng ảo, khiến nó trở nên có da có thịt — có tên tuổi, có giới tính, có thân phận riêng, có sở thích riêng, có bối cảnh sử dụng sản phẩm.
 
-这样当我们聊到这个用户画像的时候，就像在讲自己的朋友、同事一般熟悉的人一样。
+Như vậy, khi nhắc đến chân dung người dùng này, ta như đang nói về một người quen thuộc như bạn bè, đồng nghiệp của mình.
 
-把抽象的需求变成活灵活现的人，这样我们在进行产品设计的时候，就更容易还原到场景，带着画面去想象这个人的需求和行动，这就是用户画像的意义。
+Biến nhu cầu trừu tượng thành con người sống động — nhờ vậy khi thiết kế sản phẩm, ta dễ tái hiện bối cảnh hơn, mang theo hình ảnh trong đầu để hình dung nhu cầu và hành động của người đó. Đây chính là ý nghĩa của chân dung người dùng.
 
-### 福利单词的用户画像
+### Chân dung người dùng của Fuli Words
 
-接下来，我们就在福利单词的客户细分基础上，为每一类客户建立用户画像。
+Tiếp theo, dựa trên phân khúc khách hàng của Fuli Words, chúng ta xây dựng chân dung người dùng cho từng nhóm khách hàng.
 
-#### 四六级备考生
+#### Sinh viên ôn thi CET-4/6
 
-首先是备考四六级的大学生这个细分客户群。我们叫他王小康，设定为一个大三的男生。他现在有一个迫切的任务，就是一定要通过四级考试。这位同学是一个动漫宅，他喜欢看的图就是二次元的萌妹子。
+Đầu tiên là nhóm khách hàng sinh viên ôn thi CET-4/6. Chúng ta gọi cậu ấy là Wang Xiaokang, đặt là một nam sinh năm ba. Cậu hiện có một nhiệm vụ cấp bách: nhất định phải vượt qua kỳ thi CET-4. Cậu bạn này là một otaku mê anime, loại ảnh cậu thích xem là các cô nàng dễ thương phong cách anime.
 
-#### 留学移民预备军
+#### Đội ngũ dự bị du học, định cư
 
-然后我们来给有留学移民需求、需要考雅思和托福的人群做一个用户画像。我们叫她章小留，她是一个大学刚毕业一年的女生，现在有出国留学的想法，正在准备雅思考试。这位同学是追星族，喜欢看的图片是韩国帅哥。
+Tiếp theo, chúng ta xây dựng chân dung người dùng cho nhóm có nhu cầu du học, định cư, cần thi IELTS và TOEFL. Chúng ta gọi cô ấy là Zhang Xiaoliu, một cô gái mới tốt nghiệp đại học được một năm, hiện có ý định du học và đang chuẩn bị cho kỳ thi IELTS. Cô bạn này là fan hâm mộ thần tượng, loại ảnh cô thích xem là trai đẹp Hàn Quốc.
 
-#### 专业提升小白领
+#### Nhân viên văn phòng nâng cao chuyên môn
 
-第三个细分人群的用户画像，我们叫她卢小白，是一个毕业两年左右的女生。在生物公司从事技术相关的工作，她需要尽快熟悉大量的生物专业方向的英文单词，方便她更好地了解公司业务。她家里有猫，喜欢看的图片是萌宠和美食。
+Chân dung người dùng của nhóm thứ ba, chúng ta gọi cô ấy là Lu Xiaobai, một cô gái tốt nghiệp khoảng hai năm, làm công việc liên quan đến kỹ thuật tại một công ty sinh học. Cô cần nhanh chóng làm quen với lượng lớn từ vựng tiếng Anh chuyên ngành sinh học để hiểu rõ hơn về nghiệp vụ của công ty. Nhà cô nuôi mèo, loại ảnh cô thích xem là thú cưng dễ thương và ẩm thực.
 
-确定了这三个用户画像的基本资料以后，我们会给他们配上头像，写上他们的需求关键字，把它整理到一页A4纸上。
+Sau khi xác định thông tin cơ bản của ba chân dung người dùng này, chúng ta sẽ gắn ảnh đại diện cho họ, ghi các từ khóa nhu cầu của họ, rồi sắp xếp tất cả lên một trang giấy A4.
 
-这样我们就可以把它打印出来，贴到墙上，在做产品设计的时候可以随时去看他们，就像看着我们身边的熟人一样。
+Như vậy ta có thể in ra, dán lên tường, để khi thiết kế sản phẩm có thể nhìn họ bất cứ lúc nào, như nhìn những người quen quanh mình.
 
-### 画像的头像制作
+### Tạo ảnh đại diện cho chân dung
 
-很多书里面都强调说，用户画像的头像要尽可能真实，最好用真人头像。但需要注意在网上乱找真人头像容易导致肖像权问题，这里给大家推荐一个通过AI生成真人头像的网站，叫做 thispersondoesnotexist.com。
+Nhiều cuốn sách nhấn mạnh rằng ảnh đại diện của chân dung người dùng nên chân thực nhất có thể, tốt nhất là dùng ảnh người thật. Nhưng cần lưu ý rằng tìm bừa ảnh người thật trên mạng dễ dẫn đến vấn đề quyền hình ảnh cá nhân. Ở đây xin giới thiệu với các bạn một trang web tạo ảnh chân dung người thật bằng AI, tên là thispersondoesnotexist.com.
 
 ![](images/image-117-1024x861.png)
 
 thispersondoesnotexist.com
 
-不过这个网站生成的多是欧美人，对国内的产品来讲，反而各种违和。我更喜欢使用日系的动漫捏脸网站来做，比如 [charat.me](https://charat.me/) 这个网站。
+Có điều trang này tạo ra chủ yếu là người Âu Mỹ, với sản phẩm trong nước thì lại thấy lệch tông đủ kiểu. Tôi thích dùng các trang web tạo khuôn mặt anime kiểu Nhật hơn, ví dụ trang [charat.me](https://charat.me/).
 
 ![](images/image-118-1024x948.png)
 
 charat.me
 
-### 最终的用户画像
+### Chân dung người dùng hoàn chỉnh
 
-有了头像，再配上角色的说明和需求关键字，我们就有了一个简单好用的用户画像。下边是我们制作好的三个画像：
+Có ảnh đại diện, thêm phần mô tả nhân vật và từ khóa nhu cầu, chúng ta đã có một chân dung người dùng đơn giản mà hữu dụng. Dưới đây là ba chân dung chúng ta đã làm xong:
 
 ![](images/image-119-1024x769.png)
 
-用户画像：王小康
+Chân dung người dùng: Wang Xiaokang
 
 ![](images/image-120-1024x768.png)
 
-用户画像：章小留
+Chân dung người dùng: Zhang Xiaoliu
 
 ![](images/image-121-1024x767.png)
 
-用户画像：卢小白
+Chân dung người dùng: Lu Xiaobai
 
-第三步：画像→场景→功能和分期
+Bước ba: Chân dung → Bối cảnh → Tính năng và phân kỳ
 ---------------
 
-### 使用场景分析
+### Phân tích bối cảnh sử dụng
 
-有了栩栩如生的用户画像，我们就可以从画像想象出场景，再由场景梳理出功能列表并进行分期。下边我们就具体来看下怎么分析使用场景。
+Có được chân dung người dùng sống động, chúng ta có thể từ chân dung hình dung ra bối cảnh, rồi từ bối cảnh chắt lọc ra danh sách tính năng và tiến hành phân kỳ. Dưới đây, ta sẽ xem cụ thể cách phân tích bối cảnh sử dụng.
 
-#### 王小康的使用场景分析
+#### Phân tích bối cảnh sử dụng của Wang Xiaokang
 
-首先是王小康的使用场景，包括在学生宿舍、在图书馆以及在课堂上。
+Trước tiên là bối cảnh sử dụng của Wang Xiaokang, bao gồm ở ký túc xá, ở thư viện và trên lớp học.
 
-在宿舍，他每天晚上八点到九点使用台式机。因为宿舍比较吵，他会戴着耳机学习。这时候他使用的是外接键盘。
+Ở ký túc xá, mỗi tối từ tám đến chín giờ cậu dùng máy tính để bàn. Vì ký túc xá khá ồn, cậu sẽ đeo tai nghe khi học. Lúc này cậu dùng bàn phím rời.
 
-晚上睡觉之前，他还会窝在被窝里玩一会儿手机，时间大概是晚上十一点半到十二点，也就是睡觉前的半个小时，这时候的使用场景就是用手机背单词。
+Trước khi ngủ, cậu còn cuộn trong chăn nghịch điện thoại một lúc, khoảng từ mười một giờ rưỡi đến mười hai giờ đêm, tức nửa tiếng trước khi ngủ; bối cảnh sử dụng lúc này là học từ vựng bằng điện thoại.
 
-图书馆也是一个典型场景，因为在这个环境里边，需要保持安静。所以你要么戴耳机，要么将设备调成静音。王小康一般是下午三点到五点去图书馆自习，这个时候他使用的是笔记本电脑和 iPad 。
+Thư viện cũng là một bối cảnh điển hình, vì trong môi trường này cần giữ yên tĩnh. Nên bạn hoặc đeo tai nghe, hoặc chuyển thiết bị sang chế độ im lặng. Wang Xiaokang thường tự học ở thư viện từ ba đến năm giờ chiều, lúc này cậu dùng laptop và iPad.
 
-需要注意的是使用 iPad 的时候是没有键盘的，所以在输入上面没有使用外接键盘方便，整体输入速度会下降很多。
+Cần lưu ý rằng khi dùng iPad thì không có bàn phím, nên việc nhập liệu không thuận tiện bằng bàn phím rời, tốc độ nhập tổng thể sẽ giảm đi nhiều.
 
-图书馆和学生宿舍是两个相当不同的场景。宿舍里很可能有室友在玩游戏或者聊天，很容易分心，甚至连背单词这件事都很容易忘掉，所以我们需要有提醒。
+Thư viện và ký túc xá là hai bối cảnh khá khác nhau. Trong ký túc xá rất có thể có bạn cùng phòng đang chơi game hoặc tán gẫu, rất dễ phân tâm, thậm chí quên luôn cả việc học từ vựng, nên chúng ta cần có tính năng nhắc nhở.
 
-相对而言，图书馆就是安静的沉浸式环境，没有人来打扰你，大家都在忙着学自己的东西。
+Ngược lại, thư viện là môi trường yên tĩnh, đắm chìm, không ai quấy rầy bạn, mọi người đều đang bận học phần của mình.
 
-#### 章小留的使用场景分析
+#### Phân tích bối cảnh sử dụng của Zhang Xiaoliu
 
-下面我们来做章小留的场景分析。
+Tiếp theo, ta phân tích bối cảnh của Zhang Xiaoliu.
 
-她现在辞职在家，完全是备考的状态。每天上午会在家学网课、或者去线下的培训班学习，下午会在家学词汇。晚上的话，可能要看韩剧。
+Cô hiện đã nghỉ việc ở nhà, hoàn toàn trong trạng thái ôn thi. Mỗi sáng cô học khóa học online tại nhà hoặc đến lớp luyện thi offline, buổi chiều học từ vựng ở nhà. Buổi tối thì có thể xem phim Hàn.
 
-主要场景在学词汇的下午。因为是在家里边，她使用的是台式机，鼠标和键盘都是外接的。每天早上起床的时候可能也需要复习一下。
+Bối cảnh chính là buổi chiều học từ vựng. Vì ở nhà, cô dùng máy tính để bàn, chuột và bàn phím đều là loại rời. Mỗi sáng thức dậy có thể cũng cần ôn lại một chút.
 
-所以她的两个主要使用场景是使用电脑学习，以及早上起床时用手机进行复习。
+Vậy nên hai bối cảnh sử dụng chính của cô là học bằng máy tính, và ôn tập bằng điện thoại khi mới ngủ dậy buổi sáng.
 
-实际上，这个场景和王小康在晚上用手机复习的场景非常类似，可以都写上，最后进行功能合并时，重复的内容会被合并掉。
+Thực ra bối cảnh này rất giống bối cảnh Wang Xiaokang ôn bài bằng điện thoại buổi tối; ta cứ ghi cả vào, đến khi gộp tính năng ở bước cuối, các nội dung trùng lặp sẽ được gộp lại.
 
-同时，因为这两个用户都是在备考，所以他们其实还有「考试复习」这个特殊场景。
+Đồng thời, vì cả hai người dùng này đều đang ôn thi, họ thực ra còn có một bối cảnh đặc thù là「ôn tập cho kỳ thi」.
 
-在这个场景里，它的词库是有范围的，不一定是整个词库。而背单词的时候，需要有一个考试模式，限时答题，并给出得分。这些需求我们不一定都要通过福利单词这个产品来满足，但可以先写下来。
+Trong bối cảnh này, kho từ vựng có phạm vi nhất định, không nhất thiết là toàn bộ kho từ. Còn khi học từ, cần có một chế độ thi: trả lời trong thời gian giới hạn và cho điểm. Những nhu cầu này không nhất thiết đều phải thỏa mãn qua sản phẩm Fuli Words, nhưng có thể ghi lại trước.
 
-#### 卢小白的使用场景分析
+#### Phân tích bối cảnh sử dụng của Lu Xiaobai
 
-小白是上班族，所以学习时间是非常有限的，主要是在上下班通勤的时候学习，以及在周末的时候有一点空余时间。
+Xiaobai là dân văn phòng, nên thời gian học rất hạn hẹp, chủ yếu học trong lúc đi lại giữa nhà và công ty, và có chút thời gian rảnh vào cuối tuần.
 
-通勤场景一般会在地铁上。运气好的时候就有座位，运气不好的时候还需要站立着。这时候她会使用手机和耳机来学习。
+Bối cảnh thông thường là trên tàu điện ngầm. May mắn thì có chỗ ngồi, không may thì phải đứng. Lúc này cô dùng điện thoại và tai nghe để học.
 
-因为她的词汇学习主要是为了工作需要，所以在工作的时候可能还会有查词的需求，可以通过词典软件解决，但是她可能会想把生词加入到福利单词来记忆。
+Vì việc học từ vựng của cô chủ yếu phục vụ nhu cầu công việc, nên trong lúc làm việc có thể còn phát sinh nhu cầu tra từ — có thể giải quyết bằng phần mềm từ điển, nhưng cô có lẽ sẽ muốn thêm từ mới vào Fuli Words để ghi nhớ.
 
-大部分时间地铁里是很挤的，有时候需要一个手扶住上面的吊环或者旁边的柱子，所以小白可能需要单手操作。
+Phần lớn thời gian tàu điện ngầm rất đông, đôi khi phải một tay bám vào tay vịn phía trên hoặc cột bên cạnh, nên Xiaobai có thể cần thao tác bằng một tay.
 
-另外要意识到小白只是一个典型代表，她需要的是生物类的词汇，但是其他的上班族需要的词汇可能会覆盖各行各业，这部分的词库需要通过自定义词库来解决。
+Ngoài ra cần ý thức rằng Xiaobai chỉ là một đại diện điển hình: cô cần từ vựng ngành sinh học, nhưng những người đi làm khác có thể cần từ vựng của đủ mọi ngành nghề; phần kho từ này cần giải quyết bằng kho từ vựng tùy chỉnh.
 
-同时，小白很喜欢宠物，当她看见可爱的喵星人时，很可能希望将这个图片保存到相册。这里如果再结合到我们上面的考试模式的话，其实可以做得更游戏化一些。比如说我们可以加入一个图鉴，就是一个画册，里边有每一个单词对应的图。只有你对这个单词达到一定的熟练度以后，才能在里边看见。大体上这就是小白的使用场景。
+Đồng thời, Xiaobai rất thích thú cưng; khi nhìn thấy một chú mèo đáng yêu, rất có thể cô muốn lưu bức ảnh đó vào album. Ở đây nếu kết hợp thêm với chế độ thi ở trên, thực ra ta có thể làm mang tính trò chơi hơn nữa. Ví dụ, ta có thể thêm một bộ sưu tập minh họa — một cuốn album — trong đó có hình tương ứng với từng từ. Chỉ khi bạn đạt độ thành thạo nhất định với từ đó, bạn mới thấy được hình trong đó. Đại thể đó là bối cảnh sử dụng của Xiaobai.
 
-### 从场景到功能
+### Từ bối cảnh đến tính năng
 
-现在我们三个用户画像的使用场景已经分析完了。接下来，我们就可以根据场景来确定功能了。也就是说，为了满足这些场景下的需求，我们在产品上需要提供哪些功能来支撑。
+Giờ đây bối cảnh sử dụng của ba chân dung người dùng đã phân tích xong. Tiếp theo, ta có thể dựa vào bối cảnh để xác định tính năng. Tức là, để thỏa mãn nhu cầu trong những bối cảnh này, sản phẩm cần cung cấp những tính năng gì để hỗ trợ.
 
-在确定功能的时候，有两类需要特别注意。一类是核心功能，没有它，所有画像都没法使用我们的产品。另一类是边界功能，没有它，某一个画像就没法使用我们的产品。核心功能是交集、边界功能是并集。
+Khi xác định tính năng, có hai loại cần đặc biệt lưu ý. Một là tính năng cốt lõi: thiếu nó thì mọi chân dung đều không dùng được sản phẩm của chúng ta. Loại kia là tính năng biên: thiếu nó thì một chân dung nào đó không dùng được sản phẩm. Tính năng cốt lõi là phần giao, tính năng biên là phần hợp.
 
-我们会根据画像的设定，将一些边界功能分配给他们。比如说，为什么卢小白她就会想保存图片到相册，章小留就不会呢？事实上章小留也会，但我们不需要把一个边界功能重复分配，因为最终都会覆盖到。
+Chúng ta sẽ dựa theo thiết lập của các chân dung mà phân bổ một số tính năng biên cho họ. Ví dụ, tại sao Lu Xiaobai lại muốn lưu ảnh vào album, còn Zhang Xiaoliu thì không? Thực tế Zhang Xiaoliu cũng muốn, nhưng ta không cần phân bổ lặp lại một tính năng biên, vì cuối cùng đều sẽ được bao phủ.
 
-画像需要注意的是它特有的场景，比如考试模式是备考生的特有场景。对于不考试的同学来说有没有都无所谓，但是对考试的同学是非常有用的。
+Với chân dung, điều cần chú ý là bối cảnh đặc thù của nó, ví dụ chế độ thi là bối cảnh riêng của người ôn thi. Với người không thi thì có hay không cũng chẳng sao, nhưng với người thi thì rất hữu ích.
 
-我们把边界功能标记出来以后，就可以框定一个大体的功能范围。
+Sau khi đánh dấu các tính năng biên, ta có thể khoanh vùng phạm vi tính năng tổng thể.
 
-比如说，章小留使用的是苹果台式机，这就要PC版需要同时支持 Windows 和 Mac 两个操作系统。路小白上下班通勤的时候是单手操作，我们在手机上设计浮动键盘时，就要考虑到小屏幕手机上26键的全键盘单手时容易按错的问题。
+Ví dụ, Zhang Xiaoliu dùng máy tính để bàn của Apple, điều này đòi hỏi bản PC phải hỗ trợ đồng thời hai hệ điều hành Windows và Mac. Lu Xiaobai thao tác một tay khi đi làm về, nên khi thiết kế bàn phím nổi trên điện thoại, ta phải tính đến vấn đề bàn phím đầy đủ 26 phím trên điện thoại màn hình nhỏ dễ bấm nhầm khi dùng một tay.
 
-对于卢小白来讲，她的空余时间不多，所以可能还会利用家务和健身的时间，这个时候如果她想复习单词，可能还有一个语音播报的需求。
+Với Lu Xiaobai, thời gian rảnh của cô không nhiều, nên có thể còn tận dụng lúc làm việc nhà và tập thể dục; lúc đó nếu muốn ôn từ vựng, có thể còn có nhu cầu đọc từ bằng giọng nói.
 
-章小留是追星族，那她在网上看韩剧的时候，会顺便把喜欢的偶像的图片给保存下来，制作成词库，甚至还会分享给同好。
+Zhang Xiaoliu là fan thần tượng, nên khi xem phim Hàn trên mạng, cô sẽ tiện tay lưu lại ảnh thần tượng mình thích, làm thành kho từ vựng, thậm chí còn chia sẻ cho những người cùng sở thích.
 
-这些都是边界功能。在早期设计的时候，可以先不考虑工期、开发量这些很现实的问题，我们可以先把它放进来思考，至于做不做、什么时候做，那是以后的事情。
+Đây đều là các tính năng biên. Ở giai đoạn thiết kế ban đầu, ta có thể tạm chưa xét đến những vấn đề thực tế như tiến độ, khối lượng phát triển; cứ đưa chúng vào để suy nghĩ trước, còn có làm hay không, khi nào làm, đó là chuyện về sau.
 
-我们要做的东西在早期应该尽可能的少，但是思考的范围却应该尽可能的广。我们是把很多东西都想明白了以后，选其中最核心的、最重要的来做。而不是说很多东西我压根就不想，只做眼前看到的那一丁点就开始做了。这样到项目中期，就会出现很多思考上的盲点，这些盲点甚至会导致我们的项目重做，所以需要尽可能避免。
+Thứ chúng ta làm ở giai đoạn đầu nên ít nhất có thể, nhưng phạm vi suy nghĩ lại nên rộng nhất có thể. Chúng ta nghĩ cho thấu đáo rất nhiều thứ rồi mới chọn phần cốt lõi nhất, quan trọng nhất để làm. Chứ không phải rất nhiều thứ ta chẳng buồn nghĩ, chỉ làm chút xíu trước mắt rồi bắt tay vào luôn. Như vậy đến giữa dự án sẽ xuất hiện nhiều điểm mù trong tư duy, những điểm mù này thậm chí có thể khiến dự án phải làm lại, nên cần tránh hết mức.
 
-#### [通过思维导图梳理功能](http://r.ftqq.com/lean-side-bussiness/040305.html#%E9%80%9A%E8%BF%87%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%A2%B3%E7%90%86%E5%8A%9F%E8%83%BD)
+#### [Chắt lọc tính năng bằng sơ đồ tư duy](http://r.ftqq.com/lean-side-bussiness/040305.html#%E9%80%9A%E8%BF%87%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%A2%B3%E7%90%86%E5%8A%9F%E8%83%BD)
 
-我们可以通过思维导图软件来梳理功能。
+Chúng ta có thể dùng phần mềm sơ đồ tư duy để chắt lọc tính năng.
 
-想象一下新用户从什么地方开始使用我们的软件，跟着他的使用流程来同步构建功能。
+Hãy hình dung người dùng mới bắt đầu dùng phần mềm của chúng ta từ đâu, rồi theo luồng sử dụng của họ mà xây dựng tính năng song song.
 
-比如说，首先会需要有一个用户系统，这样我们才能识别用户。接着我们肯定需要有词库，不然就没有单词可以背了。我们肯定也需要有单词的背诵、管理，如果我们要收费的话，肯定还需要有支付。
+Ví dụ, trước hết cần có hệ thống người dùng để chúng ta nhận diện người dùng. Tiếp đó chắc chắn cần có kho từ vựng, không thì chẳng có từ nào để học. Đương nhiên cũng cần có phần học từ, quản lý từ; nếu muốn thu phí thì chắc chắn còn cần có thanh toán.
 
-用户系统里边，我们考虑使用微信登入，这是目前最简单的办法，不用做用户系统、也不用做密码找回。有了登入肯定也得有退出。
+Trong hệ thống người dùng, ta cân nhắc dùng đăng nhập WeChat — đây là cách đơn giản nhất hiện nay, không cần làm hệ thống người dùng, cũng không cần làm khôi phục mật khẩu. Có đăng nhập thì đương nhiên phải có đăng xuất.
 
-有了用户系统以后我们就可以保存用户背单词的进度了。在词库这边呢，既然我们要做一个可切换和自定义的词库，那肯定会有一个列表。
+Có hệ thống người dùng rồi, ta có thể lưu tiến độ học từ của người dùng. Về phía kho từ vựng, đã muốn làm kho từ có thể chuyển đổi và tùy chỉnh thì chắc chắn phải có một danh sách.
 
-这个列表，首先是会有一个官方的或者叫内置的，然后我们在建立一个本地的列表，给自定义词库用的。
+Danh sách này, trước hết sẽ có một danh sách chính thức hay còn gọi là tích hợp sẵn, sau đó ta lập thêm một danh sách cục bộ dành cho kho từ tùy chỉnh.
 
-自定义词库这边，我们可能还需要给提供一个工具来制作词库。我们需要有一个单词表、需要生成对应的音频、需要有对应的解释，以及我们背单词的时候看的图片。这是词库的大体功能。
+Về phía kho từ tùy chỉnh, có lẽ ta còn cần cung cấp một công cụ để tạo kho từ. Ta cần có bảng từ vựng, cần sinh audio tương ứng, cần có phần giải nghĩa tương ứng, và những hình ảnh xem khi học từ. Đó là các tính năng tổng thể của kho từ vựng.
 
-如果我们要做图鉴的话，就需要有词库的完成度数据。就是用户背了词库里面百分之多少的单词、以及对每一个单词的熟练度。在这个基础上我们还需要有一个相册，用来欣赏高清图片。
+Nếu muốn làm bộ sưu tập minh họa, ta cần có dữ liệu mức độ hoàn thành kho từ — tức người dùng đã học bao nhiêu phần trăm từ trong kho, và độ thành thạo với từng từ. Trên cơ sở đó, ta còn cần có một album để thưởng thức ảnh HD.
 
-自定义词库制作完成以后，它还需要有一个分享方式。我们可以允许用户通过二维码分享，其他的用户通过二维码扫码导入。
+Kho từ tùy chỉnh sau khi tạo xong còn cần có cách chia sẻ. Ta có thể cho phép người dùng chia sẻ qua mã QR, người dùng khác quét mã QR để nhập vào.
 
-接下来，我们来看背单词的功能。
+Tiếp theo, ta xem tính năng học từ vựng.
 
-首先它需要有一个地方来输入字母，我们会根据输入的字母动态地进行遮罩的调整。然后我们需要把用户输入的时间或者错误的次数统计起来，这代表着对这个单词的熟练程度。我们也还需要有一些辅助按钮，用来显示单词的意思、以及跳过不会的单词。
+Trước hết cần có chỗ để nhập chữ cái; ta sẽ điều chỉnh lớp che (mask) một cách động theo chữ cái được nhập. Sau đó ta cần thống kê thời gian nhập hoặc số lần sai của người dùng — điều này thể hiện độ thành thạo với từ đó. Ta cũng còn cần vài nút phụ trợ để hiển thị nghĩa của từ, cũng như bỏ qua từ không biết.
 
-在最后，当正确地输入了单词以后，我们需要显示一个高清图片，让用户可以很完整地看见这张图片，这是对其的奖励。
+Cuối cùng, khi từ được nhập đúng, ta cần hiển thị một bức ảnh HD để người dùng có thể xem trọn vẹn bức ảnh — đó là phần thưởng dành cho họ.
 
-另外我们也需要把用户的背单词成绩记录下来，为了能更清楚地看见这个成绩，可能还需要提供一个进度统计，告诉用户背了词库里面的百分之多少，各自的熟练度是多少。
+Ngoài ra ta cũng cần ghi lại thành tích học từ của người dùng; để nhìn thành tích rõ hơn, có lẽ còn cần cung cấp thống kê tiến độ, cho người dùng biết đã học bao nhiêu phần trăm kho từ, độ thành thạo từng phần là bao nhiêu.
 
-还有支付部分别忘了。首先我们要显示可以付费的商品，当点击购买按钮以后，要把微信支付给呼叫起来。在微信支付完成以后，要进行确认。同时我们也需要维护一个订单列表来进行售后和退款。
+Còn phần thanh toán đừng quên. Trước tiên phải hiển thị các sản phẩm có thể trả phí; khi bấm nút mua, phải gọi WeChat Pay lên. Sau khi thanh toán WeChat hoàn tất, phải tiến hành xác nhận. Đồng thời ta cũng cần duy trì một danh sách đơn hàng để làm hậu mãi và hoàn tiền.
 
-### 分期
+### Phân kỳ
 
-确定好功能表以后，接下来就可以进行分期了。
+Xác định xong bảng tính năng, tiếp theo có thể tiến hành phân kỳ.
 
-#### 功能分期
+#### Phân kỳ tính năng
 
-最常见的流程这里其实是设计MVP而非第一版，但设计方式一致，因此我们选择相对复杂的演示。
+Quy trình phổ biến nhất ở bước này thực ra là thiết kế MVP chứ không phải phiên bản đầu tiên, nhưng cách thiết kế là như nhau, nên chúng ta chọn minh họa trường hợp phức tạp hơn.
 
-因为我们现在的功能实际上已经非常多了，必须要把它分成不同的阶段来做。最小可行产品不太典型，这里我们以 PMF 验证完成后的第一个版本为例，来选择第一期的内容。第二期就是「以后再做」的功能，第三期就是「不知道啥时候做」的功能。
+Vì các tính năng hiện tại thực sự đã rất nhiều, bắt buộc phải chia thành các giai đoạn khác nhau để làm. Sản phẩm khả thi tối thiểu không mấy điển hình, nên ở đây ta lấy phiên bản đầu tiên sau khi kiểm chứng PMF hoàn tất làm ví dụ để chọn nội dung cho kỳ một. Kỳ hai là các tính năng「để sau hẵng làm」, kỳ ba là các tính năng「không biết bao giờ mới làm」.
 
-来看我们的功能列表：
+Hãy xem danh sách tính năng của chúng ta:
 
--   推送提醒：可以放到第一期。但为了实现推送，需要有消息系统。如果要做定时提醒的话，还需要做设置界面。因为用户设置过提醒以后，可能有一天不需要了，要能及时取消，不然天天推送还挺烦人的。
--   考试模式：放到第二期。虽然对备考生很重要，但是因为整个开发量比较大，在挣钱之前可以先不做。
--   虚拟键盘：放到第一期。为了支持单手操作，我们需要给背单词的界面添加在移动设备上的键盘界面。不同输入法的键盘可能会导致兼容性问题，所以我们直接通过一个虚拟键盘来解决它。
--   自定义词库分享：放到第二期。
--   图鉴模式：放到第二期，也可能是第三期。
--   语音回放：放到第二期。
+-   Thông báo đẩy nhắc nhở: có thể đưa vào kỳ một. Nhưng để làm push, cần có hệ thống tin nhắn. Nếu muốn nhắc nhở theo lịch, còn phải làm giao diện cài đặt. Vì người dùng sau khi cài nhắc nhở, có thể một ngày nào đó không cần nữa, phải hủy được kịp thời, không thì ngày nào cũng bị đẩy thông báo khá phiền.
+-   Chế độ thi: đưa vào kỳ hai. Tuy rất quan trọng với người ôn thi, nhưng vì khối lượng phát triển tổng thể khá lớn, trước khi kiếm được tiền có thể tạm chưa làm.
+-   Bàn phím ảo: đưa vào kỳ một. Để hỗ trợ thao tác một tay, ta cần thêm giao diện bàn phím trên thiết bị di động cho màn hình học từ. Bàn phím của các bộ gõ khác nhau có thể gây vấn đề tương thích, nên ta giải quyết trực tiếp bằng một bàn phím ảo.
+-   Chia sẻ kho từ tùy chỉnh: đưa vào kỳ hai.
+-   Chế độ bộ sưu tập minh họa: đưa vào kỳ hai, cũng có thể là kỳ ba.
+-   Phát lại giọng đọc: đưa vào kỳ hai.
 
 ![](images/image-123-1024x784.png)
 
-使用思维导图构建功能列表
+Dùng sơ đồ tư duy xây dựng danh sách tính năng
 
-确定分期的时候，也要同时检查功能点是否都对应上了。比如支付里面，我们需要把「微信支付的对接」加上。
+Khi chốt phân kỳ, cũng phải đồng thời kiểm tra các điểm tính năng đã khớp đủ chưa. Ví dụ trong phần thanh toán, ta cần thêm mục「tích hợp WeChat Pay」.
 
-### 功能归类到界面
+### Gom tính năng vào giao diện
 
-确定好某一期的功能列表后，可以把各个功能归类到界面里。新建一个思维导图，写上显而易见的各个界面，然后把功能放到界面下去。
+Sau khi chốt danh sách tính năng của một kỳ nào đó, có thể gom các tính năng vào từng giao diện. Tạo một sơ đồ tư duy mới, ghi ra các giao diện hiển nhiên, rồi đặt các tính năng vào dưới giao diện tương ứng.
 
 ![](images/image-122-1024x987.png)
 
-将功能归类到界面
+Gom tính năng vào giao diện
 
-如果发现有功能没有界面放，恭喜你提前发现了做丢的界面，赶紧把这个界面也加进去吧。
+Nếu phát hiện có tính năng không có giao diện nào để đặt, xin chúc mừng — bạn đã phát hiện sớm một giao diện bị bỏ sót, hãy mau thêm giao diện đó vào.
 
-这一步完成以后，我们就可以开始进入设计阶段了。
+Hoàn thành bước này, chúng ta có thể bắt đầu bước vào giai đoạn thiết kế.
 
-第四步：产品设计
+Bước bốn: Thiết kế sản phẩm
 --------
 
-推荐使用矢量原型软件来设计界面，常用的包括AdobeXD、Sketch、Figma和开源的Penpot。本文以XD为例，但各个软件使用起来大致方式类似，可以触类旁通。
+Khuyến nghị dùng phần mềm prototype vector để thiết kế giao diện; các phần mềm thường dùng gồm Adobe XD, Sketch, Figma và Penpot mã nguồn mở. Bài viết này lấy XD làm ví dụ, nhưng cách dùng các phần mềm nhìn chung tương tự nhau, có thể suy một ra ba.
 
-### 什么是 Adobe XD
+### Adobe XD là gì
 
 ![](images/image-124-1024x757.png)
 
-AdobeXD
+Adobe XD
 
-Adobe XD是由 Adobe 开发的矢量设计工具，它和 Sketch 类似，既可以用来绘制矢量界面，又包含原型设计功能，还可以在手机上预览设计好的界面。XD 支持 Windows 和 Mac，是 Adobe 为数不多的可以免费使用的软件（当然你可以付费升级 pro 版本）。
+Adobe XD là công cụ thiết kế vector do Adobe phát triển; nó tương tự Sketch, vừa có thể dùng để vẽ giao diện vector, vừa bao gồm tính năng thiết kế prototype, lại còn có thể xem trước giao diện đã thiết kế trên điện thoại. XD hỗ trợ Windows và Mac, là một trong số ít phần mềm của Adobe có thể dùng miễn phí (tất nhiên bạn có thể trả phí nâng cấp bản pro).
 
-Adobe之前准备收购Figma，于是放弃了XD的更新，但后来又收购失败。当下建议使用Figma或者开源的Penpot。
+Adobe từng chuẩn bị mua lại Figma nên đã ngừng cập nhật XD, nhưng sau đó thương vụ lại thất bại. Hiện tại khuyến nghị dùng Figma hoặc Penpot mã nguồn mở.
 
-### 使用 Adobe XD 设计简单界面
+### Dùng Adobe XD thiết kế giao diện đơn giản
 
-软件的使用主要还是靠大家勤学多练，这里我们和大家演示下如何用它来设计背单词界面。
+Việc dùng phần mềm chủ yếu vẫn dựa vào chăm học chăm luyện; ở đây chúng tôi minh họa cách dùng nó để thiết kế giao diện học từ vựng.
 
-#### 理解画板
+#### Hiểu về artboard
 
-首先，我们在 XD 里新建一个画板（art board）。
+Trước tiên, ta tạo một artboard (bảng vẽ) mới trong XD.
 
-画板是什么？它相当于 Word 里边的页面。一般的纯设计工具没有画板这个概念，但 XD 也包含了原型功能，有时候我们需要在多个界面之间来回切换，而一个画板往往就是一个界面。
+Artboard là gì? Nó tương đương với trang trong Word. Các công cụ thiết kế thuần túy thường không có khái niệm artboard, nhưng XD còn bao gồm tính năng prototype; đôi khi ta cần chuyển qua lại giữa nhiều giao diện, và một artboard thường tương ứng với một giao diện.
 
-点击左侧的菜单里面倒数第2个画板的按钮，
+Bấm nút artboard — nút thứ hai từ dưới lên trong menu bên trái,
 
 ![](images/image-125.png)
 
-画板按钮
+Nút artboard
 
-这时候在屏幕最右边就会出来一系列预置的画板尺寸。
+lúc này ở mép phải màn hình sẽ hiện ra một loạt kích thước artboard định sẵn.
 
 ![](images/image-126-313x1024.png)
 
-画板预设
+Các artboard định sẵn
 
-它已经帮我们准备好了常用的规格，比如苹果的iPhone、iPad，谷歌的安卓机型，以及网页常见的尺寸。
+Nó đã chuẩn bị sẵn cho chúng ta các quy cách thường dùng, ví dụ iPhone, iPad của Apple, các dòng máy Android của Google, cùng các kích thước web phổ biến.
 
-我们只要从里边选择对应的尺寸就好了，当然也可以不选择它给你预置的，直接手工拖拽来画或者在属性里面调整画板的宽和高。那我们就新建一个iPhone Xs尺寸的画板好了。
+Ta chỉ cần chọn kích thước tương ứng từ đó; tất nhiên cũng có thể không chọn cái định sẵn mà trực tiếp kéo tay để vẽ hoặc chỉnh chiều rộng, chiều cao của artboard trong phần thuộc tính. Vậy ta tạo một artboard kích thước iPhone Xs nhé.
 
-然后按住 CTRL或者CMD + D，就可以直接复制画板。我们把第一个画板叫做背单词界面，然后开始设计。
+Sau đó nhấn CTRL hoặc CMD + D là có thể nhân bản artboard trực tiếp. Ta đặt tên artboard đầu tiên là giao diện học từ vựng, rồi bắt đầu thiết kế.
 
 ![](images/image-127-1024x614.png)
 
-复制画板
+Nhân bản artboard
 
-#### 遮罩的制作
+#### Tạo lớp che
 
-先来制作背单词时，字母没有输入完时显示的遮罩效果。选择左侧工具栏中的矩形 
+Trước tiên, ta tạo hiệu ứng lớp che hiển thị khi chưa nhập xong các chữ cái lúc học từ. Chọn công cụ hình chữ nhật trong thanh công cụ bên trái 
 
 ![](images/image-129.png)
 
-矩形工具\
-工具，画出一个覆盖全部画板的长方形。然后调节填充颜色为黑色，透明度为 30%。
+Công cụ hình chữ nhật\
+, vẽ một hình chữ nhật phủ toàn bộ artboard. Sau đó chỉnh màu tô thành đen, độ trong suốt 30%.
 
 ![](images/image-128-1024x527.png)
 
-遮罩的制作
+Tạo lớp che
 
-然后我们到 unsplash.com 这个无版权网站上，找一只猫的图片，把它也放进来。
+Rồi ta lên unsplash.com — trang ảnh không bản quyền — tìm một bức ảnh mèo và đưa nó vào.
 
 ![](images/image-130-1024x677.png)
 
-添加猫图
+Thêm ảnh mèo
 
-这时候猫是在遮罩上方的，所以它挡住了遮罩。
+Lúc này con mèo nằm phía trên lớp che, nên nó che mất lớp che.
 
 ![](images/image-131.png)
 
-调整图层顺序
+Điều chỉnh thứ tự layer
 
-点击右键，选择「Send to back」将它放到遮罩后，我们就可以看到被半透明遮罩挡住的猫了。
+Bấm chuột phải, chọn「Send to back」để đưa nó ra sau lớp che, ta sẽ thấy được chú mèo bị lớp che bán trong suốt phủ lên.
 
-#### 单词释义和输入框
+#### Nghĩa của từ và ô nhập liệu
 
-接下来，在遮罩上边，我们来放上单词释义和输入框。点击最左侧工具栏中的
+Tiếp theo, phía trên lớp che, ta đặt phần nghĩa của từ và ô nhập liệu. Bấm vào biểu tượng
 
 ![](images/image-132.png)
 
-文字工具\
-图标，切换到文字工具。
+Công cụ văn bản\
+trong thanh công cụ ngoài cùng bên trái để chuyển sang công cụ văn bản.
 
-然后输入文字释义。
+Sau đó nhập phần nghĩa bằng chữ.
 
 ![](images/image-133-1024x490.png)
 
-添加文字
+Thêm chữ
 
-在右侧的属性面板里，我们可以调节文字的字体、大小、颜色和对齐。
+Trong bảng thuộc tính bên phải, ta có thể chỉnh font, cỡ chữ, màu sắc và căn lề của chữ.
 
-然后我们放上之前设计好的 Logo，加上单词输入框。
+Rồi ta đặt Logo đã thiết kế từ trước lên, thêm ô nhập từ.
 
 ![](images/image-134.png)
 
-添加单词输入框
+Thêm ô nhập từ
 
-注意这个输入框不一定非要是「框」，比如我们这里也可以把它做成下划线。
+Lưu ý ô nhập này không nhất thiết phải là「ô」; ví dụ ở đây ta cũng có thể làm nó thành gạch chân.
 
-#### 虚拟键盘
+#### Bàn phím ảo
 
 ![](images/image-135-497x1024.png)
 
-虚拟键盘
+Bàn phím ảo
 
-虚拟键盘的制作在 XD 中也很简单，直接用矩形工具绘制就行。需要注意的是圆角的做法。
+Tạo bàn phím ảo trong XD cũng rất đơn giản, cứ vẽ trực tiếp bằng công cụ hình chữ nhật là được. Điều cần lưu ý là cách làm bo góc.
 
 ![](images/image-136.png)
 
-圆角的设置
+Thiết lập bo góc
 
-其实很简单，在右侧的属性设置里边，把圆角从0 改为 5 就可以了。在做好一个按钮后，我们可以按住 Shift 同时选中按钮和上边的文字，在右键菜单中将其编组（Group）；然后按 CTRL或者CMD + D 就可以复制按钮。
+Thực ra rất đơn giản: trong phần cài đặt thuộc tính bên phải, đổi bo góc từ 0 thành 5 là xong. Sau khi làm xong một nút, ta có thể giữ Shift để chọn đồng thời nút và chữ phía trên, rồi trong menu chuột phải gộp chúng thành nhóm (Group); sau đó nhấn CTRL hoặc CMD + D là có thể nhân bản nút.
 
 ![](images/image-137-1024x892.png)
 
-批量分布和对齐
+Phân bố và căn chỉnh hàng loạt
 
-当按钮多起来之后，要对齐它们还挺费事的。其实选中多个按钮后，可以在菜单 Object → Align 中来自动对齐；也可以在 Object → Distribute 中让它们自动均匀分布。
+Khi số nút nhiều lên, căn chỉnh chúng khá mất công. Thực ra sau khi chọn nhiều nút, có thể vào menu Object → Align để căn chỉnh tự động; cũng có thể vào Object → Distribute để chúng tự phân bố đều.
 
-#### 矢量图标
+#### Icon vector
 
-再下来，我们需要在界面中引入图标。既然是矢量界面，当然是矢量图标最好。前边我们已经介绍过 thenounproject.com 了，它还为 pro 用户提供了一个客户端。在这个客户端里边可以非常方便的复制图标。
+Tiếp nữa, ta cần đưa icon vào giao diện. Đã là giao diện vector thì đương nhiên icon vector là tốt nhất. Phía trước chúng tôi đã giới thiệu thenounproject.com; nó còn cung cấp cho người dùng pro một ứng dụng client. Trong client này có thể sao chép icon rất tiện lợi.
 
 ![](images/image-138.png)
 
-矢量图标
+Icon vector
 
-当我们通过关键字搜索到图标后，可以通过下载并将其拖拽到 XD 的方式引入；也可以直接在客户端中右键选择 Copy as SVG，然后直接粘贴。因为是 SVG 格式，调整完大小后可以很方便地更换颜色。
+Khi tìm được icon qua từ khóa, ta có thể tải về rồi kéo thả vào XD; hoặc bấm chuột phải trong client chọn Copy as SVG rồi dán trực tiếp. Vì là định dạng SVG, sau khi chỉnh kích thước có thể đổi màu rất dễ dàng.
 
-最后我们再微调一下输入框和单词释义的位置，背单词界面就做完了。其他界面的制作非常类似，就不在这里累述了。
+Cuối cùng ta tinh chỉnh lại vị trí ô nhập và phần nghĩa của từ một chút, giao diện học từ vựng thế là hoàn thành. Việc tạo các giao diện khác cũng rất tương tự, không nhắc lại dài dòng ở đây nữa.
 
-后续步骤：产品开发、众筹、迭代开发
+Các bước tiếp theo: Phát triển sản phẩm, gọi vốn cộng đồng, phát triển lặp
 -----------------
 
-完成产品设计以后（第一版一般是MVP设计），我们就可以进入开发了。注意，对MVP来讲，产品设计和产品开发不是必须的，而且是应该在能验证需求的前提下尽可能避免的。只有无法通过图文说明、视频演示等办法展现产品特性，也无法通过开源软件快速搭建时，才进行产品级别的MVP的开发。
+Hoàn thành thiết kế sản phẩm (phiên bản đầu thường là thiết kế MVP) xong, chúng ta có thể bước vào giai đoạn phát triển. Lưu ý, với MVP, thiết kế sản phẩm và phát triển sản phẩm không phải là bắt buộc, và nên tránh hết mức miễn là vẫn kiểm chứng được nhu cầu. Chỉ khi không thể thể hiện đặc tính sản phẩm bằng bài viết kèm hình ảnh, video demo v.v., cũng không thể dựng nhanh bằng phần mềm open source, thì mới tiến hành phát triển MVP ở cấp độ sản phẩm.
 
-准备好MVP后，我们就可以通过众筹来验证需求和最基本的营销能力了。当众筹达标，我们才进入下一步的迭代开发。反之，则回到价值主张部分重新优化或者转型。
+Chuẩn bị xong MVP, chúng ta có thể kiểm chứng nhu cầu và năng lực marketing cơ bản nhất thông qua gọi vốn cộng đồng (crowdfunding). Khi gọi vốn đạt chỉ tiêu, ta mới bước vào giai đoạn phát triển lặp tiếp theo. Ngược lại, thì quay về phần tuyên bố giá trị để tối ưu lại hoặc chuyển hướng.

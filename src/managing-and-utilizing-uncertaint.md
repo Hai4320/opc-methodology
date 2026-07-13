@@ -1,146 +1,146 @@
-# 风险评控:管理和利用不确定性
+# Đánh giá và kiểm soát rủi ro: quản lý và tận dụng tính bất định
 
-风险的一大来源是不确定性，本文我们将对它进行专门的解析。
+Một nguồn rủi ro lớn là tính bất định, trong bài này chúng ta sẽ phân tích riêng về nó.
 
-不确定性前置
+Đưa tính bất định lên trước
 ------
 
-应对不确定性最简单粗暴的方式是改变它出现的顺序，只是简单地将其前置就可以获得拔群的效果。因为如果我们能够在早期就识别出问题所在，那么我们后续的投入就可以避免。相反，如果这种不确定性在过程的末尾才显现，我们之前的所有投入可能都会白费，从而导致更大的损失。
+Cách đơn giản và trực diện nhất để đối phó với tính bất định là thay đổi thứ tự xuất hiện của nó — chỉ cần đơn giản đưa nó lên trước là đã thu được hiệu quả vượt trội. Bởi vì nếu ta có thể nhận diện vấn đề ngay từ sớm, thì các khoản đầu tư về sau có thể được tránh. Ngược lại, nếu tính bất định này đến cuối quá trình mới lộ diện, mọi đầu tư trước đó của ta có thể đổ sông đổ bể, dẫn đến tổn thất lớn hơn.
 
-这种对不确定性的前置处理，在行业中已经成为一种通用做法，也可以说是行业最佳实践。它主要通过最小可行产品（MVP）的方式实现，但也可以通过MVP的其他变体形式实现，比如落地页和众筹。MVP背后的思想是先验证核心假设，然后再进入产品开发阶段。
+Cách xử lý đưa tính bất định lên trước này đã trở thành thông lệ chung trong ngành, cũng có thể nói là thực hành tốt nhất của ngành. Nó chủ yếu được thực hiện qua sản phẩm khả thi tối thiểu (MVP), nhưng cũng có thể thực hiện qua các biến thể khác của MVP, chẳng hạn landing page và crowdfunding. Tư tưởng đằng sau MVP là kiểm chứng các giả thuyết cốt lõi trước, rồi mới bước vào giai đoạn phát triển sản phẩm.
 
 ![](images/image-96-1024x587.png)
 
-一人企业画布中的核心假设
+Các giả thuyết cốt lõi trong Canvas doanh nghiệp một người
 
-让我们再来看看专栏之前讲过的《一人企业画布》。在规划时，我们填充到画布的所有内容都是假设。虽然这些假设在我们看来是合理的，并且逻辑上讲得通；但只有通过实际操作和事实检验后，我们才能知道它们是否正确。
+Hãy cùng nhìn lại 《Canvas doanh nghiệp một người》 mà chuyên mục đã nói trước đây. Khi hoạch định, mọi nội dung ta điền vào canvas đều là giả thuyết. Dù những giả thuyết này trong mắt ta là hợp lý, và về logic thì nói được thông; nhưng chỉ sau khi thao tác thực tế và kiểm chứng bằng thực tiễn, ta mới biết chúng có đúng hay không.
 
-因此，在填写完成画布后的一个重要环节，就是对每一部分的假设逐一进行验证。不过画布的各个模块之间也是有不同的权重的，最重要的两个模块是「价值主张」和「渠道通路」。
+Vì vậy, một khâu quan trọng sau khi điền xong canvas là kiểm chứng lần lượt các giả thuyết của từng phần. Tuy nhiên các mô-đun của canvas cũng có trọng số khác nhau, hai mô-đun quan trọng nhất là «tuyên bố giá trị» và «kênh tiếp cận».
 
-「价值主张」关注的是我们为细分客户提供的价值是否能够得到市场的认可，是否值得客户支付成本来获取。而「渠道通路」背后则是增长风险，关注的是我们如何到达目标人群，确保产品能够达到预期的市场影响力。
+«Tuyên bố giá trị» quan tâm đến việc giá trị ta cung cấp cho phân khúc khách hàng có được thị trường công nhận hay không, có đáng để khách hàng trả chi phí để có được hay không. Còn đằng sau «kênh tiếp cận» là rủi ro tăng trưởng, quan tâm đến việc ta làm sao chạm tới nhóm người mục tiêu, đảm bảo sản phẩm đạt được sức ảnh hưởng thị trường như kỳ vọng.
 
-最理想的情况下，一个MVP，可以同时验证多个假设。但如果无法通过一个MVP验证所有假设，我们可以开发多个MVP，每个MVP验证特定的假设。
+Trong trường hợp lý tưởng nhất, một MVP có thể kiểm chứng đồng thời nhiều giả thuyết. Nhưng nếu không thể kiểm chứng tất cả giả thuyết bằng một MVP, ta có thể phát triển nhiều MVP, mỗi MVP kiểm chứng một giả thuyết cụ thể.
 
 ![](images/image-97.png)
 
-不确定性前置
+Đưa tính bất định lên trước
 
-由于MVP通常需要开发，依旧有较高的成本，因此存在一个更简易的版本，即落地页，它通过宣传视频或文字描述来介绍产品，并收集潜在用户的信息。Waitlist 也可以视为落地页的一种。
+Do MVP thường cần phát triển, chi phí vẫn khá cao, nên tồn tại một phiên bản đơn giản hơn, đó là landing page — nó giới thiệu sản phẩm qua video quảng bá hoặc mô tả bằng chữ, và thu thập thông tin người dùng tiềm năng. Waitlist cũng có thể xem là một dạng landing page.
 
-然而，落地页有一个局限，它只能验证用户的口头承诺。做过产品的读者都应该知道，用户说他会买和他真的会买之间，往往差着几十个百分点。因此，我们给落地页加上支付功能，进行产品预定和预售可以更真实地验证需求。
+Tuy nhiên, landing page có một hạn chế: nó chỉ kiểm chứng được lời hứa miệng của người dùng. Bạn đọc nào từng làm sản phẩm hẳn đều biết, giữa việc người dùng nói sẽ mua và việc họ thực sự mua, thường chênh nhau đến vài chục điểm phần trăm. Vì vậy, ta thêm chức năng thanh toán vào landing page, thực hiện đặt trước và bán trước sản phẩm sẽ kiểm chứng nhu cầu chân thực hơn.
 
-这种加上支付功能的落地页，和一种我们很熟悉的产品形态即为相似，那就是众筹。实际上，根据我们的实践，众筹可能是验证画布的最佳方式。因为它可以同时验证「价值主张」和「渠道通路」这两个模块。
+Loại landing page có thêm chức năng thanh toán này rất giống với một hình thái sản phẩm ta rất quen thuộc, đó chính là crowdfunding. Thực tế, theo thực tiễn của chúng tôi, crowdfunding có lẽ là cách tốt nhất để kiểm chứng canvas. Vì nó có thể kiểm chứng đồng thời cả hai mô-đun «tuyên bố giá trị» và «kênh tiếp cận».
 
-众筹除了有着一个对产品进行详细描述的落地页，它还设置了一个「达标金额」，只有达到这个金额，产品才会进入开发阶段；否则将对用户全额退款。因此，除了可以通过用户的支付情况直接验证PMF（产品市场契合），还可以通过「达标金额」来验证我们的「渠道通路」和营销能力。
+Crowdfunding ngoài việc có một landing page mô tả chi tiết sản phẩm, còn đặt ra một «mức tiền đạt chuẩn»: chỉ khi đạt mức tiền này, sản phẩm mới bước vào giai đoạn phát triển; nếu không sẽ hoàn tiền toàn bộ cho người dùng. Do đó, ngoài việc kiểm chứng trực tiếp PMF (sự phù hợp sản phẩm - thị trường) qua tình hình thanh toán của người dùng, còn có thể kiểm chứng «kênh tiếp cận» và năng lực marketing của ta qua «mức tiền đạt chuẩn».
 
-这里需要说明的是，「渠道通路」的验证本身就充满不确定性，同样的渠道，投入的市场费用不同、验证结果会不同；同样的市场费用，营销方案不同，验证结果还会不同。因此，采用众筹这种完全真实的方式进行验证，结果才更为可信。而且，众筹不但可以验证需求，还同步完成了订单（因为用户要预付款）；如果我们将达标金额设置为项目的开发成本，那么可以确保开发期间的最低收益。这在全职运营一人业务时，显得极为重要。
+Cần nói rõ ở đây rằng, bản thân việc kiểm chứng «kênh tiếp cận» đã đầy tính bất định: cùng một kênh, chi phí thị trường bỏ ra khác nhau thì kết quả kiểm chứng sẽ khác nhau; cùng một mức chi phí thị trường, phương án marketing khác nhau thì kết quả kiểm chứng cũng lại khác. Vì vậy, dùng crowdfunding — cách kiểm chứng hoàn toàn chân thực — thì kết quả mới đáng tin cậy hơn. Hơn nữa, crowdfunding không chỉ kiểm chứng được nhu cầu, mà còn đồng thời hoàn thành đơn hàng (vì người dùng phải trả trước); nếu ta đặt mức tiền đạt chuẩn bằng chi phí phát triển của dự án, thì có thể đảm bảo mức thu nhập tối thiểu trong thời gian phát triển. Điều này cực kỳ quan trọng khi vận hành nghiệp vụ một người toàn thời gian.
 
 ![](images/image-98-827x1024.png)
 
-一个通过众筹排除的需求，节省了三个月到六个月时间
+Một nhu cầu bị loại bỏ nhờ crowdfunding, tiết kiệm được ba đến sáu tháng thời gian
 
-有读者可能会觉得，产品完成前的销量和产品完成后的销量是不同的，因此一些众筹不达标的产品，开发完成后的销量也可能超过原来的达标金额。这是有可能的，但比例通常不大。因为在产品的开发过程，我们增加的其实是开发能力而非营销能力，如果开发前没有能力完成达标营销，那么开发完成后绝大部分情况下依然没有能力完成营销。
+Có bạn đọc có thể cho rằng, doanh số trước khi sản phẩm hoàn thành và doanh số sau khi hoàn thành là khác nhau, nên một số sản phẩm crowdfunding không đạt chuẩn, sau khi phát triển xong doanh số vẫn có thể vượt mức đạt chuẩn ban đầu. Điều này có thể xảy ra, nhưng tỷ lệ thường không lớn. Bởi trong quá trình phát triển sản phẩm, thứ ta gia tăng thực ra là năng lực phát triển chứ không phải năng lực marketing; nếu trước khi phát triển đã không đủ sức hoàn thành marketing đạt chuẩn, thì sau khi phát triển xong, trong tuyệt đại đa số trường hợp vẫn không đủ sức hoàn thành marketing.
 
-有一种例外的情况是，在产品开发完成后，我们可以通过真实的产品体验或者产品内置的自营销功能来吸引新用户。但这些其实可以通过制作更好的MVP（视频、交互式Demo）来实现。
+Có một trường hợp ngoại lệ: sau khi sản phẩm phát triển xong, ta có thể thu hút người dùng mới thông qua trải nghiệm sản phẩm thực tế hoặc chức năng tự marketing tích hợp trong sản phẩm. Nhưng những điều này thực ra có thể đạt được bằng cách làm MVP tốt hơn (video, Demo tương tác).
 
-不对称交易
+Giao dịch bất đối xứng
 -----
 
-### 反脆弱性
+### Tính kháng mong manh
 
-反脆弱性是一个很值得深思的概念，它是由纳西姆-尼古拉斯-塔勒布（Nassim Nicholas Taleb）在同名书籍中提出概念。
+Tính kháng mong manh (antifragility) là một khái niệm rất đáng suy ngẫm, do Nassim Nicholas Taleb đưa ra trong cuốn sách cùng tên.
 
 ![](images/image-99.png)
 
-《反脆弱》
+《Kháng mong manh (Antifragile)》
 
-这一概念与鲁棒性不同，鲁棒性是不受影响，而反脆弱性是能够从不确定性中获益。
+Khái niệm này khác với tính bền vững (robustness): bền vững là không bị ảnh hưởng, còn kháng mong manh là có thể hưởng lợi từ tính bất định.
 
-书中提供的一个具体的例子之一是在生物学领域，人类感染某种病毒后可能会产生抗体。具有鲁棒性的个体不会感染病毒（不受影响），而很多个体在感染康复后拥有了抗体，甚至能对同系病毒都产生免疫，这种抗体还可以分给其他人 ------ 这就是反脆弱性的提现。
+Một trong những ví dụ cụ thể trong sách thuộc lĩnh vực sinh học: con người sau khi nhiễm một loại virus có thể sinh ra kháng thể. Cá thể có tính bền vững thì không nhiễm virus (không bị ảnh hưởng), còn rất nhiều cá thể sau khi nhiễm và hồi phục lại sở hữu kháng thể, thậm chí miễn dịch với cả các virus cùng họ, và kháng thể này còn có thể chia sẻ cho người khác ------ đây chính là biểu hiện của tính kháng mong manh.
 
-在《反脆弱》一书中，作者总结了一些获得反脆弱性的方法，例如通过迭代快速前进、冗余、去中心化、保留选择权、通过反馈进行及时调整，以及管理非线性效应和道德风险。
+Trong cuốn 《Kháng mong manh》, tác giả tổng kết một số phương pháp để có được tính kháng mong manh, ví dụ tiến nhanh bằng lặp lại, dư thừa, phi tập trung, giữ quyền lựa chọn, điều chỉnh kịp thời qua phản hồi, cùng với quản lý hiệu ứng phi tuyến và rủi ro đạo đức.
 
--   小步快跑 ：通过小规模的尝试和错误，个体和组织可以快速学习和适应环境变化，从而发现新的机会和解决方案。这种方法能够促进创新和进步，因为它允许在低风险的情况下探索未知领域。长期而言，这种持续的学习和适应能力使得个体和组织不仅能够生存下来，还能在动荡中发现成长的机会。
--   冗余 ：虽然冗余在短期内看起来是一种资源浪费，但在长期来看，它为个体和组织提供了更大的安全垫，使它们能够在面对突发事件或危机时快速恢复和调整。这种额外的缓冲区可以在关键时刻被用来抓住新的机会或进行战略性的调整，从而在不确定性中找到新的成长点。
--   去中心化 ：去中心化的结构增加了系统的灵活性和适应性，因为它允许多个部分独立响应外部变化。这种结构能够加速决策过程和创新，同时也能减少单一故障点带来的风险。在不确定性环境中，去中心化的系统更容易找到并利用新的机会，从而获得竞争优势。
--   保留选择权 ：通过选择那些提供未来灵活性和选择权的选项，个体和组织能够在不确定性中保持行动的自由度。这种策略允许它们在情况发生变化时快速调整方向，抓住新出现的机会，从而在长期内获得更好的结果。
--   通过反馈进行调整：持续的反馈循环使个体和组织能够实时了解其行动的效果，并据此进行调整。这种适应性不仅减少了失败的成本，还能够帮助快速利用新的信息和机会，从而在动态变化的环境中获得优势。
--   利用非线性效应：识别和利用非线性效应能够在某些情况下以较小的投入获得巨大的收益。通过理解和应用这种效应，个体和组织可以在不确定性中找到效率极高的增长途径，实现快速的发展和扩张。
--   道德风险的管理 ：通过适当管理风险，确保个体和组织不会因为过分依赖外部保护措施而变得鲁莽。这种策略促进了更为审慎和负责任的行为，从而减少了潜在的损失，同时也增加了在面对不确定性时做出正确决策的可能性。
+-   Bước nhỏ chạy nhanh: qua các thử nghiệm và sai lầm quy mô nhỏ, cá nhân và tổ chức có thể học hỏi và thích nghi nhanh với thay đổi của môi trường, từ đó phát hiện cơ hội và giải pháp mới. Phương pháp này thúc đẩy đổi mới và tiến bộ, vì nó cho phép khám phá vùng đất chưa biết với rủi ro thấp. Về dài hạn, năng lực học hỏi và thích nghi liên tục này giúp cá nhân và tổ chức không chỉ sống sót mà còn tìm thấy cơ hội tăng trưởng trong biến động.
+-   Dư thừa: tuy dư thừa trong ngắn hạn trông như lãng phí nguồn lực, nhưng về dài hạn, nó cung cấp cho cá nhân và tổ chức một tấm đệm an toàn lớn hơn, giúp họ phục hồi và điều chỉnh nhanh khi đối mặt với sự cố bất ngờ hoặc khủng hoảng. Vùng đệm bổ sung này có thể được dùng vào thời khắc then chốt để nắm bắt cơ hội mới hoặc điều chỉnh chiến lược, từ đó tìm thấy điểm tăng trưởng mới trong tính bất định.
+-   Phi tập trung: cấu trúc phi tập trung tăng tính linh hoạt và khả năng thích nghi của hệ thống, vì nó cho phép nhiều bộ phận phản ứng độc lập với thay đổi bên ngoài. Cấu trúc này có thể đẩy nhanh quá trình ra quyết định và đổi mới, đồng thời giảm rủi ro từ điểm hỏng đơn lẻ. Trong môi trường bất định, hệ thống phi tập trung dễ tìm thấy và tận dụng cơ hội mới hơn, từ đó giành được lợi thế cạnh tranh.
+-   Giữ quyền lựa chọn: bằng cách chọn những phương án mang lại sự linh hoạt và quyền lựa chọn trong tương lai, cá nhân và tổ chức có thể duy trì độ tự do hành động giữa tính bất định. Chiến lược này cho phép họ nhanh chóng điều chỉnh hướng đi khi tình hình thay đổi, nắm bắt cơ hội mới xuất hiện, từ đó đạt kết quả tốt hơn về dài hạn.
+-   Điều chỉnh qua phản hồi: vòng lặp phản hồi liên tục giúp cá nhân và tổ chức nắm bắt hiệu quả hành động của mình theo thời gian thực, và điều chỉnh dựa trên đó. Khả năng thích nghi này không chỉ giảm chi phí thất bại, mà còn giúp nhanh chóng tận dụng thông tin và cơ hội mới, từ đó giành lợi thế trong môi trường biến động.
+-   Tận dụng hiệu ứng phi tuyến: nhận diện và tận dụng hiệu ứng phi tuyến có thể, trong một số trường hợp, đem lại lợi ích khổng lồ với đầu tư nhỏ. Bằng cách hiểu và vận dụng hiệu ứng này, cá nhân và tổ chức có thể tìm thấy con đường tăng trưởng hiệu suất cực cao giữa tính bất định, đạt được sự phát triển và mở rộng nhanh chóng.
+-   Quản lý rủi ro đạo đức: qua việc quản lý rủi ro thích đáng, đảm bảo cá nhân và tổ chức không trở nên liều lĩnh vì quá phụ thuộc vào các biện pháp bảo hộ bên ngoài. Chiến lược này thúc đẩy hành vi thận trọng và có trách nhiệm hơn, từ đó giảm tổn thất tiềm tàng, đồng thời tăng khả năng ra quyết định đúng khi đối mặt với tính bất định.
 
-特别是保留选择权和利用非线性效应这两个方法颇为有趣。我们鼓励大家阅读书中对应的章节。
+Đặc biệt hai phương pháp giữ quyền lựa chọn và tận dụng hiệu ứng phi tuyến rất thú vị. Chúng tôi khuyến khích mọi người đọc các chương tương ứng trong sách.
 
-### 不对称交易和期权
+### Giao dịch bất đối xứng và quyền chọn
 
-《反脆弱》中还有个很重要的概念：不对称交易。来自于书中一个故事：一位哲学家为了证明哲学家也可以用知识挣钱，于是他以非常低的价格预定了附近橄榄油压榨机的使用权。当橄榄季节来临，需求激增，而其他人无法租到压榨机时，他就能以高价转租这些机器，从而获得巨额利润。赚钱之后，这位哲学家又回到了哲学世界世界中。
+Trong 《Kháng mong manh》 còn có một khái niệm rất quan trọng: giao dịch bất đối xứng. Nó đến từ một câu chuyện trong sách: một triết gia, để chứng minh triết gia cũng có thể dùng tri thức kiếm tiền, đã đặt trước quyền sử dụng các máy ép dầu ô liu quanh vùng với giá rất thấp. Khi mùa ô liu đến, nhu cầu tăng vọt, trong khi người khác không thuê được máy ép, ông có thể cho thuê lại các máy này với giá cao, từ đó thu về lợi nhuận khổng lồ. Kiếm tiền xong, vị triết gia lại quay về với thế giới triết học.
 
 ![](images/image-100-1024x541.png)
 
-哲学家预定榨油机的故事
+Câu chuyện triết gia đặt trước máy ép dầu
 
-这个故事不但有趣，其核心也展示了一种反脆弱性：通过构建一个不对称的交易模式来利用不确定性。可以参考下图：
+Câu chuyện này không chỉ thú vị, cốt lõi của nó còn thể hiện một dạng kháng mong manh: tận dụng tính bất định bằng cách xây dựng một mô hình giao dịch bất đối xứng. Có thể tham khảo hình dưới:
 
 ![](images/image-101-1024x699.png)
 
-有限的损失和「无限」的收益对比图
+Biểu đồ so sánh tổn thất hữu hạn và lợi ích «vô hạn»
 
-这种交易模式的特点是，如果未来发生不利变化，他的损失仅限于较低价格预订的压榨机费用，这是很低的。但如果情况有利，他将获得高额收益。这正是不对称交易的魅力所在，也展现了早期的期权思维。
+Đặc điểm của mô hình giao dịch này là: nếu tương lai diễn biến bất lợi, tổn thất của ông chỉ giới hạn ở khoản phí đặt trước máy ép với giá thấp — rất nhỏ. Nhưng nếu tình hình thuận lợi, ông sẽ thu được lợi ích cao. Đây chính là sức hút của giao dịch bất đối xứng, cũng thể hiện tư duy quyền chọn (option) thời kỳ sơ khai.
 
-### 构建不对称交易
+### Xây dựng giao dịch bất đối xứng
 
-在了解了背后的逻辑后，我们也可以自己来构建不对称交易。比如我们可以设计一个「生男生女的占卜」交易，规则是提前预付，如果结果不准那么退钱。
+Sau khi hiểu logic đằng sau, ta cũng có thể tự mình xây dựng giao dịch bất đối xứng. Ví dụ ta có thể thiết kế một giao dịch «bói sinh con trai hay con gái», quy tắc là trả tiền trước, nếu kết quả không đúng thì hoàn tiền.
 
 ![](images/image-102.png)
 
-一个占卜生男生女的不对称交易
+Một giao dịch bất đối xứng bói sinh con trai con gái
 
-在这个交易中，投入和收益是不对等的：失败的话我们只是不挣钱，并没有任何损失；而成功的话，我们就能挣钱。所以这是一个只赚不赔的不对称交易。
+Trong giao dịch này, đầu tư và lợi ích không tương xứng: nếu thất bại ta chỉ là không kiếm được tiền, không hề có tổn thất gì; còn nếu thành công, ta kiếm được tiền. Vì vậy đây là một giao dịch bất đối xứng chỉ lãi không lỗ.
 
-这个封建迷信的例子当然不建议大家去实施，不过其实如果你仔细思考，会发现其实众筹也是完全类似的逻辑。只不过加上了一些额外规则。
+Ví dụ mê tín phong kiến này đương nhiên không khuyến khích mọi người thực hiện, nhưng thực ra nếu bạn suy nghĩ kỹ, sẽ phát hiện crowdfunding cũng có logic hoàn toàn tương tự. Chỉ là có thêm một số quy tắc bổ sung.
 
 ![](images/image-104-1024x883.png)
 
-众筹也是一种不对称交易
+Crowdfunding cũng là một dạng giao dịch bất đối xứng
 
-我们无法预知众筹项目能否成功达标。这种不确定性导致了两种可能的结果。针对这两种可能，众筹构建了一种特殊的、不对称的交易关系，既涉及商家也涉及买家。
+Ta không thể biết trước dự án crowdfunding có đạt chuẩn thành công hay không. Tính bất định này dẫn đến hai kết quả có thể xảy ra. Nhắm vào hai khả năng này, crowdfunding xây dựng một quan hệ giao dịch đặc biệt, bất đối xứng, liên quan đến cả người bán lẫn người mua.
 
-在成功的情况下，商家可以获得至少达到预定额度的收益，而买家则有机会获得性价比高或独家的商品（众筹价格通常较为优惠，或者提供的商品在其他地方难以购得）。若众筹失败，买家并不会有实质性损失，因为他们可以获得全额退款。虽然这可能会对买家的心情造成影响------那种期待购买却未能如愿的感觉------但从财务角度看，买家是受到保护的。
+Trong trường hợp thành công, người bán có thể thu về ít nhất khoản thu nhập bằng mức đã định, còn người mua có cơ hội nhận được hàng hóa giá hời hoặc độc quyền (giá crowdfunding thường ưu đãi hơn, hoặc hàng hóa cung cấp khó mua được ở nơi khác). Nếu crowdfunding thất bại, người mua không có tổn thất thực chất, vì họ được hoàn tiền toàn bộ. Tuy điều này có thể ảnh hưởng đến tâm trạng người mua ------ cảm giác mong chờ mua được mà không thành ------ nhưng xét về tài chính, người mua được bảo vệ.
 
-对于商家而言，若众筹失败，他们主要的损失是推广众筹活动所产生的成本。为了吸引参与者，他们可能投入了不少流量推广的资源。然而，由于众筹未达标，商家尚未开始产品设计或开发阶段，这意味着更大的成本投入被避免了。
+Với người bán, nếu crowdfunding thất bại, tổn thất chủ yếu của họ là chi phí phát sinh từ việc quảng bá chiến dịch crowdfunding. Để thu hút người tham gia, họ có thể đã đầu tư không ít nguồn lực quảng bá lưu lượng. Tuy nhiên, do crowdfunding không đạt chuẩn, người bán còn chưa bắt đầu giai đoạn thiết kế hay phát triển sản phẩm, nghĩa là khoản đầu tư chi phí lớn hơn đã được tránh.
 
-因此，众筹可以视为一种围绕不确定性构建的、对商家和买家都有潜在利益的不对称交易模式。这种模式允许双方在面对不确定性时，通过预设的机制来平衡风险与收益。
+Vì vậy, crowdfunding có thể xem là một mô hình giao dịch bất đối xứng xây dựng xoay quanh tính bất định, có lợi ích tiềm năng cho cả người bán lẫn người mua. Mô hình này cho phép hai bên, khi đối mặt với tính bất định, cân bằng rủi ro và lợi ích thông qua cơ chế định sẵn.
 
-### 不对称交易的要件
+### Các yếu tố của giao dịch bất đối xứng
 
-我们尝试从以上的例子中提取不对称交易的要件：
+Ta thử rút ra các yếu tố của giao dịch bất đối xứng từ những ví dụ trên:
 
-1.  一个存在不确定性的交易：这是不对称交易的前提，意味着交易结果不是完全可预知的
-2.  针对不同交易结果的差异化处理方案：确保两种交易结果下，有限的损失和高额的回报
-3.  力求实现交易双方的双赢：虽然不对称，但交易设计应当力求公平，使得所有参与方都能在某种程度上获益
+1.  Một giao dịch tồn tại tính bất định: đây là tiền đề của giao dịch bất đối xứng, nghĩa là kết quả giao dịch không hoàn toàn đoán trước được
+2.  Phương án xử lý khác biệt hóa cho từng kết quả giao dịch: đảm bảo trong cả hai kết quả, tổn thất là hữu hạn còn phần thưởng là cao
+3.  Nỗ lực đạt được đôi bên cùng thắng: tuy bất đối xứng, nhưng thiết kế giao dịch nên hướng tới công bằng, để mọi bên tham gia đều được lợi ở mức độ nào đó
 
-根据以上要件，我们可以创造和改造自己的不对称交易。整个交易设计的重点在于，失败的情况下，我们能够将损失最小化。这往往和我们自身的资源、业务特性有关。比如，我们可以利用边际成本不对称来构建交易。我们已经创作完成的课程边际复制成本是很低的，所以可以提出这样一个交易：如果可以在一定时间内，学完我们的课程，那么课程就免费；否则则收取课程全款费用。
+Dựa trên các yếu tố trên, ta có thể sáng tạo và cải biến giao dịch bất đối xứng của riêng mình. Trọng tâm của toàn bộ thiết kế giao dịch là: trong trường hợp thất bại, ta có thể tối thiểu hóa tổn thất. Điều này thường liên quan đến nguồn lực và đặc tính nghiệp vụ của chính ta. Ví dụ, ta có thể tận dụng sự bất đối xứng của chi phí biên để xây dựng giao dịch. Khóa học ta đã sáng tạo xong có chi phí biên sao chép rất thấp, nên có thể đưa ra giao dịch thế này: nếu học xong khóa học của chúng tôi trong một khoảng thời gian nhất định, thì khóa học miễn phí; nếu không thì thu toàn bộ học phí.
 
-平台风险
+Rủi ro nền tảng
 ----
 
-除了我们前面提到的风险，还有来自平台本身的不确定性。这主要涉及内容安全问题，而每一个平台对内容安全的理解又并不相同。在实际操作中，许多账号即使没有违规，只要有大量用户认为某个操作违规，账号也极有可能被封禁。
+Ngoài các rủi ro đã đề cập ở trên, còn có tính bất định đến từ chính các nền tảng. Điều này chủ yếu liên quan đến vấn đề an toàn nội dung, mà mỗi nền tảng lại hiểu về an toàn nội dung theo cách khác nhau. Trong thực tế vận hành, nhiều tài khoản dù không vi phạm, chỉ cần có lượng lớn người dùng cho rằng một thao tác nào đó vi phạm, tài khoản cũng rất có thể bị khóa.
 
-此外，平台规则的变更也是一大风险点。在平台初期，为了扩展用户基础，很多规则都相对宽松。但是，当平台达到一定规模，尤其是形成垄断之后，规则就会变得更加严格，平台会更多地「唯利是图」。需要注意的是，平台对用户账号拥有极高的控制权，甚至在用户协议中明确指出，账号并不属于用户自己，而是平台的，有权随时收回。
+Ngoài ra, việc thay đổi quy tắc của nền tảng cũng là một điểm rủi ro lớn. Ở giai đoạn đầu, để mở rộng nền tảng người dùng, nhiều quy tắc khá lỏng lẻo. Nhưng khi nền tảng đạt đến quy mô nhất định, nhất là sau khi hình thành độc quyền, quy tắc sẽ trở nên nghiêm ngặt hơn, nền tảng sẽ «chạy theo lợi nhuận» nhiều hơn. Cần lưu ý rằng nền tảng nắm quyền kiểm soát cực cao với tài khoản người dùng, thậm chí ghi rõ trong thỏa thuận người dùng rằng tài khoản không thuộc về người dùng mà thuộc về nền tảng, có quyền thu hồi bất cứ lúc nào.
 
-### 自建+多发
+### Tự dựng + đa kênh
 
-为了规避这种风险，我们通常采取自建+多平台发布的策略。
+Để né tránh loại rủi ro này, chúng tôi thường áp dụng chiến lược tự dựng + phát hành đa nền tảng.
 
 ![](images/image-105.png)
 
-自建+多发策略规避平台风险
+Chiến lược tự dựng + đa kênh né tránh rủi ro nền tảng
 
-比如，将长图文内容首先发布在WordPress上，然后将短内容发布在Mastodon上，视频则上传到自己的视频平台。这就是自建。自建的优点在于能够直接控制内容，但缺点是可能会面临用户基数较少的问题。
+Ví dụ, nội dung dạng bài dài kèm hình trước tiên đăng trên WordPress, nội dung ngắn đăng trên Mastodon, video thì tải lên nền tảng video của riêng mình. Đây là tự dựng. Ưu điểm của tự dựng là kiểm soát trực tiếp nội dung, nhưng nhược điểm là có thể đối mặt với vấn đề lượng người dùng ít.
 
-因此，我们还会采取第二步策略：多平台发布。将内容自建后，再分别发布到微博、推特、公众号以及Bilibili或YouTube等平台，以触及更广泛的受众。通过这种方式，我们可以引导流量全面回归到我们的主要平台上，从而在一定程度上控制品牌风险。即使某一天我们的某个账号被封，由于我们拥有自己的主站，我们仍然能够触达我们的用户，重建与用户的联系。
+Vì vậy, ta còn áp dụng bước chiến lược thứ hai: phát hành đa nền tảng. Sau khi tự dựng nội dung, tiếp tục phát hành lên các nền tảng như Weibo, Twitter, kênh công khai WeChat, cùng Bilibili hoặc YouTube, để chạm tới lượng khán giả rộng hơn. Bằng cách này, ta có thể dẫn dắt lưu lượng quay về toàn diện nền tảng chính của mình, từ đó kiểm soát rủi ro thương hiệu ở mức độ nhất định. Dù một ngày nào đó tài khoản của ta bị khóa, nhờ có trang chủ riêng, ta vẫn có thể tiếp cận người dùng, tái thiết lập kết nối với họ.
 
-#### 自建平台的成本问题
+#### Vấn đề chi phí của nền tảng tự dựng
 
-自建平台的一个挑战是成本问题。过去，自建平台的成本非常高，但现在，我们有了更简单的解决方案，即依赖开源项目来建设。更具体来说，可以大量依赖WordPress。现在，甚至有小程序可以直接对接WordPress的API接口，将WordPress网站转化为小程序。对于初创企业来说，在没有发展到一定规模之前，完全可以不考虑开发APP，因为小程序和弯针足以满足前期项目的需求。
+Một thách thức của nền tảng tự dựng là vấn đề chi phí. Trước đây, chi phí tự dựng nền tảng rất cao, nhưng bây giờ, ta có giải pháp đơn giản hơn, đó là dựa vào các dự án mã nguồn mở để xây dựng. Cụ thể hơn, có thể dựa nhiều vào WordPress. Hiện nay thậm chí có mini program có thể kết nối trực tiếp với API của WordPress, biến website WordPress thành mini program. Với doanh nghiệp mới khởi đầu, trước khi phát triển đến quy mô nhất định, hoàn toàn có thể không cần tính đến phát triển APP, vì mini program và website đủ đáp ứng nhu cầu của dự án giai đoạn đầu.
 
-此外，我们正在开发一款名为「方糖OPB」的WordPress插件，旨在为WordPress添加一些适用于个人企业的基础设施。通过安装这个插件并配置相应功能，可以轻松完成很多一人企业必须的基础功能，例如通过微信账号登录、微信支付以及使用WooCommerce进行众筹等。
+Ngoài ra, chúng tôi đang phát triển một plugin WordPress mang tên «Fangtang OPB», nhằm bổ sung cho WordPress một số hạ tầng phù hợp với doanh nghiệp một người. Bằng cách cài plugin này và cấu hình các chức năng tương ứng, có thể dễ dàng hoàn thành nhiều chức năng nền tảng thiết yếu của doanh nghiệp một người, ví dụ đăng nhập qua tài khoản WeChat, thanh toán WeChat, và dùng WooCommerce để crowdfunding.

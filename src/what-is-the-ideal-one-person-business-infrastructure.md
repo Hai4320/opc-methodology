@@ -1,124 +1,124 @@
-# 理想的一人企业基础设施
+# Hạ tầng lý tưởng cho doanh nghiệp một người
 
-在了解方法论后，我们通常希望开始实践。但从这里开始，难度就会骤增，尤其是对一些没有技术基础的同学来说，会感到无从下手。
+Sau khi nắm được phương pháp luận, chúng ta thường muốn bắt tay vào thực hành. Nhưng từ đây, độ khó tăng vọt, đặc biệt với những bạn không có nền tảng kỹ thuật, sẽ cảm thấy không biết bắt đầu từ đâu.
 
-这是因为我们缺乏一些基础设施，而这些基础设施是使用互联网的企业所必需的，它们用于处理各种业务的通用场景。对于一些线下业务基础设施可能不一样，但一人线下业务往往难以规模化，所以我们这里只讨论以网络和数字经济为核心的一人企业基础设施。
+Đó là vì chúng ta thiếu một số hạ tầng — những hạ tầng mà bất kỳ doanh nghiệp nào hoạt động trên internet cũng cần, dùng để xử lý các tình huống chung của mọi loại nghiệp vụ. Với một số nghiệp vụ offline, hạ tầng có thể khác, nhưng nghiệp vụ offline một người thường khó mở rộng quy mô, nên ở đây chúng ta chỉ bàn về hạ tầng doanh nghiệp một người lấy internet và kinh tế số làm cốt lõi.
 
-为了将我们的想法和业务落地，让用户能够使用，我们需要构建一些基础设施。基础设施并不一定要自己构建，也可以直接使用现成的平台。例如，微信公众号就是一个很成熟的、用于付费阅读或广告商业模式的基础设施。
+Để đưa ý tưởng và nghiệp vụ của mình vào thực tế, cho người dùng sử dụng được, chúng ta cần xây dựng một số hạ tầng. Hạ tầng không nhất thiết phải tự xây, cũng có thể dùng trực tiếp các nền tảng có sẵn. Ví dụ, WeChat Official Account là một hạ tầng đã rất trưởng thành cho mô hình kinh doanh đọc trả phí hoặc quảng cáo.
 
-为什么要构建自己的基础设施
+Vì sao cần xây hạ tầng của riêng mình
 -------------
 
-那么在有成熟平台的前提下，为什么我们还要构建自己的基础设施呢？首先要明确一点，并不是说平台的基础设施不能用，而是说在使用平台基础设施的同时，需要拥有一套完全自己可控的基础设施，并且实现用户的无缝连接。将单选变成多选。
+Vậy khi đã có nền tảng trưởng thành, tại sao chúng ta vẫn cần xây hạ tầng của riêng mình? Trước hết cần làm rõ một điều: không phải là không được dùng hạ tầng của nền tảng, mà là trong khi dùng hạ tầng của nền tảng, cần sở hữu một bộ hạ tầng hoàn toàn do mình kiểm soát, và kết nối liền mạch người dùng giữa hai bên. Biến lựa chọn duy nhất thành nhiều lựa chọn.
 
-### 商业模式
+### Mô hình kinh doanh
 
-平台的核心商业模式是汇聚用户，从中获利。所以它对不同类型的用户以及在平台不同生命周期的策略是不一样的，这些策略可能并不适合我们的特定阶段。
+Mô hình kinh doanh cốt lõi của nền tảng là gom người dùng lại để kiếm lợi từ đó. Vì vậy chiến lược của họ với từng loại người dùng, và ở từng giai đoạn vòng đời của nền tảng, là khác nhau — những chiến lược này có thể không phù hợp với giai đoạn cụ thể của chúng ta.
 
-例如，在一些平台上，如果某个账号影响力特别大，平台可能会削弱这种账号的能力。而对于一些特别小的账号，如果看不到增长趋势，就不会分配流量，甚至会限制你自己引来的流量。
+Ví dụ, trên một số nền tảng, nếu một tài khoản có sức ảnh hưởng quá lớn, nền tảng có thể tìm cách làm suy yếu tài khoản đó. Còn với những tài khoản quá nhỏ, nếu không thấy xu hướng tăng trưởng, nền tảng sẽ không phân bổ lưu lượng, thậm chí còn hạn chế cả lưu lượng bạn tự kéo về.
 
-另一方面，在平台早期，平台可能会扶持一些方向的账号，这时你会拿到较多的流量，但这些流量是从其他用户那里转移过来的。
+Mặt khác, ở giai đoạn đầu, nền tảng có thể hỗ trợ tài khoản theo một số hướng nhất định, khi đó bạn nhận được khá nhiều lưu lượng, nhưng lưu lượng này là chuyển từ người dùng khác sang.
 
-如果没有自己的基础设施，就只能任由平台操控。但如果有自己的基础设施，当平台策略不匹配时，可以引导用户到自己的平台上消费内容、购买产品。
+Nếu không có hạ tầng riêng, bạn chỉ có thể mặc cho nền tảng thao túng. Nhưng nếu có hạ tầng riêng, khi chiến lược của nền tảng không còn phù hợp, bạn có thể dẫn người dùng về nền tảng của mình để tiêu thụ nội dung, mua sản phẩm.
 
-### 封号风险
+### Rủi ro khóa tài khoản
 
-平台有自己的红线和潜规则，甚至会出现一些失误。如果不小心碰到这些问题，可能会导致封号。对于个人用户，这可能没什么问题，但对于经营者，可能会导致数年构建的业务前功尽弃，所有努力化为乌有。
+Nền tảng có lằn ranh đỏ và luật ngầm riêng, thậm chí đôi khi còn xử lý nhầm. Nếu vô tình chạm vào những vấn đề này, tài khoản có thể bị khóa. Với người dùng cá nhân, điều đó có thể không sao, nhưng với người kinh doanh, nó có thể khiến sự nghiệp gây dựng nhiều năm đổ sông đổ biển, mọi nỗ lực tan thành mây khói.
 
 ![](images/image-10.png)
 
-### 产品形态和品牌
+### Hình thái sản phẩm và thương hiệu
 
-使用平台的基础设施还可能导致产品形态过于雷同。如果产品形态比较保守，可能没有问题，但如果在产品形态上进行创新，平台基础设施的约束就会非常大。
+Dùng hạ tầng của nền tảng còn có thể khiến hình thái sản phẩm trở nên na ná nhau. Nếu sản phẩm theo hướng an toàn thì có thể không sao, nhưng nếu muốn đổi mới về hình thái sản phẩm, ràng buộc của hạ tầng nền tảng sẽ rất lớn.
 
-例如，我们原来的视频课程放在网易云课堂上销售，但当我们想为学员提供实际操作的沙箱环境时，平台并不支持。即使我们自己开发沙箱，要与网易云课堂的用户对接时，发现该平台不提供接口。
+Ví dụ, khóa học video của chúng tôi trước đây bán trên NetEase Cloud Classroom, nhưng khi muốn cung cấp cho học viên môi trường sandbox để thực hành, nền tảng không hỗ trợ. Kể cả khi chúng tôi tự phát triển sandbox, lúc cần kết nối với người dùng của NetEase Cloud Classroom mới phát hiện nền tảng không cung cấp API.
 
-为了防止讲师从平台导流，一些平台甚至在课件中不允许出现独立域名。这种规则在平台中后期会特别严格。
+Để ngăn giảng viên kéo người dùng ra khỏi nền tảng, một số nền tảng thậm chí không cho phép xuất hiện tên miền độc lập trong tài liệu bài giảng. Kiểu quy tắc này ở giai đoạn giữa và cuối của nền tảng sẽ đặc biệt nghiêm ngặt.
 
-### 混合生态
+### Hệ sinh thái lai
 
-我们认为的最佳实践是首先拥有一个完全可控的基础设施，然后充分利用各个平台的资源和流量，分发内容到其他平台，并将用户回流至自有基础设施，形成一个混合生态。
+Chúng tôi cho rằng thực hành tốt nhất là trước hết sở hữu một hạ tầng hoàn toàn trong tầm kiểm soát, sau đó tận dụng tối đa tài nguyên và lưu lượng của các nền tảng: phân phối nội dung lên các nền tảng khác, rồi dẫn người dùng quay về hạ tầng của mình, hình thành một hệ sinh thái lai.
 
-为什么要自己构建基础设施
+Vì sao phải tự xây hạ tầng
 ------------
 
-市面上有很多构建基础设施的软件或SaaS服务，但当我们尝试使用时，会发现它们多多少少存在一些问题。
+Trên thị trường có rất nhiều phần mềm hoặc dịch vụ SaaS để xây hạ tầng, nhưng khi thử dùng, chúng ta sẽ thấy chúng ít nhiều đều có vấn đề.
 
-### 价格高
+### Giá cao
 
-价格高是一个典型问题，因为绝大部分的SaaS是面向企业的。
+Giá cao là một vấn đề điển hình, vì phần lớn SaaS hướng tới doanh nghiệp.
 
 ![](images/image-13-1024x759.png)
 
-典型SaaS服务的定价
+Bảng giá của một dịch vụ SaaS điển hình
 
-对企业来说可能便宜的价格，但对个人来说就很贵。在一人企业的早期，我们还没有赚钱，也没有风险投资，所以资源有限。一年上万的投入对没有收入的个人来说，还是太高了。
+Mức giá có thể là rẻ với doanh nghiệp, nhưng với cá nhân lại đắt. Ở giai đoạn đầu của doanh nghiệp một người, chúng ta chưa kiếm được tiền, cũng không có vốn đầu tư mạo hiểm, nên nguồn lực rất hạn chế. Khoản đầu tư cả chục nghìn tệ mỗi năm với một cá nhân chưa có thu nhập vẫn là quá cao.
 
-### 不对个人开放
+### Không mở cho cá nhân
 
-另一个问题是很多基础设施不对个人开放，比如支付。
+Vấn đề khác là nhiều hạ tầng không mở cho cá nhân, ví dụ như thanh toán.
 
 ![](images/image-12-1024x534.png)
 
-微信支付申请材料要求
+Yêu cầu hồ sơ đăng ký WeChat Pay
 
-一些对个人开放的支付服务，又没有与这些现成的基础设施整合起来。这导致很多现成的基础设施不能直接用。
+Một số dịch vụ thanh toán mở cho cá nhân thì lại không tích hợp sẵn với các hạ tầng có sẵn này. Điều đó khiến nhiều hạ tầng có sẵn không dùng trực tiếp được.
 
-### SaaS而非自架
+### SaaS thay vì tự host
 
-一个潜在风险是如果我们不能自行建设基础设施，而是使用服务商架设的在线版本，会有两种潜在风险。一是企业突然倒闭，即使退钱，但我们的业务就突然崩溃，没有补救方案。
+Một rủi ro tiềm ẩn là nếu chúng ta không thể tự dựng hạ tầng mà dùng bản online do nhà cung cấp dịch vụ vận hành, sẽ có hai rủi ro. Một là công ty đột ngột phá sản — kể cả có hoàn tiền, nghiệp vụ của chúng ta cũng sụp đổ đột ngột, không có phương án cứu vãn.
 
 ![](images/image-14.png)
 
-invision倒闭
+InVision đóng cửa
 
-另一个风险是企业突然涨价，因为业务已经在平台上，短时间内迁不出去，所以当服务商涨价时，议价能力很弱。如果我们赚到了很多钱，分润给服务商也无所谓，但对一人企业来说，如果费用过高，整体可能没有收益，甚至亏损。
+Rủi ro còn lại là nhà cung cấp đột ngột tăng giá. Vì nghiệp vụ đã nằm trên nền tảng của họ, trong thời gian ngắn không chuyển đi được, nên khi họ tăng giá, khả năng mặc cả của ta rất yếu. Nếu chúng ta kiếm được nhiều tiền thì chia phần cho nhà cung cấp cũng không sao, nhưng với doanh nghiệp một người, nếu chi phí quá cao, tổng thể có thể không còn lợi nhuận, thậm chí lỗ.
 
 ![](images/image-15.png)
 
-企业微信突然对外部联系人收费
+WeChat Work đột ngột thu phí liên hệ bên ngoài
 
-理想的一人企业基础设施
+Hạ tầng lý tưởng cho doanh nghiệp một người
 -----------
 
-可见，现有的用来搭建基础设施的服务多多少少存在一些问题。那么，理想的一人企业基础设施应该是什么样子的呢？
+Có thể thấy, các dịch vụ hiện có để dựng hạ tầng ít nhiều đều có vấn đề. Vậy hạ tầng lý tưởng cho doanh nghiệp một người nên trông như thế nào?
 
-### 足够便宜
+### Đủ rẻ
 
-首先，它应该足够便宜，至少在用户量很少的情况下应该非常便宜。这样我们才能在没有赚钱的情况下持续运营。
+Trước hết, nó phải đủ rẻ — ít nhất khi lượng người dùng còn ít thì phải rất rẻ. Có vậy chúng ta mới duy trì vận hành được trong lúc chưa kiếm ra tiền.
 
-可以自行架设的开源软件是一个非常好的选择，因为当用户量小的时候，对服务器资源的要求很低，只需租一个最低性能的虚拟机实例即可运营。
+Phần mềm open source tự host là một lựa chọn rất tốt, vì khi lượng người dùng nhỏ, yêu cầu tài nguyên máy chủ rất thấp, chỉ cần thuê một máy ảo cấu hình thấp nhất là vận hành được.
 
-提供自架方案的在线SaaS是一个更省事的选择，因为你可以随时迁移到自架方案，没有lock-in的风险。
+SaaS online có kèm phương án tự host là lựa chọn còn nhàn hơn, vì bạn có thể chuyển sang tự host bất cứ lúc nào, không có rủi ro lock-in.
 
-### 足够可控
+### Đủ khả năng kiểm soát
 
-另一方面，基础设施需要足够可控，不会因为别人的决定导致业务中断。虽然可能会受一些影响，但不能因为影响导致整个业务崩溃。
+Mặt khác, hạ tầng cần đủ khả năng kiểm soát, để nghiệp vụ không bị gián đoạn vì quyết định của người khác. Có thể chịu chút ảnh hưởng, nhưng không thể vì ảnh hưởng đó mà cả nghiệp vụ sụp đổ.
 
-比如说，平台限流或封号，至少可以通过其他方法触达已有用户。服务商疯狂涨价时，至少可以将数据迁移出来，在自己的环境中快速搭建，让用户继续使用，不至于流失到竞争对手那里。
+Chẳng hạn, khi nền tảng bóp lưu lượng hoặc khóa tài khoản, ít nhất vẫn có cách khác để tiếp cận người dùng hiện có. Khi nhà cung cấp tăng giá điên cuồng, ít nhất có thể chuyển dữ liệu ra, nhanh chóng dựng lại trong môi trường của mình để người dùng tiếp tục sử dụng, không đến mức chảy sang đối thủ cạnh tranh.
 
-### 个人可用
+### Cá nhân dùng được
 
-我们希望这个基础设施可以以个人资质来运营。
+Chúng ta mong hạ tầng này có thể vận hành với tư cách pháp lý cá nhân.
 
-因为注册公司的成本很高，虽然工商注册已经足够便宜，甚至有些城市连公章都是赠送的，但真正的费用在于每个月的记账。如果没有合适的场地，还需要租用场地，这两项加起来一年就需要几千甚至上万。
+Vì chi phí đăng ký công ty rất cao — tuy phí đăng ký kinh doanh đã đủ rẻ, thậm chí có thành phố còn tặng cả con dấu, nhưng chi phí thực sự nằm ở việc làm sổ sách kế toán hàng tháng. Nếu không có địa điểm phù hợp, còn phải thuê mặt bằng; hai khoản này cộng lại một năm mất vài nghìn đến cả chục nghìn tệ.
 
-所以我们希望这个基础设施有一个完整的针对个人用户的解决方案，包括用户注册、登录、支付和消息推送等功能都可以个人资质使用。
+Vì vậy chúng ta mong hạ tầng này có một giải pháp trọn vẹn cho người dùng cá nhân: đăng ký, đăng nhập, thanh toán, đẩy thông báo... đều dùng được với tư cách cá nhân.
 
-### 足够开放
+### Đủ mở
 
-如果我们想在产品和商业模式上进行创新，必然会对常规流程、界面和功能进行修改。所以我们的基础设施需要足够开放，允许我们方便地进行二次开发。
+Nếu muốn đổi mới về sản phẩm và mô hình kinh doanh, chắc chắn chúng ta sẽ phải sửa quy trình, giao diện và tính năng thông thường. Vì vậy hạ tầng cần đủ mở, cho phép chúng ta tùy biến và phát triển thêm một cách thuận tiện.
 
-另一方面，这个基础设施最好足够流行，这样才能容易找到二次开发工程师。不然就像现在的银行，全球有43%的银行依赖于COBOL程序，但已经很难找到对应的工程师来维护。
+Mặt khác, hạ tầng này tốt nhất nên đủ phổ biến, để dễ tìm được kỹ sư phát triển thêm. Nếu không sẽ như các ngân hàng hiện nay: 43% ngân hàng toàn cầu phụ thuộc vào chương trình COBOL, nhưng đã rất khó tìm kỹ sư tương ứng để bảo trì.
 
-### 繁荣生态
+### Hệ sinh thái sôi động
 
-即使能找到工程师进行开发，开发过程总是需要时间，而且由于需求和工程师理解问题，会经历很长时间的迭代才能出现相对成熟的产品。
+Kể cả tìm được kỹ sư để phát triển, quá trình phát triển luôn tốn thời gian, và do vấn đề về yêu cầu cũng như mức độ hiểu của kỹ sư, phải trải qua thời gian dài lặp đi lặp lại mới ra được sản phẩm tương đối hoàn thiện.
 
-如果使用的基础设施有繁荣的生态，很多功能可能已经被开发出来，并以免费或付费的方式发布为插件，我们可以直接使用。
+Nếu hạ tầng đang dùng có hệ sinh thái sôi động, nhiều tính năng có thể đã được phát triển sẵn và phát hành dưới dạng plugin miễn phí hoặc trả phí, chúng ta dùng ngay được.
 
-即使插件有一些细节不符合需求，改动起来也会很快，成本会大大降低。
+Kể cả plugin có vài chi tiết chưa khớp nhu cầu, việc chỉnh sửa cũng rất nhanh, chi phí giảm đi đáng kể.
 
-### 适配于方法论
+### Tương thích với phương pháp luận
 
-当然，最重要的一点是，我们希望这个基础设施可以很好地适配「一人企业方法论」、为我们这套可能是唯一的针对一人企业的方法论提供全程支撑，让使用这套方法论的用户可以开箱即用，不要再花更多时间在测试和开发基础功能上。
+Tất nhiên, điều quan trọng nhất là chúng ta mong hạ tầng này tương thích tốt với 《Phương pháp luận doanh nghiệp một người》, hỗ trợ trọn vẹn cho bộ phương pháp luận — có lẽ là duy nhất — dành cho doanh nghiệp một người này, để người dùng theo phương pháp luận có thể dùng ngay khi mở hộp, không phải tốn thêm thời gian vào việc thử nghiệm và phát triển các tính năng cơ bản nữa.

@@ -1,161 +1,161 @@
-# 竞争策略:不竞争策略
+# Chiến lược cạnh tranh: Chiến lược không cạnh tranh
 
-在「规划一人企业」的第三部分，我们将讨论「竞争策略」。虽然我们理解了基础逻辑、也并尽可能面向小众刚需来选择细分市场，但无论如何选择，还是将不可避免地面临竞争。因此，在设计产品之前，我们需要考虑一些与竞争相关的策略。
+Trong phần thứ ba của「Hoạch định doanh nghiệp một người」, chúng ta sẽ thảo luận về「chiến lược cạnh tranh」. Dù chúng ta đã hiểu logic nền tảng, và cũng đã cố gắng hết mức chọn thị trường phân khúc hướng đến nhu cầu thiết yếu của nhóm ngách, nhưng dù chọn thế nào thì vẫn không tránh khỏi phải đối mặt với cạnh tranh. Vì vậy, trước khi thiết kế sản phẩm, chúng ta cần cân nhắc một số chiến lược liên quan đến cạnh tranh.
 
-今天我们重点来讨论「不竞争策略」。
+Hôm nay chúng ta tập trung thảo luận về「chiến lược không cạnh tranh」.
 
-核心思路
+Ý tưởng cốt lõi
 ----
 
-不竞争策略的核心思路依然是尽可能避免竞争。主要有两个方向：
+Ý tưởng cốt lõi của chiến lược không cạnh tranh vẫn là tránh cạnh tranh hết mức có thể. Có hai hướng chính:
 
--   将竞争变成合作共赢
--   增强独特性，弱化竞争基础，没有对比就没有竞争
+-   Biến cạnh tranh thành hợp tác cùng thắng
+-   Tăng cường tính độc đáo, làm suy yếu nền tảng của cạnh tranh — không có so sánh thì không có cạnh tranh
 
-打不过就加入
+Không đánh nổi thì gia nhập
 ------
 
-和目标是大块市场的大企业或创业公司不同，一人企业往往只需要很小的市场份额就可以获得很好，因此也是天然的优质合作伙伴。在确定竞争策略之前，我们应该先问自己，能否先通过合作的方式实现双赢。
+Khác với các doanh nghiệp lớn hay công ty khởi nghiệp nhắm vào miếng thị trường lớn, doanh nghiệp một người thường chỉ cần thị phần rất nhỏ là đã sống tốt, vì vậy tự nhiên trở thành đối tác hợp tác chất lượng. Trước khi xác định chiến lược cạnh tranh, chúng ta nên tự hỏi mình trước: liệu có thể đạt được cùng thắng thông qua hợp tác hay không.
 
-### 成为生态的一部分
+### Trở thành một phần của hệ sinh thái
 
-很多大型商业系统为了覆盖长尾需求，都提供插件系统或者有开放API。我们可以考虑基于它们研发产品，融入其生态，充分利用已有的用户和流量等资源。
+Nhiều hệ thống thương mại lớn, để bao phủ nhu cầu đuôi dài, đều cung cấp hệ thống plugin hoặc có API mở. Chúng ta có thể cân nhắc phát triển sản phẩm dựa trên chúng, hòa mình vào hệ sinh thái của họ, tận dụng triệt để các nguồn lực sẵn có như người dùng và lưu lượng truy cập.
 
 #### WordPress
 
-内容管理系统（CMS）是独立开发者非常喜欢涉足的一个领域，但有一个开源巨无霸 ------ WordPress。虽然很多人以为它已经过时，但根据2023年的数据，WordPress仍占据了整个网站建设市场45%的份额，并拥有6万个免费插件和9千个免费主题。这还不包括大约1万个付费主题，而这些付费主题通常价格不高。
+Hệ quản trị nội dung (CMS) là một lĩnh vực mà các nhà phát triển độc lập (indie dev) rất thích dấn thân vào, nhưng ở đó có một gã khổng lồ mã nguồn mở ------ WordPress. Dù nhiều người tưởng rằng nó đã lỗi thời, nhưng theo số liệu năm 2023, WordPress vẫn chiếm 45% thị phần của toàn bộ thị trường xây dựng website, và sở hữu 60 nghìn plugin miễn phí cùng 9 nghìn theme miễn phí. Con số này còn chưa bao gồm khoảng 10 nghìn theme trả phí, mà các theme trả phí này thường giá không cao.
 
 ![](images/wd-1024x963.jpg)
 
-WordPress庞大的开源生态
+Hệ sinh thái mã nguồn mở khổng lồ của WordPress
 
-比如，我购买了一个非常棒的Networker主题，它可以直接将WordPress变成垂直门户，仅仅花费了600元。加上免费的Woocommerce插件，还包括网店功能。相比之下，如果雇佣一个外包公司设计网站并实施，至少要花费上千元。
+Ví dụ, tôi đã mua một theme rất tuyệt tên là Networker, nó có thể biến WordPress trực tiếp thành một cổng thông tin dọc, mà chỉ tốn 600 tệ. Cộng thêm plugin Woocommerce miễn phí là có luôn cả chức năng cửa hàng trực tuyến. So sánh mà nói, nếu thuê một công ty outsourcing thiết kế và triển khai website thì ít nhất phải tốn hàng nghìn tệ.
 
-在WordPress拥有如此大的市场份额的情况下，如果我们想进入CMS市场，最佳策略不是开发一个与WordPress竞争的产品，而是为WordPress开发插件和主题，即成为其生态系统的一部分。
+Trong bối cảnh WordPress nắm giữ thị phần lớn đến vậy, nếu chúng ta muốn bước vào thị trường CMS, chiến lược tốt nhất không phải là phát triển một sản phẩm cạnh tranh với WordPress, mà là phát triển plugin và theme cho WordPress — tức trở thành một phần trong hệ sinh thái của nó.
 
-可能有人会质疑，开发插件和主题能赚多少钱呢？
+Có thể ai đó sẽ nghi ngờ: phát triển plugin và theme thì kiếm được bao nhiêu tiền?
 
 ![](images/image-53-1024x542.png)
 
-ThemeFroest上的畅销主题
+Theme bán chạy trên ThemeForest
 
-可以参考这家为WordPress开发主题的公司，在ThemeForest上销售的一款主题的收入。从定价和销售粗略计算，仅这一款主题到2020年的时候就赚取了3,515万美元。而到了2024年2月，这个数字已经增长到了5,700万美元。
+Có thể tham khảo doanh thu của một theme mà công ty chuyên phát triển theme cho WordPress này bán trên ThemeForest. Tính sơ bộ từ giá bán và lượng bán, chỉ riêng theme này đến năm 2020 đã kiếm được 35,15 triệu USD. Và đến tháng 2 năm 2024, con số này đã tăng lên 57 triệu USD.
 
-这表明，即使是成为大平台生态系统的一部分，也有潜在的巨大利润，虽然可能不足以支撑一个上市公司，但对于创业公司的早期已经足够了。更不用说一人企业了。
+Điều này cho thấy, ngay cả khi chỉ trở thành một phần trong hệ sinh thái của nền tảng lớn, cũng có tiềm năng lợi nhuận khổng lồ — dù có thể không đủ để chống đỡ một công ty niêm yết, nhưng với giai đoạn đầu của công ty khởi nghiệp thì đã quá đủ. Huống chi là doanh nghiệp một người.
 
 #### Notion
 
 ![](images/image-54-1024x659.png)
 
-Notion首页
+Trang chủ Notion
 
-Notion是一个最近几年迅速崛起的文档平台，通过提供API，许多第三方工具在其基础上开发出了盈利的产品。以下是几个例子：
+Notion là một nền tảng tài liệu trỗi dậy nhanh chóng trong vài năm gần đây; thông qua việc cung cấp API, nhiều công cụ bên thứ ba đã phát triển ra các sản phẩm sinh lời trên nền tảng của nó. Dưới đây là vài ví dụ:
 
--   HelpKit：将Notion文档转换为托管知识库，无需编码，不到一年时间内月收入超过$3K，拥有130个付费客户。
--   Super.so：将Notion页面转换为具有自定义域名、字体、分析等功能的网站，6个月内月收入达到$12K。
--   Janel通过Notion建立了Newsletter OS，3个月内赚取了$20K美元，证明围绕Notion的产品可以盈利。
+-   HelpKit: chuyển tài liệu Notion thành cơ sở tri thức được hosting sẵn, không cần lập trình, chưa đầy một năm đã đạt doanh thu tháng trên $3K với 130 khách hàng trả phí.
+-   Super.so: chuyển trang Notion thành website với tên miền riêng, font chữ, phân tích dữ liệu và nhiều tính năng khác, đạt doanh thu tháng $12K trong 6 tháng.
+-   Janel xây dựng Newsletter OS trên Notion, kiếm được $20K trong 3 tháng, chứng minh sản phẩm xoay quanh Notion có thể sinh lời.
 
-这种基于大平台发展独立小功能的思路被称为MicroSaaS，也是很值得我们借鉴的。
+Lối tư duy phát triển tính năng nhỏ độc lập dựa trên nền tảng lớn này được gọi là MicroSaaS, cũng rất đáng để chúng ta học hỏi.
 
 #### WebFlow
 
 ![](images/image-55-1024x1018.png)
 
-WebFlow首页
+Trang chủ WebFlow
 
-在 NoCode 领域，有一个非常实用的工具，叫做WebFlow。围绕着它也发展出来了很多商业工具。
+Trong lĩnh vực NoCode, có một công cụ rất thực dụng tên là WebFlow. Xoay quanh nó cũng đã phát triển ra rất nhiều công cụ thương mại.
 
--   JetBoost：无需编写代码即可为Webflow添加实时搜索、动态过滤等功能。
--   FlowBase：提供大量Webflow资源，包括高级组件、模板、指南、应用等。
--   PowerImporter：简化Webflow CMS的更新，支持Excel、Wordpress和Airtable。
--   Finsweet：提供定制的Webflow网站开发服务，并免费提供Webflow CMS库。
--   SystemFlow：为Webflow和Figma提供基于设计师的工具框架，包含1000+ CSS类、预建组件和布局等。
--   Flowyak：为初创企业设计和开发高转化Webflow模板。
--   BuildBites：按月固定价格提供无限Webflow开发服务。
--   WebPlug：一键同步Webflow CMS与Airtable数据库，无需复杂触发器。
--   PressFlow：将WordPress网站转换为Webflow网站的全面数字设计和开发服务。
--   DesignDash：为成长中的初创企业提供无限Web设计（主要是Webflow）订阅服务。
+-   JetBoost: thêm tìm kiếm thời gian thực, lọc động và các tính năng khác cho Webflow mà không cần viết code.
+-   FlowBase: cung cấp lượng lớn tài nguyên Webflow, gồm component cao cấp, template, hướng dẫn, ứng dụng, v.v.
+-   PowerImporter: đơn giản hóa việc cập nhật Webflow CMS, hỗ trợ Excel, Wordpress và Airtable.
+-   Finsweet: cung cấp dịch vụ phát triển website Webflow theo yêu cầu, và cung cấp miễn phí thư viện Webflow CMS.
+-   SystemFlow: cung cấp framework công cụ hướng designer cho Webflow và Figma, gồm 1000+ CSS class, component dựng sẵn và layout, v.v.
+-   Flowyak: thiết kế và phát triển các template Webflow chuyển đổi cao cho startup.
+-   BuildBites: cung cấp dịch vụ phát triển Webflow không giới hạn với giá cố định theo tháng.
+-   WebPlug: đồng bộ Webflow CMS với cơ sở dữ liệu Airtable chỉ bằng một cú nhấp, không cần trigger phức tạp.
+-   PressFlow: dịch vụ thiết kế và phát triển số toàn diện chuyển website WordPress thành website Webflow.
+-   DesignDash: cung cấp dịch vụ đăng ký thiết kế web không giới hạn (chủ yếu là Webflow) cho các startup đang tăng trưởng.
 
-可以看到这些平台周边的服务和工具，通过提供定制开发服务、简化更新流程、资源实时搜索等功能，增强了平台的价值。
+Có thể thấy các dịch vụ và công cụ xung quanh những nền tảng này, thông qua cung cấp dịch vụ phát triển theo yêu cầu, đơn giản hóa quy trình cập nhật, tìm kiếm tài nguyên thời gian thực và các tính năng khác, đã gia tăng giá trị cho nền tảng.
 
-当你成为这些平台生态系统的一部分时，其用户基本上也就成了你的潜在客户。在这些平台的社群中进行推广时，由于不存在直接的竞争关系，更可能得到平台的欢迎和支持。因此，无论是为已有的大平台开发插件，还是基于这些平台的产品进行扩展，都是我们小公司、小团队和早期创业公司应该优先考虑的竞争策略。
+Khi bạn trở thành một phần trong hệ sinh thái của các nền tảng này, người dùng của họ về cơ bản cũng trở thành khách hàng tiềm năng của bạn. Khi quảng bá trong cộng đồng của các nền tảng này, do không tồn tại quan hệ cạnh tranh trực tiếp, bạn có nhiều khả năng nhận được sự chào đón và ủng hộ của nền tảng hơn. Vì vậy, dù là phát triển plugin cho nền tảng lớn sẵn có, hay mở rộng dựa trên sản phẩm của các nền tảng này, đều là chiến lược cạnh tranh mà các công ty nhỏ, đội nhóm nhỏ và công ty khởi nghiệp giai đoạn đầu như chúng ta nên ưu tiên cân nhắc.
 
-非标准化、弱替代性品类
+Phân loại sản phẩm phi tiêu chuẩn hóa, tính thay thế yếu
 -----------
 
-其次，我们可以选择非标准化的和弱替代性的品类。具体什么意思呢？我们分别来解释。
+Thứ hai, chúng ta có thể chọn các phân loại sản phẩm phi tiêu chuẩn hóa và có tính thay thế yếu. Cụ thể nghĩa là gì? Chúng ta lần lượt giải thích.
 
-### 非标准化
+### Phi tiêu chuẩn hóa
 
-非标准化品类指的是那些即便是同一品类下的产品或服务，消费者也能明显感受到它们之间的差异，这种差异往往基于品质、设计、品牌故事或者个性化服务等方面。
+Phân loại phi tiêu chuẩn hóa chỉ những sản phẩm hoặc dịch vụ mà ngay cả khi cùng một phân loại, người tiêu dùng vẫn cảm nhận rõ rệt sự khác biệt giữa chúng; sự khác biệt này thường dựa trên chất lượng, thiết kế, câu chuyện thương hiệu hoặc dịch vụ cá nhân hóa.
 
-比如我们不会觉得《王国维点评红楼梦》和《胡适点评红楼梦》的内容是一样的，可以有很多人从不同的角度来点评和解读。
+Ví dụ, chúng ta sẽ không cho rằng nội dung của 《Vương Quốc Duy bình Hồng Lâu Mộng》 và 《Hồ Thích bình Hồng Lâu Mộng》 là giống nhau; có thể có rất nhiều người bình luận và diễn giải từ những góc độ khác nhau.
 
 ![](images/image-56-775x1024.png)
 
-很多版本的红楼梦点评
+Rất nhiều phiên bản bình chú Hồng Lâu Mộng
 
-甚至，同一个故事，以不同的方式重复讲述，只要把握技巧，读者都能听得津津有味，不会觉得千篇一律。金庸的小说已经被翻拍成电影电视剧很多次了，但每次都能吸引不少观众。
+Thậm chí, cùng một câu chuyện được kể lại theo những cách khác nhau, chỉ cần nắm vững kỹ thuật, độc giả vẫn nghe say sưa mà không thấy nhàm chán rập khuôn. Tiểu thuyết Kim Dung đã được chuyển thể thành phim điện ảnh, phim truyền hình rất nhiều lần, nhưng lần nào cũng thu hút không ít khán giả.
 
 ![](images/gs-710x1024.jpg)
 
-一个故事可以有很多种讲法
+Một câu chuyện có thể có nhiều cách kể
 
-此外，手工艺品、体验式服务也是定性的非标准化品类。
+Ngoài ra, đồ thủ công mỹ nghệ, dịch vụ trải nghiệm cũng là những phân loại phi tiêu chuẩn hóa điển hình.
 
--   手工艺品：手工艺品因其独一无二的设计和制作过程而成为非标准化的典型例子。即便是同样的产品类型，比如手工陶瓷杯，不同艺术家的作品也会有截然不同的风格、色彩和触感。
--   定制旅行服务：定制旅行服务根据不同客户的需求和偏好提供个性化的行程规划，这种服务的非标准化特征让每个旅行体验都独一无二。
+-   Đồ thủ công mỹ nghệ: đồ thủ công là ví dụ điển hình của phi tiêu chuẩn hóa nhờ thiết kế và quá trình chế tác độc nhất vô nhị. Ngay cả cùng một loại sản phẩm, ví dụ cốc gốm thủ công, tác phẩm của các nghệ nhân khác nhau cũng có phong cách, màu sắc và cảm giác chạm hoàn toàn khác biệt.
+-   Dịch vụ du lịch theo yêu cầu: dịch vụ du lịch theo yêu cầu cung cấp hoạch định hành trình cá nhân hóa theo nhu cầu và sở thích của từng khách hàng; đặc tính phi tiêu chuẩn hóa của loại dịch vụ này khiến mỗi trải nghiệm du lịch đều độc nhất vô nhị.
 
-### 弱替代性品类
+### Phân loại có tính thay thế yếu
 
-弱替代性品类指的是消费者倾向于拥有多个相似产品而不是替代其中任何一个。这类品类的产品通常满足消费者的多样化需求或情感价值。典型品类包括：
+Phân loại có tính thay thế yếu chỉ việc người tiêu dùng có xu hướng sở hữu nhiều sản phẩm tương tự thay vì thay thế bất kỳ cái nào trong số đó. Sản phẩm thuộc loại này thường đáp ứng nhu cầu đa dạng hoặc giá trị cảm xúc của người tiêu dùng. Các phân loại điển hình gồm:
 
--   时尚配饰：比如手表、珠宝等，消费者往往不满足于拥有单一款式，他们会根据不同的场合、心情或搭配需要选择不同的配饰。
--   收藏品：如邮票、艺术品、限量版运动鞋等，这些品类具有很强的收藏价值和情感绑定，使得消费者即便已拥有相似产品，也愿意继续购买。
--   流行服装：消费者往往追求多样化的衣着风格来适应不同的场合、季节或是个人心情的变化，时尚潮流的不断变化也推动了消费者持续更新自己的衣橱，寻找新的风格和设计。
+-   Phụ kiện thời trang: như đồng hồ, trang sức, v.v. — người tiêu dùng thường không thỏa mãn với việc sở hữu một kiểu dáng duy nhất; họ sẽ chọn phụ kiện khác nhau theo dịp, tâm trạng hoặc nhu cầu phối đồ.
+-   Đồ sưu tầm: như tem, tác phẩm nghệ thuật, giày thể thao phiên bản giới hạn — những phân loại này có giá trị sưu tầm và gắn kết cảm xúc rất mạnh, khiến người tiêu dùng dù đã sở hữu sản phẩm tương tự vẫn sẵn lòng tiếp tục mua.
+-   Trang phục thời trang: người tiêu dùng thường theo đuổi phong cách ăn mặc đa dạng để phù hợp với các dịp, mùa hoặc thay đổi tâm trạng cá nhân; sự biến đổi không ngừng của xu hướng thời trang cũng thúc đẩy người tiêu dùng liên tục làm mới tủ đồ, tìm kiếm phong cách và thiết kế mới.
 
-无论是非标准化和弱替代性都是基于认知的。同样是衣服，直男们可以一个季度只需要一两套换洗衣服，表现出极强的替代性。而同样是这个人群，他们却会重复购买机械键盘和充电头。
+Cả phi tiêu chuẩn hóa lẫn tính thay thế yếu đều dựa trên nhận thức. Cùng là quần áo, các anh chàng "thẳng tính" có thể cả một mùa chỉ cần một hai bộ thay đổi, thể hiện tính thay thế cực mạnh. Nhưng cũng chính nhóm người này lại mua đi mua lại bàn phím cơ và củ sạc.
 
-改变品类属性
+Thay đổi thuộc tính phân loại
 ------
 
-通过改变认知和商业逻辑，可以调整品类的替代性，甚至激发新的需求。
+Thông qua thay đổi nhận thức và logic thương mại, có thể điều chỉnh tính thay thế của phân loại, thậm chí khơi dậy nhu cầu mới.
 
-### 个性化、个人化
+### Cá nhân hóa, mang dấu ấn cá nhân
 
-通过将个性和个人特色作为产品的一部分，让产品与众不同。
+Bằng cách đưa cá tính và nét riêng cá nhân trở thành một phần của sản phẩm, khiến sản phẩm trở nên khác biệt.
 
-比如，虽然许多人可能在做相同的事情，讲述相同的内容，但由于每个人的个性和风格不同，消费者的体验也完全不同。这种差异化消除了明显的竞争关系。
+Ví dụ, dù nhiều người có thể đang làm cùng một việc, kể cùng một nội dung, nhưng do cá tính và phong cách mỗi người khác nhau, trải nghiệm của người tiêu dùng cũng hoàn toàn khác biệt. Sự khác biệt hóa này xóa bỏ quan hệ cạnh tranh rõ ràng.
 
 ![](images/image-60-833x1024.png)
 
-个人IP成为产品特色
+IP cá nhân trở thành nét đặc sắc của sản phẩm
 
-再如，针对用户提供定制服务，可以将标准产品变成个性化产品，从而创造需求。比如通过AI生成或者优化客户喜欢的设计或图案，然后将这些设计打印在T恤、手机壳或杯子上。
+Ví dụ khác, cung cấp dịch vụ tùy chỉnh cho người dùng có thể biến sản phẩm tiêu chuẩn thành sản phẩm cá nhân hóa, từ đó tạo ra nhu cầu. Chẳng hạn dùng AI tạo hoặc tối ưu thiết kế hay họa tiết mà khách hàng yêu thích, rồi in những thiết kế này lên áo phông, ốp điện thoại hoặc cốc.
 
-另一方面，个性化和个人化也是一人企业的核心竞争优势之一。大企业为了取悦尽可能多的用户，总是表现得四平八稳。但一人企业往往只需要服务于细分群体，鲜明的个人风格不但给受众留下深刻的印象，建立情感联系，也可以反向筛选用户。
+Mặt khác, cá nhân hóa và dấu ấn cá nhân cũng là một trong những lợi thế cạnh tranh cốt lõi của doanh nghiệp một người. Doanh nghiệp lớn vì muốn làm hài lòng càng nhiều người dùng càng tốt nên luôn tỏ ra tròn trịa an toàn. Nhưng doanh nghiệp một người thường chỉ cần phục vụ nhóm phân khúc; phong cách cá nhân rõ nét không chỉ để lại ấn tượng sâu sắc cho khán giả, xây dựng kết nối cảm xúc, mà còn có thể sàng lọc ngược người dùng.
 
-### 改变商业逻辑
+### Thay đổi logic thương mại
 
-改变商业逻辑的一个例子是手办盲盒。本来可以花一份钱买齐全套的手办，以盲盒形式售卖，既增加了用户对已经获得手办的重复购买、也保持了用户对未获得手办的购买欲望。
+Một ví dụ về thay đổi logic thương mại là hộp mù mô hình figure. Vốn dĩ có thể bỏ một khoản tiền mua đủ cả bộ figure, nhưng khi bán dưới dạng hộp mù, vừa tăng việc mua lặp lại của người dùng với những figure đã có, vừa duy trì ham muốn mua của người dùng với những figure chưa có.
 
 ![](images/image-59.png)
 
-以盲盒形式售卖的手办
+Figure bán dưới dạng hộp mù
 
-创造新品类
+Tạo phân loại mới
 -----
 
-如果我们所在的优势领域不存在非标准化和弱替代性的品类，那么可以考虑创造一个新品类。「没有对比、就没有竞争」，我们不会将食物与工具进行比较，也不会拿锤子和包子进行比较，因为它们属于不同的品类。
+Nếu lĩnh vực sở trường của chúng ta không tồn tại phân loại phi tiêu chuẩn hóa và tính thay thế yếu, thì có thể cân nhắc tạo ra một phân loại mới.「Không có so sánh thì không có cạnh tranh」— chúng ta không so sánh thức ăn với công cụ, cũng không đem búa ra so với bánh bao, vì chúng thuộc những phân loại khác nhau.
 
-创建新品类最简单的方式是跨界混搭。
+Cách đơn giản nhất để tạo phân loại mới là pha trộn liên lĩnh vực.
 
-比如，我之前尝试创造了一款介于课程和游戏之间的产品《萌猫、室友、前端课》，它可以让用户在玩游戏的过程中学习一些前端开发的知识，这就属于游戏和课程的混搭型产品。
+Ví dụ, trước đây tôi từng thử tạo ra một sản phẩm nằm giữa khóa học và game tên là 《Mèo con, bạn cùng phòng, khóa học front-end》; nó cho phép người dùng học một số kiến thức phát triển front-end trong quá trình chơi game — đây chính là sản phẩm lai giữa game và khóa học.
 
 ![](images/image-61-1024x740.png)
 
-可以学习前端知识的游戏
+Game có thể học kiến thức front-end
 
-这是我曾经做过的一些比较有趣的尝试之一。它之所以特别，是因为它属于一个交叉品类，在这个品类中竞品非常少，实际上没有直接的竞争者。所以也可以认为它创造了一个品类。不过随着项目的进行，我们发现通过游戏形式准确传达大量知识内容十分困难，尤其是当需要内置一些开发环境时，复杂度极大增加，最终我们没有继续发展它。但是，这个思路是非常有意思的。
+Đây là một trong những thử nghiệm khá thú vị mà tôi từng làm. Nó đặc biệt vì thuộc một phân loại giao thoa, trong phân loại này sản phẩm cạnh tranh rất ít, thực tế không có đối thủ cạnh tranh trực tiếp. Nên cũng có thể coi là nó đã tạo ra một phân loại. Tuy nhiên, khi dự án tiến triển, chúng tôi phát hiện việc truyền đạt chính xác lượng lớn nội dung kiến thức qua hình thức game là vô cùng khó khăn, đặc biệt khi cần tích hợp sẵn môi trường phát triển thì độ phức tạp tăng lên rất nhiều, cuối cùng chúng tôi đã không tiếp tục phát triển nó. Nhưng lối tư duy này rất thú vị.
 
-需要强调的是，一个产品是否属于新品类、是否和其他产品雷同，这完全取决于用户的认知，他们只会为自己的认知买单。这也直接影响着我们如何定位、宣传和推广产品，如何通过用户的使用体验塑造他们的认知。
+Cần nhấn mạnh rằng, một sản phẩm có thuộc phân loại mới hay không, có na ná các sản phẩm khác hay không, hoàn toàn phụ thuộc vào nhận thức của người dùng — họ chỉ trả tiền cho nhận thức của chính mình. Điều này cũng ảnh hưởng trực tiếp đến cách chúng ta định vị, tuyên truyền và quảng bá sản phẩm, cách định hình nhận thức của người dùng thông qua trải nghiệm sử dụng.
