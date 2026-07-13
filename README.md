@@ -1,74 +1,76 @@
-# 《一人企业方法论》
+# 《Phương pháp luận Doanh nghiệp Một người》
 
-## Agent 技能集
+> **Ghi chú:** Đây là repo dịch tiếng Việt từ repo gốc [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) của tác giả [Easy](https://ftqq.com). Toàn bộ nội dung thuộc về tác giả gốc, phát hành theo giấy phép CC-BY-NC-SA. Xem [bảng thuật ngữ dịch](GLOSSARY.md).
 
-> 2026/04 新增
+## Bộ kỹ năng Agent
+
+> Bổ sung 2026/04
 
 ![](src/images/20260412180200.png)
 
-[技能集网站](https://opc-skills.ft07.com/) | [视频讲解](https://www.bilibili.com/video/BV1JMDQBiEjx)
- 
-## 推演沙箱
+[Website bộ kỹ năng](https://opc-skills.ft07.com/) | [Video hướng dẫn](https://www.bilibili.com/video/BV1JMDQBiEjx)
 
-1. 为了更好理解方法论，我们用 AI 构建了一个可以推演复盘的创业沙箱 —— [《方糖真实创业模拟器》](https://ft07.com/real-business-simulator/)，可以结合方法论进行策略推演，用户反馈不错。
+## Sandbox mô phỏng
 
-## 2.1 版本
+1. Để hiểu rõ hơn về phương pháp luận, chúng tôi đã dùng AI xây dựng một sandbox khởi nghiệp có thể mô phỏng và phục dựng lại quá trình — [《Trình mô phỏng khởi nghiệp thực tế Fangtang》](https://ft07.com/real-business-simulator/), có thể kết hợp với phương pháp luận để suy diễn chiến lược, phản hồi từ người dùng khá tốt.
 
-1. 补充《产品构建:从零构建软件产品或服务》相关章节
-1. 添加《基础设施及搭建》相关章节，填平从理论到实践之间的鸿沟，帮助读者更快起步
+## Phiên bản 2.1
 
-## 对第一版的改进
+1. Bổ sung các chương liên quan đến 《Xây dựng sản phẩm: Xây dựng sản phẩm hoặc dịch vụ phần mềm từ con số không》
+1. Thêm các chương về 《Hạ tầng và cách xây dựng》, lấp đầy khoảng cách từ lý thuyết đến thực hành, giúp bạn đọc khởi động nhanh hơn
 
-1. 从长文到一本近6万字的小书，从有感而发的分享到两年迭代而得的**完整方法论**
-1. 不再局限在独立开发，发展为**更为通用的方法论**，非技术读者也可创作数字商品或基于NoCode/开源项目+AI辅助构建在线服务
+## Cải tiến so với phiên bản đầu tiên
+
+1. Từ một bài viết dài thành một cuốn sách nhỏ gần 60.000 chữ, từ chia sẻ cảm hứng nhất thời thành một **phương pháp luận hoàn chỉnh** được đúc kết qua hai năm cải tiến
+1. Không còn giới hạn ở phát triển độc lập (indie dev), mà phát triển thành **phương pháp luận tổng quát hơn** — bạn đọc không chuyên kỹ thuật cũng có thể sáng tạo sản phẩm số hoặc xây dựng dịch vụ trực tuyến dựa trên NoCode/dự án mã nguồn mở + sự hỗ trợ của AI
 
 ![](./src/images/opb-book-cover-2.1.jpg)
 
-## 作者信息
+## Thông tin tác giả
 
-- 作者
+- Tác giả
     - [Easy](https://ftqq.com)
     - Email: <easychen@gmail.com>
-    - 微博：<https://weibo.com/easy>
-    - X：<https://twitter.com/easychen>
+    - Weibo: <https://weibo.com/easy>
+    - X: <https://twitter.com/easychen>
 
-## 授权说明
+## Giấy phép
 
-本书采用[CC-BY-NC-SA协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)发布。
+Cuốn sách này được phát hành theo [giấy phép CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.vi).
 
-- 您可以复制、发行、展览、表演、放映、广播或通过信息网络传播本作品，但必须署名作者并添加链接到[本书GitHub仓库](https://github.com/easychen/one-person-businesses-methodology-v2.0)。
-- 不得为商业目的而使用本作品。
-- 仅在遵守与本作品相同的许可条款下，您才能散布由本作品产生的派生作品。
+- Bạn có thể sao chép, phát hành, trưng bày, biểu diễn, trình chiếu, phát sóng hoặc truyền bá tác phẩm này qua mạng thông tin, nhưng phải ghi tên tác giả và thêm liên kết đến [kho GitHub của cuốn sách](https://github.com/easychen/one-person-businesses-methodology-v2.0).
+- Không được sử dụng tác phẩm này cho mục đích thương mại.
+- Chỉ khi tuân thủ các điều khoản giấy phép giống với tác phẩm này, bạn mới được phân phối các tác phẩm phái sinh từ tác phẩm này.
 
-## 电子书
+## Sách điện tử
 
-- 可使用 mdbook-epub 工具自行编译：`mdbook-epub --standalone true` 然后 epub 在 book 目录下
-- 下载: [点此进入](https://ft07.com/opb-book-index/)
-- 
-## 在线阅读
+- Có thể tự biên dịch bằng công cụ mdbook-epub: `mdbook-epub --standalone true`, sau đó file epub nằm trong thư mục book
+- Tải về: [bấm vào đây](https://ft07.com/opb-book-index/)
 
-1.  **定义一人企业**
-    1.  [新版方法论概述](https://ft07.com/opb-methodology-new-version-and-author?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [一人企业的定义](https://ft07.com/define-opb?mtm_campaign=github&mtm_kwd=opbmv2)
-2.  **规划一人企业**
-    1.  [底层逻辑:为什么以小博大是可能的](https://ft07.com/why-thinking-big-is-possible?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [底层逻辑:为什么规模化是可能的](https://ft07.com/why-scalability-is-possible?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [底层逻辑:资产和被动收入](https://ft07.com/assets-and-passive-income?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [底层逻辑:滚雪球和链式传播](https://ft07.com/snowballing-and-chain-propagation?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [赛道选择:一人企业如何选择赛道](https://ft07.com/race-track-selection-for-opb?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [竞争策略:不竞争策略](https://ft07.com/non-competition-strategy?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [竞争策略:结构化优势](https://ft07.com/structured-advantage?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [思考工具:《一人企业画布》和《一人企业月报》](https://ft07.com/opb-canvas-and-opb-report?mtm_campaign=github&mtm_kwd=opbmv2)
-3.  **构建一人业务**
-    1.   [一人企业≠一人业务](https://ft07.com/one-person-enterprise-does-not-equal-one-person-business?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [优势发现:副产品优势](https://ft07.com/discovery-of-by-product-advantages?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [风险评控:从副业开始](https://ft07.com/start-from-side-project?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [风险评控:管理和利用不确定性](https://ft07.com/managing-and-utilizing-uncertainty?mtm_campaign=github&mtm_kwd=opbmv2)
-    1.  [产品构建:从零构建软件产品或服务](https://ft07.com/building-software-products-or-services-from-scratch-1/)
-4.  **基础设施及搭建**
-    -   [理想的一人企业基础设施](https://ft07.com/what-is-the-ideal-one-person-business-infrastructure?mtm_campaign=github&mtm_kwd=opbmv2)
-    -   [用户池和触达能力](https://ft07.com/infrastructure-user-pool-reach-capability?mtm_campaign=github&mtm_kwd=opbmv2)
-    -   [内容池和自动化能力](https://ft07.com/content-pool-and-automation-capability?mtm_campaign=github&mtm_kwd=opbmv2)
-    -   [产品池和支付能力](https://ft07.com/product-pool-and-payment-capability?mtm_campaign=github&mtm_kwd=opbmv2)
-    -   [众包能力](https://ft07.com/crowdsourcing-capability?mtm_campaign=github&mtm_kwd=opbmv2)
-    -   [搭建一人企业基础设施](https://ft07.com/setup-a-one-person-business-infrastructure?mtm_campaign=github&mtm_kwd=opbmv2)
+## Đọc trực tuyến
+
+1.  **Định nghĩa doanh nghiệp một người**
+    1.  [Tổng quan phương pháp luận phiên bản mới](https://ft07.com/opb-methodology-new-version-and-author?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Định nghĩa doanh nghiệp một người](https://ft07.com/define-opb?mtm_campaign=github&mtm_kwd=opbmv2)
+2.  **Hoạch định doanh nghiệp một người**
+    1.  [Logic nền tảng: Vì sao lấy nhỏ thắng lớn là khả thi](https://ft07.com/why-thinking-big-is-possible?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Logic nền tảng: Vì sao mở rộng quy mô là khả thi](https://ft07.com/why-scalability-is-possible?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Logic nền tảng: Tài sản và thu nhập thụ động](https://ft07.com/assets-and-passive-income?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Logic nền tảng: Hiệu ứng quả cầu tuyết và lan truyền dây chuyền](https://ft07.com/snowballing-and-chain-propagation?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Chọn đường đua: Doanh nghiệp một người chọn đường đua như thế nào](https://ft07.com/race-track-selection-for-opb?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Chiến lược cạnh tranh: Chiến lược không cạnh tranh](https://ft07.com/non-competition-strategy?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Chiến lược cạnh tranh: Lợi thế cấu trúc](https://ft07.com/structured-advantage?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Công cụ tư duy: 《Canvas doanh nghiệp một người》 và 《Báo cáo tháng doanh nghiệp một người》](https://ft07.com/opb-canvas-and-opb-report?mtm_campaign=github&mtm_kwd=opbmv2)
+3.  **Xây dựng nghiệp vụ một người**
+    1.  [Doanh nghiệp một người ≠ nghiệp vụ một người](https://ft07.com/one-person-enterprise-does-not-equal-one-person-business?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Khám phá lợi thế: Lợi thế từ sản phẩm phụ](https://ft07.com/discovery-of-by-product-advantages?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Kiểm soát rủi ro: Bắt đầu từ side project](https://ft07.com/start-from-side-project?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Kiểm soát rủi ro: Quản lý và tận dụng tính bất định](https://ft07.com/managing-and-utilizing-uncertainty?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [Xây dựng sản phẩm: Xây dựng sản phẩm hoặc dịch vụ phần mềm từ con số không](https://ft07.com/building-software-products-or-services-from-scratch-1/)
+4.  **Hạ tầng và cách xây dựng**
+    -   [Hạ tầng lý tưởng cho doanh nghiệp một người](https://ft07.com/what-is-the-ideal-one-person-business-infrastructure?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [User pool và năng lực tiếp cận](https://ft07.com/infrastructure-user-pool-reach-capability?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [Content pool và năng lực tự động hóa](https://ft07.com/content-pool-and-automation-capability?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [Product pool và năng lực thanh toán](https://ft07.com/product-pool-and-payment-capability?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [Năng lực crowdsourcing](https://ft07.com/crowdsourcing-capability?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [Xây dựng hạ tầng doanh nghiệp một người](https://ft07.com/setup-a-one-person-business-infrastructure?mtm_campaign=github&mtm_kwd=opbmv2)
