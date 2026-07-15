@@ -47,6 +47,10 @@ Cuốn sách này được phát hành theo [giấy phép CC-BY-NC-SA](https://c
 - Có thể tự biên dịch bằng công cụ mdbook-epub: `mdbook-epub --standalone true`, sau đó file epub nằm trong thư mục book
 - Tải về: [bấm vào đây](https://ft07.com/opb-book-index/)
 
+## Mục lục
+
+Xem [mục lục đầy đủ (SUMMARY)](src/SUMMARY.md).
+
 ## Đọc trực tuyến
 
 1.  **Định nghĩa doanh nghiệp một người**
